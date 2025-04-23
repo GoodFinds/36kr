@@ -92,7 +92,7 @@ jobs:
           git push origin HEAD || (git pull --rebase && git push origin HEAD)
           
       - name: Archive crawling results
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: 36kr-news-data
           path: ./data/
