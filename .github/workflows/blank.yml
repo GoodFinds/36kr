@@ -1,10 +1,10 @@
 name: 36Kr News Crawler
-
 on:
   schedule:
-    # 每天凌晨1点运行 (UTC时间，对应北京时间9点)
-    - cron: '0 1 * * *'
-  # 也允许手动触发工作流
+    # Run 4 times per day: at 1:00, 7:00, 13:00, and 19:00 UTC
+    # (corresponding to 9:00, 15:00, 21:00, and 3:00 Beijing time)
+    - cron: '0 1,7,13,19 * * *'
+  # Also allow manual triggering of workflow
   workflow_dispatch:
     inputs:
       days_ago:
@@ -28,11 +28,9 @@ on:
         required: true
         default: '100'
         type: string
-
-# 添加权限配置
+# Add permission configuration
 permissions:
   contents: write
-
 jobs:
   crawl-36kr:
     runs-on: ubuntu-latest
@@ -54,45 +52,45 @@ jobs:
       - name: Run crawler (scheduled)
         if: github.event_name == 'schedule'
         run: |
-          # 创建数据目录
+          # Create data directory
           mkdir -p ./data
-          # 抓取昨天的新闻(为确保一天的新闻都已发布完成)
+          # Crawl yesterday's news (to ensure a full day's news has been published)
           python 36kr.py --days 1 --pages 10 --size 100 --dir ./data
           
       - name: Run crawler (manual)
         if: github.event_name == 'workflow_dispatch'
         run: |
-          # 创建数据目录
+          # Create data directory
           mkdir -p ./data
-          # 使用用户输入的参数
+          # Use user-provided parameters
           python 36kr.py --days ${{ github.event.inputs.days_ago }} --pages ${{ github.event.inputs.max_pages }} --size ${{ github.event.inputs.page_size }} --dir ./data
           
       - name: Push to data branch
-        # 将结果推送到专门的data分支
+        # Push results to dedicated data branch
         run: |
-          # 配置Git
+          # Configure Git
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
           
-          # 创建时间戳目录防止冲突
+          # Create timestamp directory to prevent conflicts
           TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
           mkdir -p ./archive/$TIMESTAMP
           cp -r ./data/* ./archive/$TIMESTAMP/
           
-          # 添加README如果不存在
+          # Add README if it doesn't exist
           if [ ! -f README.md ]; then
             echo "# 36氪新闻数据" > README.md
             echo "此仓库通过GitHub Actions自动抓取36氪网站的最新新闻。" >> README.md
-            echo "数据每天自动更新。" >> README.md
+            echo "数据每天自动更新4次 (北京时间9点, 15点, 21点, 和次日3点)。" >> README.md
           fi
           
-          # 添加所有更改
+          # Add all changes
           git add ./data ./archive README.md
           
-          # 提交更改
+          # Commit changes
           git commit -m "Update 36kr news data: $TIMESTAMP" || echo "No changes to commit"
           
-          # 推送到原分支
+          # Push to original branch
           git push origin HEAD || (git pull --rebase && git push origin HEAD)
           
       - name: Archive crawling results
