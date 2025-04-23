@@ -29,6 +29,10 @@ on:
         default: '100'
         type: string
 
+# 添加权限配置
+permissions:
+  contents: write
+
 jobs:
   crawl-36kr:
     runs-on: ubuntu-latest
