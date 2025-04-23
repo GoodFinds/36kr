@@ -53,7 +53,7 @@ jobs:
           # 创建数据目录
           mkdir -p ./data
           # 抓取昨天的新闻(为确保一天的新闻都已发布完成)
-          python kr36_crawler.py --days 1 --pages 10 --size 100 --dir ./data
+          python 36kr.py --days 1 --pages 10 --size 100 --dir ./data
           
       - name: Run crawler (manual)
         if: github.event_name == 'workflow_dispatch'
@@ -61,7 +61,7 @@ jobs:
           # 创建数据目录
           mkdir -p ./data
           # 使用用户输入的参数
-          python kr36_crawler.py --days ${{ github.event.inputs.days_ago }} --pages ${{ github.event.inputs.max_pages }} --size ${{ github.event.inputs.page_size }} --dir ./data
+          python 36kr.py --days ${{ github.event.inputs.days_ago }} --pages ${{ github.event.inputs.max_pages }} --size ${{ github.event.inputs.page_size }} --dir ./data
           
       - name: Push to data branch
         # 将结果推送到专门的data分支
