@@ -1,0 +1,364 @@
+{
+  "date": "2025-04-24",
+  "total": 35,
+  "categories": {
+    "科技": 13,
+    "推荐": 10,
+    "城市": 2,
+    "消费": 8,
+    "职场": 1,
+    "其他": 1
+  },
+  "news": [
+    {
+      "title": "广东深圳前海冲出一家半导体IPO，市值近330亿，为中国最大独立存储器厂商",
+      "summary": "2024年扭亏",
+      "category": "科技",
+      "theme": "创投圈秘事",
+      "publishTime": 1745460408937,
+      "author": "格隆汇新股",
+      "image": "https://img.36krcdn.com/hsossms/20250424/v2_96c5d890b78a4c6297798d27b5ae192e@1743780481_oswg861384oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3263485704388360"
+    },
+    {
+      "title": "银行再次调高黄金起购金额，金价冲高之后“跳水”了",
+      "summary": "金价暴跌近200美元，银行积存金门槛调高超20%。",
+      "category": "科技",
+      "theme": "创投圈秘事",
+      "publishTime": 1745460388508,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250424/v2_b07e6f5e83e94a13976fbf8f449b4239@1743780481_oswg782481oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3263491501244546"
+    },
+    {
+      "title": "特斯拉一季度净利率只剩2%，马斯克决定少在政界蹦哒了",
+      "summary": "马斯克要回特斯拉救火了。",
+      "category": "推荐",
+      "theme": "“钢铁侠”马斯克",
+      "publishTime": 1745460368868,
+      "author": "知危",
+      "image": "https://img.36krcdn.com/hsossms/20250424/v2_268359f0ab9841539bcaa83072baa913@1743780481_oswg802829oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3263481521438855"
+    },
+    {
+      "title": "苹果做不好体育？",
+      "summary": "苹果与MLS，一次两败俱伤的合作。",
+      "category": "推荐",
+      "theme": "王者苹果？",
+      "publishTime": 1745460343018,
+      "author": "体育产业生态圈",
+      "image": "https://img.36krcdn.com/hsossms/20250424/v2_10596e08260b48839c0184eed9add436@1743780481_oswg705015oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3263478777151618"
+    },
+    {
+      "title": "刘强东盯上的外卖赛道，究竟是不是红海一片",
+      "summary": "京东美团外卖大战",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1745460302455,
+      "author": "贝克街探案官",
+      "image": "https://img.36krcdn.com/hsossms/20250423/v2_f749f065832145d78e2d6ff7bfb9d163@000000_oswg467840oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3262811580792963"
+    },
+    {
+      "title": "抵御认知熵增，2025年，我们需要多少书？",
+      "summary": "《2025职场人阅读报告》发布！",
+      "category": "推荐",
+      "theme": "36氪领读",
+      "publishTime": 1745460270516,
+      "author": "36氪领读",
+      "image": "https://img.36krcdn.com/hsossms/20250424/v2_0a4d7b3624134736ae38c0f31c930274@000000_oswg40744oswg988oswg420_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3263499282087686"
+    },
+    {
+      "title": "金地集团管理层：公司已度过偿债高峰",
+      "summary": "金地方面表示，2025年将继续关注位于核心城市的投资机会，择机补充优质土地储备。",
+      "category": "城市",
+      "theme": "未来地产",
+      "publishTime": 1745459798747,
+      "author": "未来城不落",
+      "image": "https://img.36krcdn.com/hsossms/20250424/v2_62e4ba3684b340468c7a1210fdc7ef43@337187376_oswg1022234oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3263487526518916"
+    },
+    {
+      "title": "4月全国新房市场出现一些微妙变化",
+      "summary": "新房成交增长动能转弱",
+      "category": "城市",
+      "theme": "未来地产",
+      "publishTime": 1745459415387,
+      "author": "丁祖昱评楼市",
+      "image": "https://img.36krcdn.com/hsossms/20250424/v2_6046ff0278f8462dbddbea0e0eae5bf0@337187376_oswg362816oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3263481968148611"
+    },
+    {
+      "title": "百度快手加码，大厂“短剧军备赛”白热化",
+      "summary": "短剧也该迎来下半场",
+      "category": "消费",
+      "theme": "产业互联网",
+      "publishTime": 1745458787794,
+      "author": "娱乐独角兽",
+      "image": "https://img.36krcdn.com/hsossms/20250423/v2_0d6d9856840b4cf2a4f4153100a9c3e9@1743780481_oswg932350oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3262763612258438"
+    },
+    {
+      "title": "反常规、拼粉丝、年番综，内娱剧宣还有什么新招数？",
+      "summary": "由“空降”衍生的反常规宣发",
+      "category": "消费",
+      "theme": "文娱直播新动向",
+      "publishTime": 1745458769898,
+      "author": "犀牛娱乐",
+      "image": "https://img.36krcdn.com/hsossms/20250423/v2_a7ddce151f8c46009a41ffe35fa41494@000000_oswg398400oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3262760569012355"
+    },
+    {
+      "title": "接替Manus，字节的Agent王牌能打多久？",
+      "summary": "“扣子空间”的诞生，是大厂在智能体路线上的一次“纠偏”。",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1745458758261,
+      "author": "光锥智能",
+      "image": "https://img.36krcdn.com/hsossms/20250423/v2_28faf4ebd4ff42cc8a7c74ede82e428a@000000_oswg35183oswg1080oswg459_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3262759959494405"
+    },
+    {
+      "title": "因为分级从12+到16+，鸣潮的海外的玩家吵疯了",
+      "summary": "《鸣潮》2.3版本引玩家不满，评级变动凸显各国分级制度差异。",
+      "category": "消费",
+      "theme": "游戏圈大事件",
+      "publishTime": 1745458727792,
+      "author": "游戏价值论",
+      "image": "https://img.36krcdn.com/hsossms/20250423/v2_21e7ccbc9c5e424695b19aae33e29888@1743780481_oswg850339oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3262773311438595"
+    },
+    {
+      "title": "持牌消费金融公司2024业绩：4家营收超百亿，三巨头业务有一共同点",
+      "summary": "详解蚂蚁、招联、马上主要产品",
+      "category": "科技",
+      "theme": "金融科技",
+      "publishTime": 1745458714198,
+      "author": "一只互金鹅",
+      "image": "https://img.36krcdn.com/hsossms/20250423/v2_4600fa42bee542aca993db10cfea6657@1743780481_oswg912771oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3262782853670401"
+    },
+    {
+      "title": "国产首仿药能否解ADHD药物紧缺难题？",
+      "summary": "专注达持续缺货，国产仿制药获批上市，西安杨森转移包装工序。",
+      "category": "科技",
+      "theme": "医疗健康",
+      "publishTime": 1745458690634,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250424/v2_abe2fbf90bb34fed95fc463fe31e257c@1743780481_oswg678542oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3263447608180489"
+    },
+    {
+      "title": "个人养老金Y份额一季度成绩单出炉，总规模突破110亿",
+      "summary": "个人养老金Y份额规模破百亿，FOF为主力，指数增4倍。",
+      "category": "科技",
+      "theme": "创投圈秘事",
+      "publishTime": 1745458673056,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250424/v2_d9c02b92d97a48968d6b92a8b27a9adf@1743780481_oswg774432oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3263446660513921"
+    },
+    {
+      "title": "46人撬动11亿营收，泰国“三无公司”如何血洗中国椰子水市场？",
+      "summary": "椰子水冲击港交所",
+      "category": "消费",
+      "theme": "食品饮料",
+      "publishTime": 1745458652781,
+      "author": "剁椒Spicy",
+      "image": "https://img.36krcdn.com/hsossms/20250424/v2_b09754d8988f4c04ab4df360d0b3d3c2@1743780481_oswg966543oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3263448997249153"
+    },
+    {
+      "title": "特朗普芯片梦碎，英特尔2纳米芯片将外包给台积电生产",
+      "summary": "英特尔外包台积电2nm产Nova Lake，18A工艺引质疑。",
+      "category": "科技",
+      "theme": "芯片领域新鲜事",
+      "publishTime": 1745457139078,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250424/v2_902ff23a96fe4823a235656f793b060f@1743780481_oswg882220oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3263428370006146"
+    },
+    {
+      "title": "“济南前首富”操刀“力诺系”36亿资本腾挪",
+      "summary": "“力诺系”左手倒右手？",
+      "category": "科技",
+      "theme": "创投圈秘事",
+      "publishTime": 1745457124719,
+      "author": "野马财经",
+      "image": "https://img.36krcdn.com/hsossms/20250424/v2_ab7c8d82b4b54a4c80db908bc40f7e5c@1743780481_oswg837022oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3263432773091075"
+    },
+    {
+      "title": "重仓人形机器人和AI的次新基金亏钱了？",
+      "summary": "次新基金亏损近20%，人形机器人/AI回调，医药消费逆势涨",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1745457090398,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250424/v2_9724827a9a7446b0b5bd4c9ab71052f6@1743780481_oswg794765oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3263442751389442"
+    },
+    {
+      "title": "2025大阪世博会如何造星吉祥物",
+      "summary": "黑红也是红",
+      "category": "职场",
+      "theme": "营销广告人又干什么了",
+      "publishTime": 1745457079366,
+      "author": "窄播",
+      "image": "https://img.36krcdn.com/hsossms/20250424/v2_f8c72ed5f3f04674951032a1e39e553e@1743780481_oswg845814oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3263438154333957"
+    },
+    {
+      "title": "“梅”开二度IPO，“没事就吃”的溜溜梅“离开”杨幂年入16亿",
+      "summary": "一年卖掉20亿颗青梅。",
+      "category": "科技",
+      "theme": "创投圈秘事",
+      "publishTime": 1745457064352,
+      "author": "野马财经",
+      "image": "https://img.36krcdn.com/hsossms/20250424/v2_f1fe97f3ad0b40f7b3f6671f229aa04e@1743780481_oswg1029135oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3263431358283520"
+    },
+    {
+      "title": "交大系进军汽车大模型",
+      "summary": "弋途科技获数千万融资，推汽车AI系统布局AGI。",
+      "category": "科技",
+      "theme": "创投圈秘事",
+      "publishTime": 1745457044801,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250424/v2_3ed01fc50f204a74a1c4e6ea8d398269@1743780481_oswg868553oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3263429600984835"
+    },
+    {
+      "title": "“AI耳机”终端争夺战正加速打响",
+      "summary": "AI耳机升级智能终端，厂商竞逐，2024市场激增7倍。",
+      "category": "消费",
+      "theme": "消费电子",
+      "publishTime": 1745457025664,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250424/v2_44f868201d72446cb5217d7fa0f29925@1743780481_oswg880428oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3263425127792393"
+    },
+    {
+      "title": "营收超百亿元，中国最大的自营海外仓完成数千万美元C轮融资｜36氪首发",
+      "summary": "是当前中国最大的自营海外仓运营商和跨境供应链综合服务商之一。",
+      "category": "推荐",
+      "theme": "36氪首发",
+      "publishTime": 1745456400721,
+      "author": "张子怡Leslie",
+      "image": "https://img.36krcdn.com/hsossms/20250423/v2_de558bb7aae34e189338bebd28849745@5836910_oswg170143oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3262849695235846"
+    },
+    {
+      "title": "太好了，仅退款基本完蛋了",
+      "summary": "我还没用过仅退款呢。",
+      "category": "消费",
+      "theme": "电商零售",
+      "publishTime": 1745455739515,
+      "author": "差评",
+      "image": "https://img.36krcdn.com/hsossms/20250424/v2_ad8212c2904242fdae601d7941fc92af@1743780481_oswg879645oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3263407279358083"
+    },
+    {
+      "title": "特朗普“断粮”，藤校要有大麻烦？坐拥532亿美元基金的哈佛，被22亿美元拨款逼急了，耶鲁大学直接85折甩卖资产套现",
+      "summary": "哈佛起诉特朗普政府，耶鲁抛售60亿美元私募资产",
+      "category": "推荐",
+      "theme": "互联网新鲜事",
+      "publishTime": 1745455716178,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250424/v2_3bf3be17630c4c219bbb64bbab0da6e4@1743780481_oswg927764oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3263402024501001"
+    },
+    {
+      "title": "绿茶餐厅通过港交所聆讯，已开设489家餐厅，2024年收入超38亿元",
+      "summary": "中国内地休闲中式餐厅品牌中排名第三，今年将开设150家新餐厅",
+      "category": "推荐",
+      "theme": "创投圈秘事",
+      "publishTime": 1745455692275,
+      "author": "独角兽早知道",
+      "image": "https://img.36krcdn.com/hsossms/20250424/v2_162d34f5eca94ce7ac690ae4967029c0@1743780481_oswg957600oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3263401346219785"
+    },
+    {
+      "title": "沪上阿姨通过港交所聆讯，全国门店数量达9176家，2024年收入32.85亿元",
+      "summary": "深度渗透下沉市场，三线及以下城市门店占比超五成",
+      "category": "推荐",
+      "theme": "创投圈秘事",
+      "publishTime": 1745455668632,
+      "author": "独角兽早知道",
+      "image": "https://img.36krcdn.com/hsossms/20250424/v2_529264ec61d54a03a29cc5f7da3aba81@1743780481_oswg899311oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3263400722743043"
+    },
+    {
+      "title": "对抗衰老，生活方式比DNA更有话语权",
+      "summary": "关于健康的三则研究",
+      "category": "科技",
+      "theme": "医疗健康",
+      "publishTime": 1745455640796,
+      "author": "红杉汇",
+      "image": "https://img.36krcdn.com/hsossms/20250424/v2_93ad610f6ffd4497b7e917959eee4f63@000000_oswg292865oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3263384500879489"
+    },
+    {
+      "title": "北京胡同里的最强小户型：30㎡改出8间房，住下一家六口",
+      "summary": "北京30㎡四室一厅vs福州千平土楼，六口之家极致改造幸福同。",
+      "category": "消费",
+      "theme": "新生活LIFESTYLE",
+      "publishTime": 1745455624198,
+      "author": "一条",
+      "image": "https://img.36krcdn.com/hsossms/20250424/v2_228b650483b041fa92c3a536d55fd55f@000000_oswg370377oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3263382019424006"
+    },
+    {
+      "title": "中产家长“挤爆”儿科，身高焦虑让药企年入百亿",
+      "summary": "在身高问题上，“及格”不是标准，超出平均值也仅能称得上“达到预期”。如果可以，谁都希望自己的孩子是人群中高挑、挺拔的那个。",
+      "category": "推荐",
+      "theme": "焦点分析",
+      "publishTime": 1745454658652,
+      "author": "胡香赟",
+      "image": "https://img.36krcdn.com/hsossms/20250422/v2_7710b9a55409499c9fa11be1a034af51@5930287_oswg883392oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3260764453290120"
+    },
+    {
+      "title": "「核心医疗」获超1亿美元D轮融资，累计完成700余例人工心脏植入手术｜36氪首发",
+      "summary": "欧洲出海规划稳步进行中。",
+      "category": "推荐",
+      "theme": "36氪首发",
+      "publishTime": 1745454479993,
+      "author": "胡香赟",
+      "image": "https://img.36krcdn.com/hsossms/20250423/v2_2ba5d95710e546c49969854fd9857df1@5930287_oswg895329oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3262550541287560"
+    },
+    {
+      "title": "车企的“双面游戏”决定了驾驶舱内的生死",
+      "summary": "电芯安全，电池才能安全",
+      "category": "科技",
+      "theme": "新能源车",
+      "publishTime": 1745453195641,
+      "author": "新能源观察家",
+      "image": "https://img.36krcdn.com/hsossms/20250423/v2_99585258faa04e1692e897e9f49e24d9@1743780481_oswg817804oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3262670633968901"
+    },
+    {
+      "title": "让我们来治愈一下《黑镜》带来的致郁",
+      "summary": "我们还能够想象一个技术乐观的世界么？",
+      "category": "消费",
+      "theme": "文娱直播新动向",
+      "publishTime": 1745452813389,
+      "author": "果壳",
+      "image": "https://img.36krcdn.com/hsossms/20250423/v2_1b39ece83bff460fa320ba42987bd60e@000000_oswg444833oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3262679639638152"
+    },
+    {
+      "title": "再也不用到处找信息了！可以实现个股信息自动汇集",
+      "summary": "为您精选专业观点，洞察全网舆情事件",
+      "category": "其他",
+      "theme": "其他",
+      "publishTime": 1745452800989,
+      "author": "氪星实验室",
+      "image": "https://img.36krcdn.com/hsossms/20250416/v2_bad487f5c1f5499eb36c3b344a106e20@6091023_oswg81872oswg600oswg400_img_png",
+      "url": "https://36kr.com/detail_article?itemId=3252291452510469"
+    }
+  ]
+}
