@@ -1,9 +1,8 @@
 name: 36Kr News Crawler
 on:
   schedule:
-    # Run 4 times per day: at 1:00, 7:00, 13:00, and 19:00 UTC
-    # (corresponding to 9:00, 15:00, 21:00, and 3:00 Beijing time)
-    - cron: '0 1,7,13,19 * * *'
+    # Run once every hour
+    - cron: '0 * * * *'
   # Also allow manual triggering of workflow
   workflow_dispatch:
     inputs:
@@ -81,7 +80,7 @@ jobs:
           if [ ! -f README.md ]; then
             echo "# 36氪新闻数据" > README.md
             echo "此仓库通过GitHub Actions自动抓取36氪网站的最新新闻。" >> README.md
-            echo "数据每天自动更新4次 (北京时间9点, 15点, 21点, 和次日3点)。" >> README.md
+            echo "数据每小时自动更新一次。" >> README.md
           fi
           
           # Add all changes
