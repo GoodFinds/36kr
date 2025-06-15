@@ -1,0 +1,213 @@
+{
+  "date": "2025-06-01",
+  "total": 20,
+  "categories": {
+    "科技": 3,
+    "推荐": 14,
+    "未分类": 1,
+    "其他": 1,
+    "职场": 1
+  },
+  "news": [
+    {
+      "title": "苹果首次收购游戏公司，iPhone 能抢 Switch 的饭碗吗",
+      "summary": "苹果大改游戏中心。",
+      "category": "科技",
+      "theme": "王者苹果？",
+      "publishTime": 1748821940000,
+      "author": "爱范儿",
+      "image": "https://img.36krcdn.com/hsossms/20250602/v2_6b9f0e7a41784052a9e0351ddc6bb1f1@1200352198_oswg420127oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3317417352734985"
+    },
+    {
+      "title": "70亿，顶流口红被卖了",
+      "summary": "消费并购缩影。",
+      "category": "科技",
+      "theme": "创投圈秘事",
+      "publishTime": 1748821251000,
+      "author": "投资界",
+      "image": "https://img.36krcdn.com/hsossms/20250601/v2_b39b13a2173a4ab092ef7bfb6c822160@000000_oswg302649oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3317611726317825"
+    },
+    {
+      "title": "“年纪轻轻全款拿下肯德基相机和麦当劳跑车”，餐饮巨头们咋哄得打工人疯抢儿童餐？",
+      "summary": "儿童节快乐。",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1748819231000,
+      "author": "Vista氢商业",
+      "image": "https://img.36krcdn.com/hsossms/20250601/v2_6901496ac46f43e9b6ba4bead31e7b22@000000_oswg44120oswg1080oswg459_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3317443886442759"
+    },
+    {
+      "title": "构筑汽车产业新生态引力场，2025粤港澳大湾区车展开幕",
+      "summary": "26万平方米创新舞台，聚焦“科技、未来、市场”，引领汽车产业智能化、生态化变革。",
+      "category": "未分类",
+      "theme": "商业策划",
+      "publishTime": 1748784452615,
+      "author": "36氪品牌",
+      "image": "https://img.36krcdn.com/hsossms/20250601/v2_f5fd5bc2ddfd467fa8fc0cc2e6dc9696@6026234_oswg957023oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3317928461330947"
+    },
+    {
+      "title": "放弃“阿里”之名：阿里拆墙，虎鲸文娱“建房”？",
+      "summary": "或许是一个破釜沉舟的开始",
+      "category": "其他",
+      "theme": "文娱直播新动向",
+      "publishTime": 1748770200000,
+      "author": "互联网江湖",
+      "image": "https://img.36krcdn.com/hsossms/20250601/v2_c89faf7e4e944bdba5992eb820c1eea5@5595930_oswg875300oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3315163160013317"
+    },
+    {
+      "title": "ASCO见证：中国创新药冲击全球第一梯队",
+      "summary": "73项中国研究以口头报告形式亮相2025 ASCO。",
+      "category": "推荐",
+      "theme": "医疗服务",
+      "publishTime": 1748763000000,
+      "author": "动脉网",
+      "image": "https://img.36krcdn.com/hsossms/20250601/v2_6af3caa38d304a10bf50fd001d4ce904@000000_oswg288594oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3317172619667719"
+    },
+    {
+      "title": "永辉还没“变胖”，名创却快“挤不出奶”了",
+      "summary": "钱袋子越来越瘪，花钱的地方越来越多。",
+      "category": "推荐",
+      "theme": "新零售的新发展",
+      "publishTime": 1748761200000,
+      "author": "字母榜",
+      "image": "https://img.36krcdn.com/hsossms/20250524/v2_5f70b4805f864e24858dc015bb90d6b4@000000_oswg278332oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3306451879811590"
+    },
+    {
+      "title": "健合集团“首亏”背后    起底保健品巨头的“前世今生”",
+      "summary": "不少母婴论坛上，一些已经为人父母的80后、90后对合生元进行“考古”，回忆小时候吃益生菌的经历、询问该品牌是否还存在。",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1748759400000,
+      "author": "投资者网",
+      "image": "https://img.36krcdn.com/hsossms/20250531/v2_c18777a22c4e47ca8f16cc16cdb2f251@5569193_oswg87495oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3316592696501504"
+    },
+    {
+      "title": "日销破百万！00后捧红“微醺神器”，带火43岁河南老厂牌",
+      "summary": "千亿微醺经济，如今卷土重来。",
+      "category": "推荐",
+      "theme": "其他",
+      "publishTime": 1748755800000,
+      "author": "天下网商",
+      "image": "https://img.36krcdn.com/hsossms/20250531/v2_4b68b56693e74d3a80e874f818d1efc0@5595930_oswg878463oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3316528221891072"
+    },
+    {
+      "title": "7亿！两家助听器企业合并",
+      "summary": "非处方助听器带来新的市场机遇",
+      "category": "推荐",
+      "theme": "医疗服务",
+      "publishTime": 1748754000000,
+      "author": "动脉网",
+      "image": "https://img.36krcdn.com/hsossms/20250531/v2_7fd623e9ce6c4bfe9a56e43e98992332@000000_oswg273193oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3315758006233609"
+    },
+    {
+      "title": "中国公司全球化周报｜霸王茶姬Q1海外市场GMV大增85%/快手海外业务首次季度盈利",
+      "summary": "聚焦中国公司全球化大事、提供世界各地最新创投新闻；36氪出海致力于消除信息差，让读者将本周最值得关注的大事件尽收眼底。",
+      "category": "推荐",
+      "theme": "出海是门大生意",
+      "publishTime": 1748750400000,
+      "author": "36氪出海",
+      "image": "https://img.36krcdn.com/hsossms/20250531/v2_836b4501692b44edbd9257e273337d17@11918142_oswg137560oswg600oswg400_img_png",
+      "url": "https://36kr.com/detail_article?itemId=3315973238892802"
+    },
+    {
+      "title": "九年老将回归，能否再现雅诗兰黛彩妆辉煌？",
+      "summary": "老将回归，雅诗兰黛彩妆能否回血？",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1748750400000,
+      "author": "聚美丽",
+      "image": "https://img.36krcdn.com/hsossms/20250531/v2_30b31593f12f47ffaa14d920b5736ef8@000000_oswg279068oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3316432491768320"
+    },
+    {
+      "title": "不卷“一口价”后，植发生意该怎么做？｜最前线",
+      "summary": "不能再卷“价格战”了。",
+      "category": "推荐",
+      "theme": "最前线",
+      "publishTime": 1748747043243,
+      "author": "胡香赟",
+      "image": "https://img.36krcdn.com/hsossms/20250530/v2_c62c81daf638465db09dc473c7f736fe@5930287_oswg792913oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3314520982595587"
+    },
+    {
+      "title": "估值600多亿，马斯克的超级独角兽又融资了",
+      "summary": "9年成长为超级独角兽。",
+      "category": "推荐",
+      "theme": "创投新闻",
+      "publishTime": 1748746800000,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250531/v2_32af6ef661804844b401e0491f2f4d30@000000_oswg322569oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3315871739750662"
+    },
+    {
+      "title": "解读今年前4个月的医保账本：当期结余3000亿，生育保险支出增长22%",
+      "summary": "医保收支相对平衡",
+      "category": "推荐",
+      "theme": "医疗服务",
+      "publishTime": 1748745000000,
+      "author": "时代周报",
+      "image": "https://img.36krcdn.com/hsossms/20250531/v2_5e31f2d81d104361a18587325db87a31@5595930_oswg873236oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3315949206415625"
+    },
+    {
+      "title": "无人再谈AI六小龙",
+      "summary": "江湖只剩四小强。",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1748743200000,
+      "author": "字母榜",
+      "image": "https://img.36krcdn.com/hsossms/20250531/v2_a3975ea9c03e41a2874068faf72d7c96@000000_oswg37927oswg940oswg399_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3316013463266566"
+    },
+    {
+      "title": "「假期贫困」的打工人，爱上周末48小时「极限出国游」",
+      "summary": "“旅游也是爱好，爱好哪有不烧钱的？”",
+      "category": "职场",
+      "theme": "后浪研究所",
+      "publishTime": 1748741445379,
+      "author": "后浪研究所",
+      "image": "https://img.36krcdn.com/hsossms/20250530/v2_a89727e5b93e43afa9505d659d5ba1ee@000000_oswg104819oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3314797112960770"
+    },
+    {
+      "title": "称霸高铁的“国民下饭菜”，为何年轻人咽不下去了？",
+      "summary": "中国最“上瘾”的高铁小吃",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1748741400000,
+      "author": "金错刀",
+      "image": "https://img.36krcdn.com/hsossms/20250531/v2_83155f18b8b245cd8130c61617d9342e@000000_oswg400520oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3316070574287365"
+    },
+    {
+      "title": "毛利率超82%，林清轩冲刺港股IPO",
+      "summary": "服装巨头雅戈尔也入股。",
+      "category": "推荐",
+      "theme": "港股前哨",
+      "publishTime": 1748739237085,
+      "author": "时代财经",
+      "image": "https://img.36krcdn.com/hsossms/20250531/v2_2358bc0ac07d4470a61b32902974610c@000000_oswg298393oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3316293321681157"
+    },
+    {
+      "title": "这6本书能帮你从痛苦中成长",
+      "summary": "除了当下的现实，别无其他现实。",
+      "category": "推荐",
+      "theme": "神译局",
+      "publishTime": 1748736042603,
+      "author": "神译局",
+      "image": "https://img.36krcdn.com/hsossms/20250510/v2_9ba10b266f57411f9cc52d4e1b6c5aa4@5382598_oswg85101oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3286811187667843"
+    }
+  ]
+}
