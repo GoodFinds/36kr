@@ -1,0 +1,143 @@
+{
+  "date": "2025-06-16",
+  "total": 13,
+  "categories": {
+    "消费": 2,
+    "推荐": 5,
+    "科技": 3,
+    "财经": 2,
+    "红人": 1
+  },
+  "news": [
+    {
+      "title": "潮玩线上渗透暴增，下一个风口是AI和男性经济？",
+      "summary": "品类增速快，全靠车头带",
+      "category": "消费",
+      "theme": "关于消费的一切",
+      "publishTime": 1750118077810,
+      "author": "沥金",
+      "image": "https://img.36krcdn.com/hsossms/20250616/v2_9ef29866792f40b8b28c0aacc8e4395c@1743780481_oswg920064oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3339173082899975"
+    },
+    {
+      "title": "张雪峰是人生路上的收费站",
+      "summary": "高考门前是非多",
+      "category": "推荐",
+      "theme": "叁氪观察",
+      "publishTime": 1750117707487,
+      "author": "远川研究所",
+      "image": "https://img.36krcdn.com/hsossms/20250616/v2_c797477469af49ccbdb3e28607a2e01e@000000_oswg333357oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3339182563456773"
+    },
+    {
+      "title": "潮流消费的最终解：不是谁更潮，而是谁更会交易",
+      "summary": "趋势和利润，才是卖家选择平台的核心",
+      "category": "消费",
+      "theme": "关于消费的一切",
+      "publishTime": 1750117354079,
+      "author": "深潜atom",
+      "image": "https://img.36krcdn.com/hsossms/20250616/v2_85ae48b7e0f34a8a8bb287371ab06d52@000000_oswg430084oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3339115773376000"
+    },
+    {
+      "title": "大模型“六小虎”人事动荡，半年12位高管离职",
+      "summary": "百川智能、零一万物、智谱核心高管出走，京东悄悄挖人。",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1750117328790,
+      "author": "智东西",
+      "image": "https://img.36krcdn.com/hsossms/20250616/v2_cd5e542620ec447f878d09d2333ab1de@000000_oswg359309oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3339149968569857"
+    },
+    {
+      "title": "公募变天，这些人的躺赚时代终结了",
+      "summary": "新一轮洗牌才刚开始。",
+      "category": "财经",
+      "theme": "基金动态",
+      "publishTime": 1750117326293,
+      "author": "市值观察",
+      "image": "https://img.36krcdn.com/hsossms/20250616/v2_a6d6cf47dd9747efbf68fd7db9a29968@000000_oswg300172oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3339119443309828"
+    },
+    {
+      "title": "在中国做AI难，做AI Agent容易",
+      "summary": "基础层“炼AI”难，应用层“做Agent”易。",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1750116972818,
+      "author": "混沌学园",
+      "image": "https://img.36krcdn.com/hsossms/20250616/v2_de27a839cb054e2188aea73740077daa@000000_oswg283467oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3339116724286980"
+    },
+    {
+      "title": "数读4-5月大剧招商：从《蛮好》《折腰》《藏海传》，看见IP商业价值",
+      "summary": "古装、悬疑、都市剧IP商业价值大战，谁在领跑？",
+      "category": "推荐",
+      "theme": "文娱直播新动向",
+      "publishTime": 1750116649704,
+      "author": "娱乐独角兽",
+      "image": "https://img.36krcdn.com/hsossms/20250616/v2_a65a432665ff46cca34e901b99219e25@1743780481_oswg986846oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3339135239943428"
+    },
+    {
+      "title": "中国跑出一个电算帝国",
+      "summary": "左手绿电，右手算力。",
+      "category": "推荐",
+      "theme": "产业观察",
+      "publishTime": 1750116252546,
+      "author": "华商韬略",
+      "image": "https://img.36krcdn.com/hsossms/20250616/v2_f18e77cb6d9a48ee9f136b050bd991d5@000000_oswg317168oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3339124744746242"
+    },
+    {
+      "title": "从\"工具人\"到\"数字队友\"：AI协作革命的最后一公里",
+      "summary": "从数字工具到数字队友的进化之路",
+      "category": "推荐",
+      "theme": "神译局",
+      "publishTime": 1750115552461,
+      "author": "神译局",
+      "image": "https://img.36krcdn.com/hsossms/20250527/v2_f14e7ff3f96b4d928634284b56fcf3a3@1694_oswg865530oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3310249424772613"
+    },
+    {
+      "title": "增长空间扩容：万达电影发布1+2+5战略版图",
+      "summary": "万达电影发布五大核心业务，战投、潮玩、游戏焕新亮相。",
+      "category": "推荐",
+      "theme": "未来地产",
+      "publishTime": 1750085101860,
+      "author": "未来城不落",
+      "image": "https://img.36krcdn.com/hsossms/20250616/v2_3cf9cccbaa314569b784e16028895f54@337187376_oswg942969oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3339259143403273"
+    },
+    {
+      "title": "这才是高考AI填志愿的正确姿势？",
+      "summary": "不论什么AI都只是参考，决策权仍在考生手中。",
+      "category": "科技",
+      "theme": "争议下的百度",
+      "publishTime": 1750084203783,
+      "author": "晓曦",
+      "image": "https://img.36krcdn.com/hsossms/20250616/v2_2a5fa5cc5f2540d69497a2fb661da303@39566_oswg407524oswg600oswg400_img_png",
+      "url": "https://36kr.com/detail_article?itemId=3339255519737601"
+    },
+    {
+      "title": "事先张扬的“演戏式”直播带货，还能大卖多久？",
+      "summary": "电商带货「剧本杀」，刀刀砍到直播间“家人们”的心坎上",
+      "category": "红人",
+      "theme": "文娱直播新动向",
+      "publishTime": 1750078510135,
+      "author": "新识研究所",
+      "image": "https://img.36krcdn.com/hsossms/20250616/v2_ae097803824c461ba009d7b27ef271ea@6062471_oswg635163oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3339028693001734"
+    },
+    {
+      "title": "拟中期分红，常熟银行首次，刚分红7.5亿，股价创7年半新高",
+      "summary": "吸收合并再添一例",
+      "category": "财经",
+      "theme": "企业金融新动向",
+      "publishTime": 1750078238143,
+      "author": "时代周报",
+      "image": "https://img.36krcdn.com/hsossms/20250616/v2_cb98d63b5c7a4c57a5af32b0ce44a80d@000000_oswg356839oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3339070858834183"
+    }
+  ]
+}
