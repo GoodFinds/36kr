@@ -1,0 +1,245 @@
+{
+  "date": "2025-05-01",
+  "total": 23,
+  "categories": {
+    "推荐": 12,
+    "未分类": 2,
+    "汽车": 1,
+    "职场": 2,
+    "消费": 4,
+    "城市": 1,
+    "科技": 1
+  },
+  "news": [
+    {
+      "title": "从鸭货三巨头到“难兄难弟” 煌上煌、周黑鸭、绝味做错了什么？",
+      "summary": "鸭货三巨头营收净利齐跌，关店超5000家，高价遭吐槽。",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1746086475000,
+      "author": "首席消费官",
+      "image": "https://img.36krcdn.com/hsossms/20250501/v2_675b4abbb14e4d219ffdf51df4b9d3aa@5864541_oswg253205oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3273363843261957"
+    },
+    {
+      "title": "优酷平台预算缩水后的第一剑，指向了男频剧",
+      "summary": "优酷男频剧遇挫，项目搁浅市场降温，策略转向降本增效。",
+      "category": "推荐",
+      "theme": "文娱直播新动向",
+      "publishTime": 1746082844000,
+      "author": "首席消费官",
+      "image": "https://img.36krcdn.com/hsossms/20250501/v2_a6d8cc28f37c4b318036ee9d4d3415c9@5864541_oswg120072oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3273356054980100"
+    },
+    {
+      "title": "为什么印度系国际学校在日本受热捧？",
+      "summary": "在东京的印度式国际学校GIIS Tokyo里，日本人学生的数量超过印度人，占到总人数的55%。这所学校引入国际文凭课程，没有日语、数学等日本的科目划分。所有课程都是用英语授课，没有教科书……",
+      "category": "未分类",
+      "theme": "教育创业",
+      "publishTime": 1746082788000,
+      "author": "日经中文网",
+      "image": "https://img.36krcdn.com/hsossms/20250501/v2_7dc5a54a8fab4a8ca3c4f9290e2d0df3@000000_oswg387781oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3273321213780101"
+    },
+    {
+      "title": "对话蔚来创始人李斌：技术、产品、基建大年，四季度盈利",
+      "summary": "中国汽车要想全球领先，需要“新三大件”",
+      "category": "汽车",
+      "theme": "汽车出行",
+      "publishTime": 1746079156000,
+      "author": "光锥智能",
+      "image": "https://img.36krcdn.com/hsossms/20250501/v2_e540331a14164d26bcf51e1fab78ca7e@5595930_oswg792888oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3273291500576897"
+    },
+    {
+      "title": "十亿升级，享界S9增程版如何构筑安全和豪华新体验？",
+      "summary": "享界S9增程版不仅展示了汽车技术的进一步提升，更传递了国产品牌新豪华理念。",
+      "category": "未分类",
+      "theme": "商业策划",
+      "publishTime": 1746073510810,
+      "author": "36氪品牌",
+      "image": "https://img.36krcdn.com/hsossms/20250501/v2_c5a1b290ca3a4951857c3c3ad149d1a7@6056299_oswg59529oswg600oswg400_img_jpg",
+      "url": "https://36kr.com/detail_article?itemId=3273330211103108"
+    },
+    {
+      "title": "连大厂都不卷了，我却还不敢休息",
+      "summary": "中国人的休息病有三大表征：不能休息，不敢休息，不会休息。",
+      "category": "职场",
+      "theme": "年轻人啊",
+      "publishTime": 1746068437919,
+      "author": "新周刊",
+      "image": "https://img.36krcdn.com/hsossms/20250501/v2_7f368fb8d1ce4e42b398295c150c3266@5595930_oswg779557oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3273361430323335"
+    },
+    {
+      "title": "家变“微型养老院”，居家养老如何“可望又可及”？",
+      "summary": "未来居家养老服务的市场化竞争，将像五年前的养老社区一样，会成为品牌资本角逐、企业竞争的新高地，但目前发展仍面临盈利模式不清晰、护理服务不足及行业标准待建三大瓶颈",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1746068347520,
+      "author": "财经五月花",
+      "image": "https://img.36krcdn.com/hsossms/20250501/v2_9d424670a66c44ada74b6a7c1b0ac03c@000000_oswg42452oswg1080oswg460_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3273416668373126"
+    },
+    {
+      "title": "在劳动节聊聊，不加班有那么难吗？",
+      "summary": "“不加班”的工作离你有多远",
+      "category": "职场",
+      "theme": "职场每日必读",
+      "publishTime": 1746068329222,
+      "author": "中欧国际工商学院",
+      "image": "https://img.36krcdn.com/hsossms/20250501/v2_1a91c9897e82481397fd93e19c390f4a@000000_oswg377703oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3273414345072775"
+    },
+    {
+      "title": "干超市20年，给员工分913万，草根音乐人的另类样本",
+      "summary": "理想背后，不该是悲情叙事。",
+      "category": "消费",
+      "theme": "文娱直播新动向",
+      "publishTime": 1746068290101,
+      "author": "音乐先声",
+      "image": "https://img.36krcdn.com/hsossms/20250430/v2_e70b224fb3334d908d9cdbf831b114e2@000000_oswg413871oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3272671971697030"
+    },
+    {
+      "title": "从\"茅宁时代\"到腾讯时代，中国资本市场的\"C位\"大变迁",
+      "summary": "此时此刻，中国资本市场从“制造周期为王”向“科技至上”的深刻转变正在进行。",
+      "category": "推荐",
+      "theme": "港股前哨",
+      "publishTime": 1746068252300,
+      "author": "港股研究社",
+      "image": "https://img.36krcdn.com/hsossms/20250430/v2_d1157a70b1264e4186cf1ad2fc20c282@15574914_oswg121441oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3272593238091265"
+    },
+    {
+      "title": "旅行搭子开盲盒：分道扬镳、连夜逃离、不欢而散拉黑",
+      "summary": "年轻人的新型社交冒险。",
+      "category": "城市",
+      "theme": "年轻人啊",
+      "publishTime": 1746068225152,
+      "author": "Tech星球",
+      "image": "https://img.36krcdn.com/hsossms/20250430/v2_f1a2962ccfd64958af25a7261a2ac35d@000000_oswg381952oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3272608739926151"
+    },
+    {
+      "title": "爆款对垒，平台短剧进入精品化时代",
+      "summary": "在实例中总结经验。",
+      "category": "消费",
+      "theme": "文娱直播新动向",
+      "publishTime": 1746068198820,
+      "author": "毒眸",
+      "image": "https://img.36krcdn.com/hsossms/20250501/v2_5ee60f2edcc8443ea3d4a18f10f08d29@5595930_oswg823039oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3272648639783305"
+    },
+    {
+      "title": "特朗普的第100天",
+      "summary": "夸口“让美国再次伟大”的特朗普，又交出了怎样的成绩呢？",
+      "category": "推荐",
+      "theme": "大佬言论",
+      "publishTime": 1746066948126,
+      "author": "笔记侠",
+      "image": "https://img.36krcdn.com/hsossms/20250430/v2_56dbeb870edf4bd68d5d8606fe4ae1f6@000000_oswg469289oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3272702716682627"
+    },
+    {
+      "title": "AI娱乐正在发起“效率革命”",
+      "summary": "资源整合",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1746065989659,
+      "author": "东西文娱",
+      "image": "https://img.36krcdn.com/hsossms/20250430/v2_3410160112184ccfb1081363fdbbfe7c@000000_oswg425433oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3272669783302272"
+    },
+    {
+      "title": "央企接盘能否拯救康佳？内斗、跨界与“薛定谔式”转型的十年困局",
+      "summary": "市值蒸发400亿！康佳‘陨落启示录’：战略摇摆如何摧毁一家巨头？",
+      "category": "推荐",
+      "theme": "A股",
+      "publishTime": 1746065965921,
+      "author": "摩根商研所",
+      "image": "https://img.36krcdn.com/hsossms/20250430/v2_4c4ae62d58aa41a7a0c10904c3e7734e@19625692_oswg58665oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3272676080150016"
+    },
+    {
+      "title": "淘宝“小时达”变“闪购”，即时零售“战火再起”？",
+      "summary": "万亿即时零售赛道再起纷争。",
+      "category": "推荐",
+      "theme": "新零售的新发展",
+      "publishTime": 1746065880136,
+      "author": "零售商业评论",
+      "image": "https://img.36krcdn.com/hsossms/20250430/v2_77040ae3e8a543408285ef33ba956c40@000000_oswg222270oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3272759747027072"
+    },
+    {
+      "title": "泥泞中的小程序短剧，寻找新的应许之地",
+      "summary": "求新也是求生",
+      "category": "消费",
+      "theme": "文娱直播新动向",
+      "publishTime": 1746065854888,
+      "author": "新声Pro",
+      "image": "https://img.36krcdn.com/hsossms/20250430/v2_538747033ccc42ee99f9615cc4f68cd1@000000_oswg45951oswg889oswg377_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3272797044483591"
+    },
+    {
+      "title": "横扫北京上海，五一爆款冰淇淋出现了！",
+      "summary": "冰淇淋插根蜡烛，就能让年轻人抢着买单？",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1746065428800,
+      "author": "咖门",
+      "image": "https://img.36krcdn.com/hsossms/20250501/v2_7a6cc6dc81824f4396f6d6eb774397f0@000000_oswg337779oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3273375832859009"
+    },
+    {
+      "title": "贵州茅台：左手非标酒，右手系列酒，飞天降速也不怕？",
+      "summary": "毛利率小幅下滑，经营效率大幅提升。",
+      "category": "推荐",
+      "theme": "A股",
+      "publishTime": 1746065067081,
+      "author": "海豚投研",
+      "image": "https://img.36krcdn.com/hsossms/20250501/v2_ec7374639b9b46fc98bd35ca03860a4c@576620215_oswg992830oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3273394763227526"
+    },
+    {
+      "title": "冥想会让一个人变得更善良吗？",
+      "summary": "通过冥想成为一个更好的人。",
+      "category": "推荐",
+      "theme": "神译局",
+      "publishTime": 1746064801295,
+      "author": "神译局",
+      "image": "https://img.36krcdn.com/hsossms/20250409/v2_daa079a2f9764fa38fdb4669a67030b3@5382598_oswg49744oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3243007282019970"
+    },
+    {
+      "title": "五一必刷佳片：9.4分，还在涨",
+      "summary": "希望我们精心挑选的这份观影指南，能陪伴大家度过一个愉快的五一假期！",
+      "category": "消费",
+      "theme": "文娱直播新动向",
+      "publishTime": 1746062968289,
+      "author": "一条",
+      "image": "https://img.36krcdn.com/hsossms/20250501/v2_5c2009e173f6411bb044d37d96927d88@000000_oswg38086oswg1080oswg460_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3273287764730248"
+    },
+    {
+      "title": "36氪出海·关注｜霸王茶姬美国首家门店开业，前麦当劳国际CMO加入高管团队",
+      "summary": "上市敲钟、美国开店：霸王茶姬的“双线进击”。",
+      "category": "推荐",
+      "theme": "新股表现",
+      "publishTime": 1746061789045,
+      "author": "常薇倩",
+      "image": "https://img.36krcdn.com/hsossms/20250501/v2_a8dd15bfe86b42e786dd355fd6591c9a@5490952_oswg1002256oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3273352771903881"
+    },
+    {
+      "title": "选择恐惧症：为什么我们无法做出重要的选择？",
+      "summary": "所谓正确决策，就做出符合自己价值观的决策。",
+      "category": "推荐",
+      "theme": "神译局",
+      "publishTime": 1746057613982,
+      "author": "神译局",
+      "image": "https://img.36krcdn.com/hsossms/20250407/v2_b253a8165c3b4ffdb14b08e5ec5ff7b9@5382598_oswg838836oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3240207360753288"
+    }
+  ]
+}
