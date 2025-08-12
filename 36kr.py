@@ -2,6 +2,7 @@ import requests
 import json
 import time
 import os
+import re
 from datetime import datetime, timedelta
 import argparse
 
@@ -66,6 +67,28 @@ def get_36kr_news(days_ago=0, max_pages=5, page_size=100, save_dir="./data"):
             "platformId": 2
         }
     }
+
+    def extract_url(news_item):
+        """
+        从新闻项中提取并构建正确的URL
+        """
+        route = news_item.get('route', '')
+        
+        # 从route中提取itemId
+        if 'itemId=' in route:
+            # 使用正则表达式提取itemId
+            match = re.search(r'itemId=(\d+)', route)
+            if match:
+                item_id = match.group(1)
+                return f"https://36kr.com/p/{item_id}"
+        
+        # 如果没有找到itemId，尝试其他可能的ID字段
+        template_material = news_item.get('templateMaterial', {})
+        if 'itemId' in template_material:
+            return f"https://36kr.com/p/{template_material['itemId']}"
+        
+        # 如果都没有找到，返回原始URL（作为备选）
+        return f"https://36kr.com/{route}" if route else ""
 
     try:
         response = requests.post(url, headers=headers, json=first_page_data)
@@ -207,7 +230,7 @@ def get_36kr_news(days_ago=0, max_pages=5, page_size=100, save_dir="./data"):
             'publishTime': news['templateMaterial'].get('publishTime', 0),
             'author': news['templateMaterial'].get('authorName', ''),
             'image': news['templateMaterial'].get('widgetImage', ''),
-            'url': f"https://36kr.com/{news.get('route', '')}"
+            'url': extract_url(news)  # 使用新的URL提取函数
         })
     
     # 保存到文件
@@ -230,6 +253,7 @@ def get_36kr_news(days_ago=0, max_pages=5, page_size=100, save_dir="./data"):
     for i, news in enumerate(simplified_news[:20]):
         publish_time = datetime.fromtimestamp(news['publishTime']/1000).strftime('%H:%M:%S')
         print(f"{i+1}. [{publish_time}] [{news['category']}] {news['title']}")
+        print(f"    URL: {news['url']}")
     
     print(f"\n所有{date_str}新闻已保存到 {filepath}")
     return filepath
