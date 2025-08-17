@@ -1,0 +1,251 @@
+{
+  "date": "2025-05-03",
+  "total": 24,
+  "categories": {
+    "推荐": 16,
+    "科技": 7,
+    "创投": 1
+  },
+  "news": [
+    {
+      "title": "六个核桃遇到瓶颈，大单品困局下的生存博弈",
+      "summary": "在消费升级与行业变革的双重挤压下，六个核桃的困境折射出中国快消品行业大单品模式的集体焦虑。",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1746261779000,
+      "author": "于见专栏",
+      "image": "https://img.36krcdn.com/hsossms/20250502/v2_0dbb869d1f3042b08e6082f9f69335e5@5627769_oswg762003oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3275413919081735"
+    },
+    {
+      "title": "淘宝闪购、饿了么强势入局，打开即时零售想象力",
+      "summary": "“阿里兄弟档”联合进击，加速开启电商大零售的新时代。",
+      "category": "推荐",
+      "theme": "电商零售",
+      "publishTime": 1746261337000,
+      "author": "连线Insight",
+      "image": "https://img.36krcdn.com/hsossms/20250503/v2_01940586863c4ddd9436b33279d47dfc@5595930_oswg453326oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3275125358092418"
+    },
+    {
+      "title": "不肝不氪民俗季，逆水寒手游还在发力",
+      "summary": "正如玩家所言：“它不只是游戏，更是一个‘会呼吸的江湖’。”",
+      "category": "科技",
+      "theme": "游戏圈大事件",
+      "publishTime": 1746258122537,
+      "author": "游氪哩哩",
+      "image": "https://img.36krcdn.com/hsossms/20250503/v2_9c5793081c4c43cd981b39fe9c8f7ed1@16519798_oswg450838oswg600oswg400_img_png",
+      "url": "https://36kr.com/detail_article?itemId=3276569351545218"
+    },
+    {
+      "title": "安徽前首富，又要收获一个IPO",
+      "summary": "你爱吃的零食，又要上市了。",
+      "category": "推荐",
+      "theme": "创投圈秘事",
+      "publishTime": 1746257954847,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250503/v2_fcdff61413644d829600157dda5d9ced@000000_oswg32552oswg900oswg382_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3276568334377093"
+    },
+    {
+      "title": "为何国内企业才上市两款宠物创新药？",
+      "summary": "动脉网出品",
+      "category": "推荐",
+      "theme": "医疗服务",
+      "publishTime": 1746257517000,
+      "author": "动脉网",
+      "image": "https://img.36krcdn.com/hsossms/20250503/v2_81d59c0e3aed40df89e46b09c1a24f53@000000_oswg366887oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3276126824784265"
+    },
+    {
+      "title": "寒武纪拟定增49.8亿：公司市值2937亿 陈天石身价达870亿",
+      "summary": "杭州著名炒股者章建平所持股权价值为4​2.88亿元。",
+      "category": "科技",
+      "theme": "创投圈秘事",
+      "publishTime": 1746253822000,
+      "author": "雷帝触网",
+      "image": "https://img.36krcdn.com/hsossms/20250502/v2_c6361c7e4ec94dfc8040ab43e386d902@000000_oswg287115oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3275531067007368"
+    },
+    {
+      "title": "在微信里订日本餐厅，是一次本土体验的出海尝试",
+      "summary": "卖设施到卖方案。",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1746253534000,
+      "author": "窄播",
+      "image": "https://img.36krcdn.com/hsossms/20250503/v2_8035885d45a14c3a90355585c3e76708@000000_oswg61074oswg889oswg377_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3275648654435586"
+    },
+    {
+      "title": "你对 AI 说的每一句「谢谢」，都在烧钱",
+      "summary": "一句谢谢，千万美金。",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1746247607863,
+      "author": "爱范儿",
+      "image": "https://img.36krcdn.com/hsossms/20250503/v2_2ac4ee7aa68e44cd8e3d0436856386b6@000000_oswg57562oswg1175oswg499_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3276398705139844"
+    },
+    {
+      "title": "鸣鸣很忙冲刺港股IPO：背靠下沉市场，打造高质价比国民零食品牌",
+      "summary": "零食量贩帝国成长密码",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1746242575454,
+      "author": "蓝鲨消费",
+      "image": "https://img.36krcdn.com/hsossms/20250503/v2_69df6068a7c049609b242bc981216aa6@000000_oswg128525oswg1280oswg545_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3276206791419393"
+    },
+    {
+      "title": "三星手机预装Gemini AI，也是谷歌花钱买的",
+      "summary": "只要谷歌不怕反垄断的大棒，三星收钱自然也就收地心安理得。",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1746240333157,
+      "author": "三易生活",
+      "image": "https://img.36krcdn.com/hsossms/20250502/v2_0fa2ec2984d04f03a49d16879a54961f@000000_oswg278491oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3275277200220295"
+    },
+    {
+      "title": "从“脱毛神器”到功效个护第一品牌，她打造国货黑马，年销10亿",
+      "summary": "《天下网商》对话水之蔻创始人张碧华：“消费品的底层是运营驱动，但核心永远是产品。”",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1746240204727,
+      "author": "天下网商",
+      "image": "https://img.36krcdn.com/hsossms/20250503/v2_1337f8fda8fc45f8b3581ac68280fbb7@5595930_oswg423506oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3275477070602375"
+    },
+    {
+      "title": "9.4分，突然爆红，这是next level女性爽剧？",
+      "summary": "麦德琳并不是一位完美受害者，却拥有格外强大的生命力。",
+      "category": "推荐",
+      "theme": "大文娱",
+      "publishTime": 1746239669295,
+      "author": "新周刊",
+      "image": "https://img.36krcdn.com/hsossms/20250502/v2_c0a60214386f49c2bdd4836d8a0fd1bc@000000_oswg46404oswg1080oswg460_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3274776802730374"
+    },
+    {
+      "title": "市占率第一的扫地机器人，要去港股IPO了",
+      "summary": "有限的牌桌上还有谁能留下，只能各凭本事了。",
+      "category": "科技",
+      "theme": "创投圈秘事",
+      "publishTime": 1746239389212,
+      "author": "融资中国",
+      "image": "https://img.36krcdn.com/hsossms/20250502/v2_8714d3cbc0ab4bd6b7b9bcc16c4280f3@000000_oswg296095oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3274849025712262"
+    },
+    {
+      "title": "比马拉松更贵的“跳泥坑”运动，在五一收割中产们",
+      "summary": "从“妈见打”到“遛娃天花板”。",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1746238639827,
+      "author": "电商在线",
+      "image": "https://img.36krcdn.com/hsossms/20250503/v2_f4919845916f44759dd4de59e3fb53a0@5595930_oswg741773oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3275011242303875"
+    },
+    {
+      "title": "人形机器人，最重要的还是“脑子”",
+      "summary": "小脑发育不完全，大脑完全不发育。",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1746238428769,
+      "author": "半导体产业纵横",
+      "image": "https://img.36krcdn.com/hsossms/20250502/v2_22cbed9129724c8a8a7cdcb50b930378@000000_oswg266499oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3274939372642438"
+    },
+    {
+      "title": "2025，知识区成为“必争之地”",
+      "summary": "知识的世界里没有输家。",
+      "category": "创投",
+      "theme": "创投新闻",
+      "publishTime": 1746238281149,
+      "author": "毒眸",
+      "image": "https://img.36krcdn.com/hsossms/20250502/v2_5f219ea309f645c4a763447b4e6326d0@000000_oswg340304oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3275405859348868"
+    },
+    {
+      "title": "五一不想人挤人！推荐这8个冷门秘境",
+      "summary": ".",
+      "category": "推荐",
+      "theme": "大文娱",
+      "publishTime": 1746237973701,
+      "author": "一条",
+      "image": "https://img.36krcdn.com/hsossms/20250503/v2_b312a10c879d41aa8f883fbc77466545@000000_oswg417993oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3276120628797569"
+    },
+    {
+      "title": "腾讯3亿押注，2 年收入涨3.6倍，冲锋衣 “平替之王” 如何炼成？",
+      "summary": "伯希和等待下一个爆款。",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1746237760860,
+      "author": "彭倩",
+      "image": "https://img.36krcdn.com/hsossms/20250430/v2_c438d0a9203442b7bf2cca7127b83b6b@1934172915_oswg79466oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3269484422599046"
+    },
+    {
+      "title": "她，《水饺皇后》本人，她的人生比电影更精彩",
+      "summary": "“冻死迎风站，饿死不弯腰。”",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1746237303957,
+      "author": "华商韬略",
+      "image": "https://img.36krcdn.com/hsossms/20250503/v2_382d5d255cb9419f88838c21ac25070c@000000_oswg434969oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3276160770072965"
+    },
+    {
+      "title": "第一批参加「科考」旅行的中产，已经返贫了",
+      "summary": "在自然界，什么都会发生",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1746234332891,
+      "author": "凤凰周刊",
+      "image": "https://img.36krcdn.com/hsossms/20250503/v2_f757413d816a4937a34af4db007615d9@000000_oswg32887oswg1000oswg425_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3276180265951366"
+    },
+    {
+      "title": "五一最火“穷鬼超市”，被3万人搬空货架",
+      "summary": "五一最火排队王，让打工人沸腾了",
+      "category": "推荐",
+      "theme": "新零售的新发展",
+      "publishTime": 1746230434109,
+      "author": "金错刀",
+      "image": "https://img.36krcdn.com/hsossms/20250502/v2_06856b423e8747caab6910d236df1573@000000_oswg315748oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3275155399762053"
+    },
+    {
+      "title": "停止做这 7 件事，升级你的大脑",
+      "summary": "大脑产生的微妙变化，加上足够的时间长度，足以改变你的一生。",
+      "category": "推荐",
+      "theme": "神译局",
+      "publishTime": 1746230431531,
+      "author": "神译局",
+      "image": "https://img.36krcdn.com/hsossms/20250414/v2_fa5933813efe4533b3de40361a7e0890@5382598_oswg290992oswg600oswg400_img_png",
+      "url": "https://36kr.com/detail_article?itemId=3250015455453442"
+    },
+    {
+      "title": "裸辞后，我花20万雇机器人替我“打工”",
+      "summary": "这个“五一”，人在过节，机器人在劳动。",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1746230430074,
+      "author": "中国企业家杂志",
+      "image": "https://img.36krcdn.com/hsossms/20250502/v2_23ad495a9c8a4a968722d07493c2ee63@000000_oswg355679oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3274994027913609"
+    },
+    {
+      "title": "这届中产，把「海关拍卖」蹲成捡漏圣地",
+      "summary": "“3万拿下271个走私的玲娜贝儿、白菜价打包始祖鸟？”",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1746230407542,
+      "author": "Vista氢商业",
+      "image": "https://img.36krcdn.com/hsossms/20250502/v2_2be334160ff24175b0c354304bab97ec@000000_oswg430980oswg1536oswg722_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3275062911574145"
+    }
+  ]
+}
