@@ -1,0 +1,275 @@
+{
+  "date": "2025-08-09",
+  "total": 26,
+  "categories": {
+    "科技": 5,
+    "推荐": 13,
+    "消费": 2,
+    "财经": 1,
+    "创投": 3,
+    "未分类": 1,
+    "城市": 1
+  },
+  "news": [
+    {
+      "title": "今天，浙江民营星链第四次冲上太空",
+      "summary": "今天，浙江民营星链第四次冲上太空",
+      "category": "科技",
+      "theme": "商业航天",
+      "publishTime": 1754739250213,
+      "author": "投资界",
+      "image": "https://img.36krcdn.com/hsossms/20250809/v2_8f12bd135d9a4050baf43aea8294aa37@000000@ai_oswg347261oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3415261230206595"
+    },
+    {
+      "title": "理性消费回归，再解经济型酒店的过去与未来",
+      "summary": "经济型酒店再度霸榜",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1754733613000,
+      "author": "酒管财经",
+      "image": "https://img.36krcdn.com/hsossms/20250809/v2_2feca5f2e43c4585978044651cdc725b@5595930@ai_oswg806361oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3414262079052164"
+    },
+    {
+      "title": "樊振东，退出世界排名之后",
+      "summary": "现役国乒主力投资海外职业联赛第一人。",
+      "category": "消费",
+      "theme": "体育健身新趋势",
+      "publishTime": 1754731801000,
+      "author": "懒熊体育",
+      "image": "https://img.36krcdn.com/hsossms/20250808/v2_60fff4dd80f34324b5e9ffae7061d29a@000000@ai_oswg423381oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3414319759675014"
+    },
+    {
+      "title": "迪士尼又一场百亿并购：全球最大IP巨头看好怎样的未来？",
+      "summary": "如何应对影视内容的不确定性？",
+      "category": "推荐",
+      "theme": "大文娱",
+      "publishTime": 1754730017000,
+      "author": "三文娱",
+      "image": "https://img.36krcdn.com/hsossms/20250809/v2_3d2ce681f9d4489ca2733e5b1540a983@5595930_oswg619641oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3414326265957765"
+    },
+    {
+      "title": "高盛警告：美股或大跌20%！华尔街对瑕疵业绩“零容忍”",
+      "summary": "美股公司内部人员买入创四年新低！",
+      "category": "财经",
+      "theme": "金融科技",
+      "publishTime": 1754728200000,
+      "author": "美股投资网",
+      "image": "https://img.36krcdn.com/hsossms/20250809/v2_c7d972e3e0f24fa2ae6717ea0744c9de@000000_oswg52317oswg954oswg406_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3414845216263810"
+    },
+    {
+      "title": "特朗普的半导体100%关税搅乱国际分工",
+      "summary": "美国国内半导体和电子设备的成本或将大幅上涨。",
+      "category": "科技",
+      "theme": "芯片领域新鲜事",
+      "publishTime": 1754726459000,
+      "author": "日经中文网",
+      "image": "https://img.36krcdn.com/hsossms/20250809/v2_15fafee524134ce59bcaf9f1da42a45e@5595930_oswg647503oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3414880098995588"
+    },
+    {
+      "title": "农业银行，怎么就超过了“宇宙行”？",
+      "summary": "靠下沉市场取胜",
+      "category": "创投",
+      "theme": "金融科技",
+      "publishTime": 1754724653000,
+      "author": "市界",
+      "image": "https://img.36krcdn.com/hsossms/20250809/v2_43f415b319424478817437c8ab19b23f@5595930_oswg656322oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3414911622139270"
+    },
+    {
+      "title": "又一颗芯片，被英伟达打败",
+      "summary": "为什么“自研训练芯片”这么难？",
+      "category": "科技",
+      "theme": "芯片领域新鲜事",
+      "publishTime": 1754721015000,
+      "author": "半导体行业观察",
+      "image": "https://img.36krcdn.com/hsossms/20250809/v2_8a202767e0bf407f93ed4b2eb3d9f599@000000@ai_oswg298929oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3414981276290441"
+    },
+    {
+      "title": "幼儿园招生，进入白热化",
+      "summary": "“生育国补”，救不了天价私立幼儿园。",
+      "category": "未分类",
+      "theme": "全民教育",
+      "publishTime": 1754719225000,
+      "author": "表外表里",
+      "image": "https://img.36krcdn.com/hsossms/20250808/v2_555cf5433a544d99bb5bd49a18269d83@000000@ai_oswg364700oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3414278267162245"
+    },
+    {
+      "title": "接连两款国产新药获批，百亿“伟哥”市场要大变天？",
+      "summary": "接连两款国产ED新药入局",
+      "category": "推荐",
+      "theme": "医疗健康",
+      "publishTime": 1754717409000,
+      "author": "动脉网",
+      "image": "https://img.36krcdn.com/hsossms/20250809/v2_69e10926d0334f498a324e49de3ef389@000000@ai_oswg240276oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3414855145819527"
+    },
+    {
+      "title": "医药大佬蒲忠杰财富缩水，乐普医疗押注“医美”是出路吗？",
+      "summary": "乐普医疗遭遇瓶颈。",
+      "category": "推荐",
+      "theme": "医疗服务",
+      "publishTime": 1754713856000,
+      "author": "雷达财经",
+      "image": "https://img.36krcdn.com/hsossms/20250808/v2_70dd03b9104e40bcb5aa646bdb171587@000000_oswg136522oswg978oswg977_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3414317568923780"
+    },
+    {
+      "title": "包凡确实回来了",
+      "summary": "他从繁荣中来。",
+      "category": "推荐",
+      "theme": "商业人物追踪",
+      "publishTime": 1754713670711,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250809/v2_77eca4fca6774580b4d05b9ff232a304@000000_oswg26067oswg900oswg382_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3415107290779264"
+    },
+    {
+      "title": "小宇宙“地震”背后，播客站在十字路口",
+      "summary": "繁荣表象下的深层危机",
+      "category": "推荐",
+      "theme": "这些产品动向值得关注",
+      "publishTime": 1754713409496,
+      "author": "DoNews",
+      "image": "https://img.36krcdn.com/hsossms/20250809/v2_66a32eb3847f497ba36bb9014fc68850@1200352198@ai_oswg998302oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3415042877263488"
+    },
+    {
+      "title": "全球任期最长的上市公司CEO，给中国捐了6000多座楼",
+      "summary": "他的一年，比大多数人一生更精彩。",
+      "category": "推荐",
+      "theme": "商业人物追踪",
+      "publishTime": 1754712537484,
+      "author": "华商韬略",
+      "image": "https://img.36krcdn.com/hsossms/20250809/v2_0c319726616b4457b6127c6a4de702d6@1200352198@ai_oswg1170213oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3415058108206468"
+    },
+    {
+      "title": "具身界“春晚”，200家机器人同台竞技，亮点都在这了",
+      "summary": "在WRC（世界机器人大会）被挤扁的我们，把最值得看的机器人都写在这了。",
+      "category": "推荐",
+      "theme": "最前线",
+      "publishTime": 1754712352528,
+      "author": "王方玉",
+      "image": "https://img.36krcdn.com/hsossms/20250809/v2_9c5cc4bf1a4a4604bf85cfd8a2fa3bd4@000000_oswg101338oswg900oswg383_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3415061751795079"
+    },
+    {
+      "title": "北京楼市新政当晚：有业主急询能否缩短成交周期，专家表示或促成交量提升",
+      "summary": "北京五环外将不再限制购房套数",
+      "category": "城市",
+      "theme": "房地产下半场",
+      "publishTime": 1754712050000,
+      "author": "时代周报",
+      "image": "https://img.36krcdn.com/hsossms/20250809/v2_4bfba386faea4e468c6d4452ecb83860@5595930@ai_oswg918303oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3414372744760704"
+    },
+    {
+      "title": "具身智能汹涌，激光雷达爆单：头部玩家600%年增长，出货超20万台",
+      "summary": "激光雷达头部玩家，正在给机器人造「眼睛」",
+      "category": "科技",
+      "theme": "潮科技",
+      "publishTime": 1754710870501,
+      "author": "智能车参考",
+      "image": "https://img.36krcdn.com/hsossms/20250809/v2_8802985f20734f71b902024009f57873@5595930_oswg600672oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3414141455109507"
+    },
+    {
+      "title": "全球医药史上最贵的教训",
+      "summary": "太优秀的烦恼",
+      "category": "创投",
+      "theme": "专精特新-生物医药",
+      "publishTime": 1754710231000,
+      "author": "氨基观察",
+      "image": "https://img.36krcdn.com/hsossms/20250808/v2_a442623f39c349d2b16d3fe3ad5bccee@000000@ai_oswg309760oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3414141360180614"
+    },
+    {
+      "title": "半年只赚2990万，上纬新材3天跌超20%",
+      "summary": "“10倍股”行情进入尾声？",
+      "category": "推荐",
+      "theme": "港股前哨",
+      "publishTime": 1754708401000,
+      "author": "时代财经",
+      "image": "https://img.36krcdn.com/hsossms/20250809/v2_7f25f05b1fb24c0b899c2b58cc87af52@5595930@ai_oswg827461oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3414154596552065"
+    },
+    {
+      "title": "短剧基地狂飙，谁是下一个横店？",
+      "summary": "横店之后争做“竖店”，短剧基地“钱景”几何？",
+      "category": "推荐",
+      "theme": "大文娱",
+      "publishTime": 1754708138026,
+      "author": "Tech星球",
+      "image": "https://img.36krcdn.com/hsossms/20250808/v2_97e1397eb06147de9b6e95e2395f5fa0@000000@ai_oswg434346oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3414278770838913"
+    },
+    {
+      "title": "拼多多一路向B",
+      "summary": "抢供给将成为电商的下一场战事",
+      "category": "推荐",
+      "theme": "电商零售",
+      "publishTime": 1754704812000,
+      "author": "光子星球",
+      "image": "https://img.36krcdn.com/hsossms/20250808/v2_4aea403fe0bd4ace8aeaecb441ed08c0@000000@ai_oswg351704oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3414187461529217"
+    },
+    {
+      "title": "杜绝幻觉、拒绝谄媚，GPT-5的「路由革命」",
+      "summary": "AI大模型的新时代。",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1754703059000,
+      "author": "锌财经",
+      "image": "https://img.36krcdn.com/hsossms/20250808/v2_7765288260984c53af97f9a363f213f8@000000@ai_oswg333908oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3414259316264585"
+    },
+    {
+      "title": "独家对话｜低调发育1年，莉莉丝这个「特立独行」的项目做了什么？",
+      "summary": "长青不是目的，是过程。",
+      "category": "消费",
+      "theme": "游戏圈大事件",
+      "publishTime": 1754701220000,
+      "author": "游戏那点事",
+      "image": "https://img.36krcdn.com/hsossms/20250808/v2_35b359aee53349f0a8bd404ba8f1a6b2@000000@ai_oswg335888oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3414226795056521"
+    },
+    {
+      "title": "第四届全球数字贸易博览会 “数贸创投日”西安站成功举办",
+      "summary": "“数贸创投日”西安站成功举办，促进科创企业与资本深度链接。",
+      "category": "创投",
+      "theme": "金融科技",
+      "publishTime": 1754701063717,
+      "author": "晓曦",
+      "image": "https://img.36krcdn.com/hsossms/20250808/v2_9de726828bec4a90a623f7b6daf9e30a@1215450627_oswg459098oswg600oswg400_img_png",
+      "url": "https://36kr.com/detail_article?itemId=3414080477351300"
+    },
+    {
+      "title": "工作越来越难做了，我们该怎么办？",
+      "summary": "现在的工作确实让人头疼。",
+      "category": "推荐",
+      "theme": "神译局",
+      "publishTime": 1754697630997,
+      "author": "神译局",
+      "image": "https://img.36krcdn.com/hsossms/20250720/v2_3ef0451f2b8e4ca8a71316cf057012fd@5382598_oswg74970oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3387168030146049"
+    },
+    {
+      "title": "9点1氪丨抖音回应“周口邵医生被网暴”；人社局回应胖东来拟招聘有犯罪前科人员；税务总局未发现刘晓庆涉税问题",
+      "summary": "8月8日，“抖音黑板报 ”微博发文称，近日，周口市第六人民医院妇产科邵医生坠楼身亡引起了公众的深切关注。",
+      "category": "推荐",
+      "theme": "早晚报",
+      "publishTime": 1754697600453,
+      "author": "8点1氪",
+      "image": "https://img.36krcdn.com/hsossms/20250808/v2_bbc500d6e2424b02a065589de25ea15d@1200352198_oswg44988oswg600oswg400_img_jpg",
+      "url": "https://36kr.com/detail_article?itemId=3414321010625922"
+    }
+  ]
+}
