@@ -1,0 +1,262 @@
+{
+  "date": "2025-07-12",
+  "total": 25,
+  "categories": {
+    "科技": 4,
+    "推荐": 19,
+    "职场": 1,
+    "城市": 1
+  },
+  "news": [
+    {
+      "title": "从诡异视频到假论文，AI正把互联网变成巨型「垃圾场」",
+      "summary": "不要让AI成为「垃圾制造机」。",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1752305662000,
+      "author": "机器之心",
+      "image": "https://img.36krcdn.com/hsossms/20250705/v2_2d1072d18a2a42138c5fab0df3ec8950@000000@ai_oswg338334oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3365658690275330"
+    },
+    {
+      "title": "深夜开源首个万亿模型K2，压力给到OpenAI，Kimi时刻要来了？",
+      "summary": "预训练的下一步将聚焦token效率。",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1752303625000,
+      "author": "机器之心",
+      "image": "https://img.36krcdn.com/hsossms/20250712/v2_63488b365bfc4522aa2fc8cebdddf008@000000@ai_oswg373737oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3375342673107460"
+    },
+    {
+      "title": "禁上飞机的充电宝，几年前就埋下了隐患",
+      "summary": "充电宝变充电爆，谁的锅？",
+      "category": "推荐",
+      "theme": "创投新闻",
+      "publishTime": 1752301859000,
+      "author": "金错刀",
+      "image": "https://img.36krcdn.com/hsossms/20250628/v2_35a5475f360d4b869c32b593b2203b04@000000@ai_oswg393601oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3355711679465220"
+    },
+    {
+      "title": "账上只剩1000万现金，买下一家挂牌公司",
+      "summary": "北交所，将逐渐成为并购交易的重要战场。",
+      "category": "推荐",
+      "theme": "专精特新企业IPO",
+      "publishTime": 1752300057000,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250712/v2_cc1c61ea79ef46aaabedfd1a3ef8ccb5@000000@ai_oswg353846oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3375336566741249"
+    },
+    {
+      "title": "为了睡得更好，年轻人正在让智能枕成为下一个风口",
+      "summary": "智能枕要爆发了？",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1752300056000,
+      "author": "雷科技",
+      "image": "https://img.36krcdn.com/hsossms/20250708/v2_84e6c7d5ce044d98bb5f7dc8e3e1d886@1547419282_oswg90891oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3369740095117702"
+    },
+    {
+      "title": "永不塌房！AI歌手Yuri火爆全网，上限是初音OR周杰伦？",
+      "summary": "Yuri，出现在最适合她的时间。",
+      "category": "职场",
+      "theme": "人工智能·AI",
+      "publishTime": 1752300048000,
+      "author": "雷科技",
+      "image": "https://img.36krcdn.com/hsossms/20250627/v2_985a0d965a454d6bb9cf519e46b7d5a0@1547419282_oswg68583oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3354805616236673"
+    },
+    {
+      "title": "外卖“疯狂星期六”加赛，谁家外卖能免费吃？",
+      "summary": "这个外卖“疯狂星期六”，美团淘宝京东谁拿下？",
+      "category": "推荐",
+      "theme": "王兴与美团",
+      "publishTime": 1752298218000,
+      "author": "新识研究所",
+      "image": "https://img.36krcdn.com/hsossms/20250711/v2_a2d2e5038d47415b8af0dcc754c1470e@6062471_oswg551180oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3374728854903174"
+    },
+    {
+      "title": "“0门店”闯美，茶颜悦色，不走蜜雪冰城老路",
+      "summary": "当奶茶店不卖奶茶。",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1752297706548,
+      "author": "电商在线",
+      "image": "https://img.36krcdn.com/hsossms/20250712/v2_7e1a515d24d34f5b8d6c1292d7a22329@5595930_oswg861997oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3374594538510849"
+    },
+    {
+      "title": "品牌玩短剧，能逆袭重生吗？",
+      "summary": "从上头到冷静，品牌做短剧还是个好选择吗？",
+      "category": "推荐",
+      "theme": "内容创业",
+      "publishTime": 1752297425197,
+      "author": "定焦One",
+      "image": "https://img.36krcdn.com/hsossms/20250712/v2_ab6dd5774b204a89abf2c79376398849@5595930_oswg775731oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3375237137471749"
+    },
+    {
+      "title": "留学去新西兰干体力活，治好年轻人的工作内耗",
+      "summary": "赴新西兰求学的年轻人，在寻找一种被感知、认可、尊重的生活方式。",
+      "category": "推荐",
+      "theme": "新生活LIFESTYLE",
+      "publishTime": 1752297267038,
+      "author": "新周刊",
+      "image": "https://img.36krcdn.com/hsossms/20250712/v2_46af4ed8042b4365adef61a834f96a62@000000@ai_oswg473378oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3375274244086023"
+    },
+    {
+      "title": "8000万淘宝闪购日订单后：沉默的蒋凡下最重的手",
+      "summary": "习惯保持沉默的人，通常是最狠的，特别是再度回到权力中心位的掌权者",
+      "category": "推荐",
+      "theme": "阿里的疆域",
+      "publishTime": 1752292842000,
+      "author": "凤毛麟角",
+      "image": "https://img.36krcdn.com/hsossms/20250708/v2_5766b27e4e78405abbf97efe0ccb97b0@69403_oswg225631oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3369167592298631"
+    },
+    {
+      "title": "吴婷：AI城市战争",
+      "summary": "AI杀疯了。",
+      "category": "科技",
+      "theme": "城市风向标",
+      "publishTime": 1752291040000,
+      "author": "嘉宾商学",
+      "image": "https://img.36krcdn.com/hsossms/20250709/v2_b4beb163bb744a4ebfc50438771188ae@1892987980_oswg235332oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3371363853425030"
+    },
+    {
+      "title": "智氪 | 华尔街为何疯抢这只的稳定币股票？",
+      "summary": "高估值的背后是投资者对稳定币市场前景的坚定看好。",
+      "category": "推荐",
+      "theme": "智氪分析",
+      "publishTime": 1752290636342,
+      "author": "黄绎达",
+      "image": "https://img.36krcdn.com/hsossms/20250712/v2_cca836d03e3c42b292394f005710755c@5426566@ai_oswg891176oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3375403123480837"
+    },
+    {
+      "title": "618销冠逐本“翻车”背后，国货美妆新锐难逃“红不过三年”魔咒？",
+      "summary": "弯道超车，越来越难",
+      "category": "推荐",
+      "theme": "创投新闻",
+      "publishTime": 1752289254000,
+      "author": "蓝鲨消费",
+      "image": "https://img.36krcdn.com/hsossms/20250711/v2_2cc820c7ff9a4f15a14b64d3556d003a@544706501_oswg53465oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3374052284340608"
+    },
+    {
+      "title": "《死亡搁浅2：冥滩之上》：小岛秀夫的美丽新世界丨触乐",
+      "summary": "它身上有着许多小岛秀夫过往作品的要素和影子，又明确地表现出了小岛秀夫想法的种种变化。",
+      "category": "推荐",
+      "theme": "游戏圈大事件",
+      "publishTime": 1752287409000,
+      "author": "触乐",
+      "image": "https://img.36krcdn.com/hsossms/20250711/v2_155b17d9a21e4216a74bb1e7abbfd300@000000@ai_oswg380569oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3374558666856965"
+    },
+    {
+      "title": "近30亿豪赌？知名美妆连锁与丝芙兰抢生意",
+      "summary": "丝芙兰重返这一市场后，“美版屈臣氏”通过收购也杀入该市场。",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1752285656000,
+      "author": "聚美丽",
+      "image": "https://img.36krcdn.com/hsossms/20250711/v2_129f88d6988c4b8c8cb21787fa3164cd@000000@ai_oswg274801oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3374565112994305"
+    },
+    {
+      "title": "抖音又杀出一个次抛黑马？",
+      "summary": "抖音美妆格局大洗牌！",
+      "category": "推荐",
+      "theme": "抖音抖出来的新生意",
+      "publishTime": 1752283986558,
+      "author": "聚美丽",
+      "image": "https://img.36krcdn.com/hsossms/20250711/v2_f5fc1f56ee314955ab0aa413c652fe5a@000000@ai_oswg318546oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3374565074590214"
+    },
+    {
+      "title": "越来越同质化的城市，该去村里找灵感",
+      "summary": "“返乡潮”的背后，是城市对乡村的反哺。",
+      "category": "城市",
+      "theme": "城市风向标",
+      "publishTime": 1752283480745,
+      "author": "新周刊",
+      "image": "https://img.36krcdn.com/hsossms/20250711/v2_9f0aec606a9b424a961aaa1a4f4efc4f@000000@ai_oswg364047oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3374568206440705"
+    },
+    {
+      "title": "动力电池“三国杀”：中企提前锁定胜局，日韩厂商集体失守",
+      "summary": "动力电池的竞争，从来不仅是装车量的数字游戏。",
+      "category": "推荐",
+      "theme": "新造车势力又搞事",
+      "publishTime": 1752283281955,
+      "author": "华夏能源网",
+      "image": "https://img.36krcdn.com/hsossms/20250711/v2_3774dfae0ddb4e25b17375d68c9541e9@13989852_oswg115993oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3374662765746564"
+    },
+    {
+      "title": "预测“20亿+”大片“消失”，留给暑期档电影的时间真不多了",
+      "summary": "3亿票房，正在成为“大片”的门槛",
+      "category": "推荐",
+      "theme": "内容创业",
+      "publishTime": 1752283184665,
+      "author": "娱乐独角兽",
+      "image": "https://img.36krcdn.com/hsossms/20250711/v2_8722fba3742f40ada12b874e699623d2@000000@ai_oswg316051oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3374690018416899"
+    },
+    {
+      "title": "2025，酒旅商家拥抱电商巨头",
+      "summary": "哪里有痛点，哪里就有机会。",
+      "category": "科技",
+      "theme": "王兴与美团",
+      "publishTime": 1752283030838,
+      "author": "山上",
+      "image": "https://img.36krcdn.com/hsossms/20250711/v2_72c1b22f8ba34709ae9e0e8e3156bef7@000000_oswg61330oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3374730644756864"
+    },
+    {
+      "title": "9点1氪丨上海门店回应玛莎拉蒂售价38万元；黄仁勋跃居全球富豪榜第十，仅次于巴菲特；印航空难初步调查结果公布：或系飞行员操作失误",
+      "summary": "上海玛莎拉蒂门店销售人员回应称，38.88万活动是经销商买断包销行为，且2天已卖出了10多辆。",
+      "category": "推荐",
+      "theme": "早晚报",
+      "publishTime": 1752280957804,
+      "author": "8点1氪",
+      "image": "https://img.36krcdn.com/hsossms/20250711/v2_b4b5a8b7bb2e40ba85ba3f6d6dcaab57@000000_oswg37399oswg899oswg383_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3374687863691520"
+    },
+    {
+      "title": "和AI聊完，我和爸妈“冷战”一年｜ 深氪lite",
+      "summary": "想被安慰，但更想要真实。",
+      "category": "推荐",
+      "theme": "深氪",
+      "publishTime": 1752280200524,
+      "author": "胡香赟",
+      "image": "https://img.36krcdn.com/hsossms/20250711/v2_e8ffdd6936954523949e0b5dee62123a@5930287_oswg831834oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3358384565913349"
+    },
+    {
+      "title": "为什么价值投资适合中国",
+      "summary": "《证券分析》经典价值投资指南，安全边际核心理念，巴菲特推崇。",
+      "category": "推荐",
+      "theme": "36氪领读",
+      "publishTime": 1752278452676,
+      "author": "36氪领读",
+      "image": "https://img.36krcdn.com/hsossms/20250711/v2_c113e48c93f74f189622762b8b8c3f2d@5667365@ai_oswg887903oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3374139657656582"
+    },
+    {
+      "title": "拖延能带来5个意想不到的好处",
+      "summary": "拖延并不总是坏事。",
+      "category": "推荐",
+      "theme": "神译局",
+      "publishTime": 1752278425357,
+      "author": "神译局",
+      "image": "https://img.36krcdn.com/hsossms/20250601/v2_6036773bac714a2e9f6493e5971ebc85@5382598_oswg876481oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3317606858680840"
+    }
+  ]
+}
