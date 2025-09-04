@@ -1,0 +1,2118 @@
+{
+  "date": "2025-07-02",
+  "total": 210,
+  "categories": {
+    "消费": 33,
+    "财经": 29,
+    "推荐": 52,
+    "科技": 58,
+    "城市": 14,
+    "汽车": 10,
+    "职场": 6,
+    "红人": 3,
+    "创投": 2,
+    "专精特新": 3
+  },
+  "news": [
+    {
+      "title": "为了找回“大众”，大众点评选择了回归",
+      "summary": "美团该如何确保大众点评的流量，不会流向竞争对手呢？",
+      "category": "消费",
+      "theme": "关于消费的一切",
+      "publishTime": 1751499495513,
+      "author": "三易生活",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_c8c51b2d5e2f44c497585cc28e08fb0f@1743780481@ai_oswg940813oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361765310580480"
+    },
+    {
+      "title": "不做镇长卖狗猫粮，聊城富豪身家飙至171亿",
+      "summary": "小小宠物背后隐藏大生意。",
+      "category": "财经",
+      "theme": "这就是商业",
+      "publishTime": 1751499335685,
+      "author": "雷达财经",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_4064159820fd482e9e388a205440e63c@1743780481@ai_oswg779345oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361979591367047"
+    },
+    {
+      "title": "全球最大冰淇淋公司，正式宣告独立运营了",
+      "summary": "近670亿的“新玩家”下场，亚太总裁是中国市场的“一把手”",
+      "category": "推荐",
+      "theme": "企业金融新动向",
+      "publishTime": 1751499233379,
+      "author": "小食代",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_2f0c161f4f1f41e6aaf41fd04f6515cc@1743780481@ai_oswg715880oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361861603788549"
+    },
+    {
+      "title": "供应链报料：折叠 iPhone 进入原型试产，折叠 iPad 搁置",
+      "summary": "预计 2026 年发布",
+      "category": "科技",
+      "theme": "王者苹果？",
+      "publishTime": 1751499122245,
+      "author": "爱范儿",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_26f9522d42994e569c1ebe8fd797c9a3@000000@ai_oswg311818oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361885166487302"
+    },
+    {
+      "title": "淘宝闪购祭出500亿补贴，打工人盯上罗森、全家“羊毛”",
+      "summary": "1块钱咖啡茶饮“羊毛”你薅了吗",
+      "category": "消费",
+      "theme": "电商零售",
+      "publishTime": 1751499090168,
+      "author": "IT时报",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_f3394d2292544fb1b3ce1a89e2fa88cc@1743780481@ai_oswg877675oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361894356027145"
+    },
+    {
+      "title": "盘点：中国31个海洋特色文化和旅游目的地",
+      "summary": "海洋文旅目的地",
+      "category": "城市",
+      "theme": "城市风向标",
+      "publishTime": 1751498836825,
+      "author": "文化产业评论",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_dba5e7b7d1784425b14a0fb2e63902d8@000000@ai_oswg354929oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361854516873219"
+    },
+    {
+      "title": "说倒就倒，假摔一流，首届机器人足球赛欢乐多：有何意义？",
+      "summary": "机器人赛事不只是图个乐。",
+      "category": "推荐",
+      "theme": "前沿技术",
+      "publishTime": 1751498679893,
+      "author": "雷科技",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_a71f8c706f8346eaa92f74cf4999ead5@1743780481@ai_oswg962310oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361833345538441"
+    },
+    {
+      "title": "稳定币：别怀疑，Coinbase的iPhone时刻",
+      "summary": "讲不完的故事。",
+      "category": "财经",
+      "theme": "创投圈秘事",
+      "publishTime": 1751498426052,
+      "author": "海豚投研",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_71ca06ccd32c41cf9ca268841d34cee2@000000@ai_oswg432020oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361820648179456"
+    },
+    {
+      "title": "推绳子：通缩是现代经济的“抑郁症”",
+      "summary": "治通缩如推绳，需心理干预及结构性改革。",
+      "category": "财经",
+      "theme": "产业观察",
+      "publishTime": 1751498290571,
+      "author": "人神共奋",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_c41bf7e1bcf646e8b1a9502e377470bb@000000@ai_oswg323424oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361795801532169"
+    },
+    {
+      "title": "几个河南人，拿捏时代情绪",
+      "summary": "精英叙事之外。",
+      "category": "消费",
+      "theme": "关于消费的一切",
+      "publishTime": 1751498180823,
+      "author": "全天候科技",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_ef89ff31bedf4ce4b30deb198a64f18a@1743780481@ai_oswg848673oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361792998426631"
+    },
+    {
+      "title": "苹果AI掉队？现在唱衰或许还为时过早",
+      "summary": "AI会成为苹果衰败的转折点吗？",
+      "category": "科技",
+      "theme": "王者苹果？",
+      "publishTime": 1751498097840,
+      "author": "道总有理",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_2171ba600eba41298ada25abeb6640f5@000000@ai_oswg294379oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361775904392969"
+    },
+    {
+      "title": "海致科技，“AI除幻”的故事不好讲",
+      "summary": "第一难当。",
+      "category": "科技",
+      "theme": "金融科技",
+      "publishTime": 1751497984093,
+      "author": "市值观察",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_47672c414c1a411ebe529351a821c371@1743780481@ai_oswg817217oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361766276187909"
+    },
+    {
+      "title": "OpenAI甩开英伟达，谷歌TPU“横刀夺爱”",
+      "summary": "如今业界对于推理算力的需求，其实要比训练算力更大。",
+      "category": "科技",
+      "theme": "金融科技",
+      "publishTime": 1751497786155,
+      "author": "三易生活",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_c0198c92fd3c46eb9a5daa629119ec27@000000@ai_oswg374594oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361765260969989"
+    },
+    {
+      "title": "百度正在改变百度",
+      "summary": "7月2日，百度在AI Day上正式宣布百度搜索框升级为“智能框”。在基础逻辑上，百度搜索有了更清晰的呈现：即底层（LLM+视频生成模型），中间层（MCP+agent工具+真人服务）与上层（智能框+百看+AI助手升级）的全新生态架构。",
+      "category": "科技",
+      "theme": "争议下的百度",
+      "publishTime": 1751463412249,
+      "author": "晓曦",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_c4c6412925e74354a80028b360f1ce2c@39566_oswg392399oswg600oswg400_img_png",
+      "url": "https://36kr.com/detail_article?itemId=3361853553903618"
+    },
+    {
+      "title": "不做KTV，做娱乐新物种：星聚会的逆势增长方法论",
+      "summary": "逆势扩张，出海东京，星聚会有何秘籍？",
+      "category": "推荐",
+      "theme": "消费电子",
+      "publishTime": 1751463287134,
+      "author": "碧根果",
+      "image": "https://img.36krcdn.com/hsossms/20250701/v2_b910cc62d2d646899d5910c274b631e3@1215450627_oswg532254oswg600oswg400_img_png",
+      "url": "https://36kr.com/detail_article?itemId=3359913368438530"
+    },
+    {
+      "title": "浙江大哥卖钓鱼装备：年入5.73亿，港股上市，全球第一",
+      "summary": "钓佬撑起一门大生意。",
+      "category": "消费",
+      "theme": "创投圈秘事",
+      "publishTime": 1751458940993,
+      "author": "铅笔道",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_30a981bc18124ccc8221c82ad5b61278@46958@ai_oswg900147oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361737187100672"
+    },
+    {
+      "title": "为了重现照片中的世界，他制作了一款最逼真的摄影游戏",
+      "summary": "“他不仅希望真实地重现自己在现实世界拍摄过的地方，还想让玩家有机会看到并拍摄那些场景。",
+      "category": "消费",
+      "theme": "游戏圈大事件",
+      "publishTime": 1751458920686,
+      "author": "触乐",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_1bdcec04732342a98b24856abea9a298@46958@ai_oswg957901oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361671728695046"
+    },
+    {
+      "title": "本地生活集体押注的 AI，现在可能还有点鸡肋",
+      "summary": "从目前看，AI能解决的问题并不多。",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1751458902103,
+      "author": "壹览商业",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_b0ea16c9bcb64155ac338b593be51431@000000@ai_oswg390669oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361734156224265"
+    },
+    {
+      "title": "微信可以不接收共同好友点赞提醒了",
+      "summary": "大量无关的点赞提醒消息不仅干扰了用户正常使用微信，还容易让人产生一种被迫参与社交的压力。",
+      "category": "科技",
+      "theme": "这些产品动向值得关注",
+      "publishTime": 1751458892078,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_f0b55e2ee81e4f2c9946f5fccda1eca7@46958@ai_oswg730818oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361743163246339"
+    },
+    {
+      "title": "一年仅卖出1.13万辆，跑车皇后陷“卖身”传言",
+      "summary": "过去几年进口超豪华车持续增长，但2023年以来出现较大的下滑，2024年加速下滑，2025年1-5月下滑仍较强。玛莎的走势总体低迷，超豪华总体走弱，体现超高端消费群体的购买力暂时放缓。",
+      "category": "消费",
+      "theme": "汽车出行",
+      "publishTime": 1751458799987,
+      "author": "车圈能见度",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_2966dc304bd64283b7a8d66213497608@46958@ai_oswg867163oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361664011999622"
+    },
+    {
+      "title": "零公里二手车、做局消费者，新能源补贴的灰色生意",
+      "summary": "报废车套补、灰产挤占名额、零公里二手车，新能源补贴并未完全给了消费者。",
+      "category": "消费",
+      "theme": "关于消费的一切",
+      "publishTime": 1751458732721,
+      "author": "电厂",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_bf5d33246726474c8b9e76ccc2d724f8@46958@ai_oswg780897oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361749796226817"
+    },
+    {
+      "title": "停产8个月仍有400余名员工在岗，哪吒汽车预招募意向投资人 专家：想盘活不容易",
+      "summary": "NBD汽车（微信号：NBD-AUTO）",
+      "category": "汽车",
+      "theme": "新造车势力又搞事",
+      "publishTime": 1751458693505,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_7ae12782a6434c31a15945b08e337852@46958@ai_oswg803200oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361757547743235"
+    },
+    {
+      "title": "户外人都“美黑”了，谁还在意防晒？",
+      "summary": "从“白瘦幼”到“黑酷美”。",
+      "category": "消费",
+      "theme": "体育健身新趋势",
+      "publishTime": 1751458661636,
+      "author": "听筒Tech",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_12ddb12e60184544bdd4ef5d77e46801@46958@ai_oswg817838oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361732455372934"
+    },
+    {
+      "title": "「友好市集」上线一个月，小红书还在与主流电商背道而驰",
+      "summary": "从省钱到省心，消费生态新迁移",
+      "category": "消费",
+      "theme": "电商零售",
+      "publishTime": 1751458631240,
+      "author": "降噪NoNoise",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_97f94749fab642489a7ffe598805e586@46958@ai_oswg922204oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361748876581256"
+    },
+    {
+      "title": "美国现在最贵的，是中国AI人才：清北中科大学霸正在「统治」硅谷AI圈",
+      "summary": "华人 AI 科学家集体「出圈」",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1751458578978,
+      "author": "爱范儿",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_99c9e0f5d25145cf9024e77c50ef55e9@46958@ai_oswg945883oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361749971585024"
+    },
+    {
+      "title": "复盘2025综艺市场上半年，谁讲好了「确定力大于一切」的故事？",
+      "summary": "关于内容审美变化与商业化需求变化的思辨。",
+      "category": "科技",
+      "theme": "产业互联网",
+      "publishTime": 1751458562651,
+      "author": "壹娱观察",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_9d898db92f8b47709eb7263081e94657@000000@ai_oswg476729oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361755679180551"
+    },
+    {
+      "title": "ChatGPT惨败Llama，MIT官宣AI开飞船0%失败率，马斯克火星殖民不再是梦",
+      "summary": "ChatGPT开着飞船「上天了」",
+      "category": "推荐",
+      "theme": "人工智能·AI",
+      "publishTime": 1751458542335,
+      "author": "新智元",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_76ad2ddd05bb4e02aad88af35119f640@46958@ai_oswg749422oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361750154971142"
+    },
+    {
+      "title": "超CLIP准确率11%，伯克利港大阐明「LLM文本-视觉」对齐深层机制",
+      "summary": "LIFT冻结LLM提升多模态对齐，增强组合语义理解，简化训练。",
+      "category": "推荐",
+      "theme": "人工智能·AI",
+      "publishTime": 1751458527753,
+      "author": "新智元",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_bbeb3656eb9a4ece84584ccef86bf06f@46958@ai_oswg939851oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361750017067015"
+    },
+    {
+      "title": "36氪晚报｜特朗普35%关税威胁引发日本对最坏情况的担忧；6月东北亚对欧洲航煤出口量创近一年新高；迪拜空中出租车试飞完成，根据计划迪拜明年启动空中出租车商业运营",
+      "summary": "特朗普35%关税威胁引发日本对最坏情况的担忧；6月东北亚对欧洲航煤出口量创近一年新高；迪拜空中出租车试飞完成，根据计划迪拜明年启动空中出租车商业运营",
+      "category": "推荐",
+      "theme": "早晚报",
+      "publishTime": 1751457908994,
+      "author": "常敏潇",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_bf211b7ad1dd49adbcb8cf86090dfb69@5564860_oswg113775oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3361650237114375"
+    },
+    {
+      "title": "「赛博菩萨」发威，AI 巨头的「免费午餐」时代终结了",
+      "summary": "从「防火墙」到「防虫网」，Clouflare 或许将改写网络内容付费历史。",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1751456809654,
+      "author": "极客公园",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_04133b13ea084d7fb522d623f0d11678@000000@ai_oswg298633oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361653605811975"
+    },
+    {
+      "title": "哈啰入局Robotaxi：一场跨界豪赌，是破局还是困局？",
+      "summary": "哈啰的故事，无疑是一部在资本与市场的夹缝中，不断寻找生存与增长路径的商业样本。",
+      "category": "科技",
+      "theme": "创投圈秘事",
+      "publishTime": 1751456795716,
+      "author": "奇点湃",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_4932ac68600a4f718532c157f24dc10c@46958@ai_oswg896646oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361651916626050"
+    },
+    {
+      "title": "阿里系“散装”入场，优酷加入苏超“混战”",
+      "summary": "优酷体育正式官宣拿下苏超直播版权。",
+      "category": "职场",
+      "theme": "营销广告人又干什么了",
+      "publishTime": 1751456767265,
+      "author": "体育大生意",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_a9b12a800b794d4bb949ed799f0262d4@000000@ai_oswg419241oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361660997158658"
+    },
+    {
+      "title": "iPhone隐藏功能曝光，给宠物找虫子，我们试了下",
+      "summary": "苹果安卓手机放大镜功能可辅助检测宠物寄生虫，效果有限引热议。",
+      "category": "科技",
+      "theme": "这些产品动向值得关注",
+      "publishTime": 1751456558176,
+      "author": "科技每日推送",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_7d748eb6120e4b71931a880711528dd8@000000@ai_oswg335466oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361656958404615"
+    },
+    {
+      "title": "抖音四大颜值网红PK，粉丝验资10万起，一小时赚上千万",
+      "summary": "抖音主播验资PK1小时进账千万被停播",
+      "category": "红人",
+      "theme": "叁氪观察",
+      "publishTime": 1751456511745,
+      "author": "科技每日推送",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_efb3ce18565d44d898fe35964f0fc349@46958@ai_oswg894901oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361656824514562"
+    },
+    {
+      "title": "下半年，谁能拦住小米YU7？",
+      "summary": "7月1日，多家车企先后公布上半年销量情况。比亚迪交出了“合格但不亮眼”的成绩单，吉利动作频频、增势迅猛，零跑、小鹏和小米汽车异军突起，再次打乱了国产新能源汽车市场格局，让车企的座次充满变数。",
+      "category": "汽车",
+      "theme": "新造车势力又搞事",
+      "publishTime": 1751456484821,
+      "author": "财天COVER",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_66ceff026b174620ad665b6be0338fda@46958@ai_oswg895618oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361687670806659"
+    },
+    {
+      "title": "《2025中国品牌全球化增长力洞察》完整版",
+      "summary": "如何通过全球化品牌打造，重塑出海新一轮增长引擎",
+      "category": "职场",
+      "theme": "营销广告人又干什么了",
+      "publishTime": 1751456109193,
+      "author": "霞光社",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_7434005a206d410c917f3e3ae0865710@46958@ai_oswg917369oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361690591467651"
+    },
+    {
+      "title": "出海下半场的“风口”，就是AI创新",
+      "summary": "为什么做创新的出海企业，都在拥抱AI云原生？",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1751455583115,
+      "author": "晓曦",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_ec9fe780479b4229a22bb32c95467360@6062546_oswg329810oswg600oswg400_img_png",
+      "url": "https://36kr.com/detail_article?itemId=3361676122916617"
+    },
+    {
+      "title": "7月全球十大富豪：第二换人，马斯克成“最大输家”",
+      "summary": "福布斯富豪榜：埃里森第二，马斯克首富缩水至4070亿。",
+      "category": "推荐",
+      "theme": "商业人物追踪",
+      "publishTime": 1751455005536,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_05d6afd278b94af0bcd3e0b890dde48d@000000@ai_oswg352971oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361655968483081"
+    },
+    {
+      "title": "逢街必扑的前置仓，为什么被朴朴超市跑通了？",
+      "summary": "上市，恐怕只是第一步。",
+      "category": "消费",
+      "theme": "新零售的新发展",
+      "publishTime": 1751454987111,
+      "author": "氢消费",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_6a93f2eb35a64506bfdf76564a3a20c2@46958@ai_oswg943552oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361693400369157"
+    },
+    {
+      "title": "AI把LABUBU“玩活了”：动态壁纸爆卖3万单，3D打印模型月入10万",
+      "summary": "一场由AI驱动的全民造梗与消费狂欢",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1751454891165,
+      "author": "剁椒Spicy",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_0ad3ecb8c52e4c28921b1f29929cf666@46958@ai_oswg1113693oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361693783164672"
+    },
+    {
+      "title": "高考志愿填报，信张雪峰还是信AI？",
+      "summary": "志愿焦虑催生数十亿市场",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1751453248857,
+      "author": "新媒科技评论",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_f86a909ba15244de9efa253b9fea4220@46958@ai_oswg946955oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361560279734659"
+    },
+    {
+      "title": "无法收寄充电宝遭投诉，这个锅不应快递企业背",
+      "summary": "充电宝召回难：快递拒收因安全风险，供应链协同待解。",
+      "category": "消费",
+      "theme": "关于消费的一切",
+      "publishTime": 1751453195792,
+      "author": "亿豹网",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_fbb179fa089f4475a1fcbc4a8082de95@46958@ai_oswg879217oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361645445072896"
+    },
+    {
+      "title": "想活过2025年的车企，应果断挥刀砍向自己冷门的包袱",
+      "summary": "兵贵在精而不在多",
+      "category": "汽车",
+      "theme": "新能源车",
+      "publishTime": 1751453168235,
+      "author": "新能源观察家",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_0f312a9665414cb5a3c691b058fbc56f@46958@ai_oswg773231oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361586225911943"
+    },
+    {
+      "title": "新一代超级科技巨头诞生，Palantir怎么靠AI Agent大涨3000亿美元？",
+      "summary": "彼得·蒂尔打造的新一代超级军工复合体",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1751453115540,
+      "author": "划重点",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_eb9a7013fb9a46df81f31183a0aa8793@46958@ai_oswg813169oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361637138634883"
+    },
+    {
+      "title": "不怕同学是学霸，就怕学霸视频平台过暑假",
+      "summary": "这个暑假，平台上超前学的学霸们，祝你前程似锦！",
+      "category": "科技",
+      "theme": "创投圈秘事",
+      "publishTime": 1751453043001,
+      "author": "文娱价值官",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_13864573597d4390988eccc01e8b2e18@46958@ai_oswg912811oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361579364685952"
+    },
+    {
+      "title": "焦虑的马斯克：解读特斯拉涨价背后的三重困境",
+      "summary": "这并非一次简单的成本驱动型涨价，更像是一次精心计算后的战略试探。",
+      "category": "科技",
+      "theme": "“钢铁侠”马斯克",
+      "publishTime": 1751452991752,
+      "author": "车云",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_52f87d6155d448678585234c1b379497@000000@ai_oswg352702oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361612778538761"
+    },
+    {
+      "title": "美图秀秀老板，抓住了每一阵风",
+      "summary": "蔡文胜，一切以“套利空间”为标准。",
+      "category": "科技",
+      "theme": "创投圈秘事",
+      "publishTime": 1751452978244,
+      "author": "吴怼怼",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_15f0165a9eca43e8b04d24f8da7ff336@46958@ai_oswg975103oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361619482396673"
+    },
+    {
+      "title": "李飞飞最新访谈：没有空间智能，AGI就不完整",
+      "summary": "让智能体能够讲述世界的故事",
+      "category": "推荐",
+      "theme": "人工智能·AI",
+      "publishTime": 1751452928661,
+      "author": "量子位",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_f487e9b0d77c40c98111cb9cb5c0543e@46958@ai_oswg810387oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361653776287488"
+    },
+    {
+      "title": "A股年中分红高潮已至，2982家公司派现1.44万亿元",
+      "summary": "年中是上市公司分红的高峰期，根据年报披露的分红预案，再经过股东大会审议等程序，通常5月至7月进入实际分红实施阶段。",
+      "category": "财经",
+      "theme": "A股",
+      "publishTime": 1751451807625,
+      "author": "览富财经网",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_7585e7adc88c429babf7d7cbd4737f85@46958@ai_oswg850797oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361557013420166"
+    },
+    {
+      "title": "德国车市十年演进：性价比“新势力”颠覆传统品牌",
+      "summary": "在更低的价格和更多的配置间寻求平衡",
+      "category": "汽车",
+      "theme": "汽车出行",
+      "publishTime": 1751451729086,
+      "author": "车市睿见",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_2417192d2f7e41058b59a27df3f7e4ef@46958@ai_oswg784776oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361556359125377"
+    },
+    {
+      "title": "里程碑：年薪200万+的短剧编剧岗，出现了",
+      "summary": "200万+年薪，你心动吗？",
+      "category": "职场",
+      "theme": "职场每日必读",
+      "publishTime": 1751451672208,
+      "author": "DataEye",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_fc713d9f3e6a40be8a23ddfba452566f@46958@ai_oswg1034433oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361569812257158"
+    },
+    {
+      "title": "出海速递 | 杨立昆、朱啸虎不看好的赛道，正在海外悄悄赚钱/英媒：欧盟对美关税采取更强硬立场",
+      "summary": "查阅更多出海好文章，请移步出海官网 letschuhai.com。",
+      "category": "推荐",
+      "theme": "出海是门大生意",
+      "publishTime": 1751451360736,
+      "author": "36氪出海",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_9c9200a7751d46bbb46752c5926a05aa@11918142_oswg161392oswg600oswg400_img_png",
+      "url": "https://36kr.com/detail_article?itemId=3361649642948615"
+    },
+    {
+      "title": "新势力上半年交卷，零跑登顶小鹏增幅最大",
+      "summary": "零跑理想交付量突破20万辆。",
+      "category": "消费",
+      "theme": "新造车势力又搞事",
+      "publishTime": 1751451260771,
+      "author": "时代财经",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_9271d7c4194b4263ae32c4eefc30eb21@46958@ai_oswg907790oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361594322159369"
+    },
+    {
+      "title": "水晶直播财富密码：玄学、破价与情绪营销",
+      "summary": "情绪价值就是消费红利。",
+      "category": "红人",
+      "theme": "叁氪观察",
+      "publishTime": 1751451221004,
+      "author": "卡思数据",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_39d4de4e3fe2401aa7eee56068965a3e@46958@ai_oswg934025oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361632713164544"
+    },
+    {
+      "title": "百度搜索近10年最大改版，自己革自己的命？",
+      "summary": "搜索框都改了，从输入端到输出端重做",
+      "category": "推荐",
+      "theme": "人工智能·AI",
+      "publishTime": 1751451058887,
+      "author": "量子位",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_9d2cd81e9caf491ea31a772d9ad4a8db@000000@ai_oswg335369oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361622816720905"
+    },
+    {
+      "title": "当年轻人谈论AI ，是在谈论什么？",
+      "summary": "AI如魔镜，投射孤独或焦虑",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1751451001960,
+      "author": "锌刻度",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_9eea7aedd2d44465a3b7fd5a43a7e462@46958@ai_oswg897652oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361599811815431"
+    },
+    {
+      "title": "泡泡玛特把消费VC带火了",
+      "summary": "聚光灯再一次打向了消费VC。",
+      "category": "消费",
+      "theme": "创投圈秘事",
+      "publishTime": 1751450987200,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_644f18087b5848d686ca69bb6c53b8cc@46958@ai_oswg793961oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361527751149570"
+    },
+    {
+      "title": "茂名富豪王威也要来了，欣旺达拟港股上市",
+      "summary": "一季度入账超122亿。",
+      "category": "科技",
+      "theme": "创投圈秘事",
+      "publishTime": 1751450868131,
+      "author": "时代财经",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_e92b198f3e024fd28a99e4fdd53523b3@46958@ai_oswg852781oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361593667028736"
+    },
+    {
+      "title": "被停职后“复仇”发难，篡改系统权限导致近200万损失，31岁程序员获刑7个月",
+      "summary": "软件系统中最大的变数，向来是人类。",
+      "category": "职场",
+      "theme": "职场每日必读",
+      "publishTime": 1751450799936,
+      "author": "CSDN",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_eb9f189acf0b480c91143171184df9b9@46958@ai_oswg912228oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361603378874375"
+    },
+    {
+      "title": "为什么不要对你的AI说谢谢？",
+      "summary": "AI也讲人情世故吗？",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1751450776721,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_7461156ca243405b9cab55316f123ba3@46958@ai_oswg820724oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361633231275780"
+    },
+    {
+      "title": "让Claude当老板卖零食，结果大翻车：囤钨块、卖高价可乐、还声称要开除人类",
+      "summary": "“我是穿着蓝西装、红领带的真人。”",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1751450730873,
+      "author": "CSDN",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_283f077382924e729dcc5bdf7daeacca@46958@ai_oswg911291oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361603282044676"
+    },
+    {
+      "title": "当思维穿透颅骨：脑机接口帮助人类重连世界",
+      "summary": "脑机接口迎来元年。",
+      "category": "科技",
+      "theme": "潮科技",
+      "publishTime": 1751450441069,
+      "author": "锌财经",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_4a8941412f4340eb99401c5a5f1775d8@000000@ai_oswg354313oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361637368956673"
+    },
+    {
+      "title": "《纽约客》最新撰文：AI教会人类如何写“好”文章，却让真正的好文章消失了",
+      "summary": "以“效率”为名，牺牲原创性；以“智能”之名，统一表达的风格与内容。",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1751450386742,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_74ec36dc1ff546a4b0a6798133cda3c1@46958@ai_oswg766934oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361633267271426"
+    },
+    {
+      "title": "11.01kg收取12kg费用，你的快递正被收取空气费",
+      "summary": "快递\"向上取整\"计费潜规则多年牟利，损害消费者权益。",
+      "category": "消费",
+      "theme": "关于消费的一切",
+      "publishTime": 1751450371664,
+      "author": "极点商业",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_3f7593bc042048aaac87b86b5375766f@000000@ai_oswg338841oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361574388188929"
+    },
+    {
+      "title": "全球市场规模超千亿，企业数暴涨4倍，宠物用品的品牌出海路径",
+      "summary": "“宠物经济” 出海正迎来长期增长风口，全球宠物用品市场规模超 440 亿美元，却暗藏价格内卷与品牌破局博弈。",
+      "category": "推荐",
+      "theme": "新商业观察",
+      "publishTime": 1751448845711,
+      "author": "杨越欣",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_0a5d68cf76ed4816aff8acbac823dae8@5688585_oswg135881oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3361616329803780"
+    },
+    {
+      "title": "动画短剧，无人在意",
+      "summary": "发行零散、观众无感、盈利渺茫？",
+      "category": "消费",
+      "theme": "关于消费的一切",
+      "publishTime": 1751448463183,
+      "author": "靠谱二次元",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_1b26f176746b43e288378209cbc83640@000000@ai_oswg382826oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361511603717894"
+    },
+    {
+      "title": "曾让Adobe豪掷千亿，如今要独立上市了，招股书疯狂点名AI150次，新产品对标Lovable",
+      "summary": "刚刚，网页设计工具开发商 Figma 向美国证券交易委员会（SEC）提交文件，申请首次公开募股（IPO）。",
+      "category": "科技",
+      "theme": "创投圈秘事",
+      "publishTime": 1751448304833,
+      "author": "极客邦科技InfoQ",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_12dc8a61abcf44e6bc270ce426dd8a94@46958@ai_oswg800460oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361602884208393"
+    },
+    {
+      "title": "消失的县城手机一条街",
+      "summary": "多数县城手机店都在慢性死亡。",
+      "category": "消费",
+      "theme": "消费电子",
+      "publishTime": 1751447822221,
+      "author": "镜相工作室",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_854c2e1fd9424865873ad6bf592ea244@46958@ai_oswg900775oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361500243695753"
+    },
+    {
+      "title": "Powin破产，海辰储能300亿估值承压：美国储能政策成出海最大变量",
+      "summary": "出海增长逻辑生变",
+      "category": "科技",
+      "theme": "创投圈秘事",
+      "publishTime": 1751447765177,
+      "author": "市值榜",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_0263114456714539aca890b3b86a05fe@46958@ai_oswg861320oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361496310122242"
+    },
+    {
+      "title": "聪明的钱丨AI产业化狂飙！科创板如何锁定硬科技「黄金赛道」？",
+      "summary": "聚焦芯片自主、场景落地与政策赋能三重驱动。",
+      "category": "财经",
+      "theme": "人工智能·AI",
+      "publishTime": 1751446254035,
+      "author": "36氪财经",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_d0075f95041e41eeac55ffacb1e1333f@5579416_oswg702008oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3361574534285056"
+    },
+    {
+      "title": "隐秘的炫耀：情绪经济时代，我们如何为“身份感”买单？",
+      "summary": "最牛的商业模式，与人类最软的需求相关",
+      "category": "推荐",
+      "theme": "营销广告人又干什么了",
+      "publishTime": 1751446127623,
+      "author": "价值星球Planet",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_aa4734995cf341e693e16e93b1f4304e@46958@ai_oswg876356oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361557089175553"
+    },
+    {
+      "title": "中国具身智能火热，不再简单追随马斯克",
+      "summary": "大模型遇上机器人。",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1751446101918,
+      "author": "数智前线",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_1e0c37eda48c49a886fe3dd616823e50@000000@ai_oswg420912oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361507473049352"
+    },
+    {
+      "title": "靠AI《致富经》B站涨粉50万，“咪克菌”是怎么做到的？",
+      "summary": "当一个手绘动画人转行做AI视频",
+      "category": "科技",
+      "theme": "B站冲破二次元",
+      "publishTime": 1751445855525,
+      "author": "新榜",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_4a8ca9f727c948d7a153cdaff60b02fc@46958@ai_oswg966582oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361557328873476"
+    },
+    {
+      "title": "下载量暴跌八成，AI社交涨不动了",
+      "summary": "虚拟人陪伴赛道熄火了？",
+      "category": "推荐",
+      "theme": "人工智能·AI",
+      "publishTime": 1751445637503,
+      "author": "字母榜",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_10492720d2ec4b4b857ece495d4c5231@46958@ai_oswg725454oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361524298041088"
+    },
+    {
+      "title": "Altman嘲讽小扎挖走的都不是顶尖人才，OpenAI高管再营业曝内幕：ChatGPT爆红后，我火速升职了",
+      "summary": "AI领域竞争日益白热化的当下，人才抢夺大战正激烈上演。",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1751445615927,
+      "author": "AI前线",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_51a5e6b66c144180b8af767561bb4c65@000000@ai_oswg322121oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361524894926850"
+    },
+    {
+      "title": "刘强东押注的京东家装 是真“强”还是“要强”？",
+      "summary": "电商巨头与家装老炮联手，行业洗牌在即",
+      "category": "城市",
+      "theme": "未来地产",
+      "publishTime": 1751444345888,
+      "author": "家居新范式",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_ad09c9e10bff4cfca4e1e0bc5d3e44c8@000000_oswg65706oswg900oswg382_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3361527867950853"
+    },
+    {
+      "title": "大会发布 | Hi! WAIC上线！一位比你更懂大会的“AI搭子”来了",
+      "summary": "2025世界人工智能大会暨人工智能全球治理高级别会议（WAIC）将于7月26日至28日在上海举行。本届大会以“智能时代，同球共济”为主题，知识共创阵容系历届之最。",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1751443849626,
+      "author": "未来一氪",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_f037e526a7da4360b7639f175f40b7b3@5868219_oswg836690oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3361535305697032"
+    },
+    {
+      "title": "大会发布 | 从一场大会，到一座生态，WAIC子品牌矩阵首次全景亮相！",
+      "summary": "2025世界人工智能大会暨人工智能全球治理高级别会议（WAIC）将于7月26日至28日在上海举行。本届大会以“智能时代，同球共济”为主题，知识共创阵容系历届之最。",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1751443737025,
+      "author": "未来一氪",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_ebc551e07e2c4fad81df9b10f2b9eee8@5868219_oswg840280oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3361533295478790"
+    },
+    {
+      "title": "大会发布 | 创业的夏天：WAIC 2025 Future Tech展商名录一览",
+      "summary": "2025世界人工智能大会暨人工智能全球治理高级别会议（WAIC）将于7月26日至28日在上海举行。本届大会以“智能时代，同球共济”为主题，知识共创阵容系历届之最。",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1751443506007,
+      "author": "未来一氪",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_7a4ecd0123494df48d4d7693eb7c3acf@5868219_oswg830293oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3361527649568775"
+    },
+    {
+      "title": "OpenAI最新播客上线，高管首度还原ChatGPT发布前的内部拉锯战",
+      "summary": "OpenAI播客揭秘ChatGPT命名策略、RLHF技术演进及未来AI应用场景。",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1751443377070,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_68e92749d8e8472b9baa7e740a4889de@46958@ai_oswg1021806oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361526365980674"
+    },
+    {
+      "title": "小米YU7爆单，最慌的不是特斯拉",
+      "summary": "“截米”大战背后，最慌的不是特斯拉。",
+      "category": "汽车",
+      "theme": "新造车势力又搞事",
+      "publishTime": 1751443030037,
+      "author": "新品略财经",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_bf7aa9789b524b0296afa2791bab2a76@46958@ai_oswg909426oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361368364701832"
+    },
+    {
+      "title": "近四成亏损，过去一年服饰企业到底有多难？",
+      "summary": "出海、布局户外成为「新出路」？",
+      "category": "消费",
+      "theme": "产业观察",
+      "publishTime": 1751442964904,
+      "author": "联商网",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_69340775fc1b437ca5c3f0a17db8617c@46958@ai_oswg1039588oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361479956289664"
+    },
+    {
+      "title": "马斯克带货Labubu？两个同济校友搞出的这款AI神器，要「卷死」广告圈",
+      "summary": "AI带货时代来了。",
+      "category": "科技",
+      "theme": "“钢铁侠”马斯克",
+      "publishTime": 1751442663982,
+      "author": "机器之心",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_e350731f916a460ab2ba9f65c10e944a@46958@ai_oswg833856oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361473630734080"
+    },
+    {
+      "title": "中国大陆市场关店收缩，日本家居一哥怎么了？",
+      "summary": "与无印良品差距在哪？",
+      "category": "消费",
+      "theme": "关于消费的一切",
+      "publishTime": 1751442644577,
+      "author": "联商网",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_ba5f318eaf534adcb14badc0316f666d@46958@ai_oswg926496oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361480953780360"
+    },
+    {
+      "title": "带妆运动的精致女孩，催生出一个千亿市场",
+      "summary": "美妆品牌进军运动场景，主打防晒防水功能。",
+      "category": "消费",
+      "theme": "体育健身新趋势",
+      "publishTime": 1751442545056,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_0b75c677045b40b29016d31cd2633616@000000@ai_oswg454874oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361478854379271"
+    },
+    {
+      "title": "盒马离千亿目标还有哪些关卡？",
+      "summary": "在零售这场无限游戏中，聚焦用户价值的企业终将穿越周期。",
+      "category": "消费",
+      "theme": "新零售的新发展",
+      "publishTime": 1751442520889,
+      "author": "联商网",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_a3e57eef989d433ba3ae00fa33f38611@46958@ai_oswg965038oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361481646381441"
+    },
+    {
+      "title": "Robinhood欧洲落地代币股权业务，CEO：散户也能进入一级市场",
+      "summary": "传统资产和加密资产之前的墙越来越薄。",
+      "category": "科技",
+      "theme": "创投圈秘事",
+      "publishTime": 1751442436083,
+      "author": "明亮公司",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_e234b860f0c94f6ab9bbf08590805743@000000@ai_oswg318689oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361487185004289"
+    },
+    {
+      "title": "比亚迪正面临着一场不算太糟糕的业务挑战",
+      "summary": "比亚迪现状如何？",
+      "category": "汽车",
+      "theme": "新能源车",
+      "publishTime": 1751442220920,
+      "author": "砺石商业评论",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_702070947a6143039f6532a6641a4de4@000000@ai_oswg387269oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361333335312391"
+    },
+    {
+      "title": "败走美国本土的互联网巨头，凭什么称霸日本？",
+      "summary": "美国不亮日本亮",
+      "category": "科技",
+      "theme": "产业互联网",
+      "publishTime": 1751442199608,
+      "author": "正解局",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_54c1fa069c68414daf4b75042dcc1eca@46958@ai_oswg942494oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361319003441158"
+    },
+    {
+      "title": "“我财务造假，我高管被罚，但我仍能创造年入百亿的微信小游戏”",
+      "summary": "一只ST股票的逆袭",
+      "category": "消费",
+      "theme": "游戏圈大事件",
+      "publishTime": 1751442169864,
+      "author": "鹿鸣财经",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_8d189fff0b8542e3934e4c47c3f4c432@000000@ai_oswg336771oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361292351817736"
+    },
+    {
+      "title": "一个身上挂满摄像头的时代要来了",
+      "summary": "当代码获得物理身体。",
+      "category": "科技",
+      "theme": "互联网新鲜事",
+      "publishTime": 1751442151700,
+      "author": "爱范儿",
+      "image": "https://img.36krcdn.com/hsossms/20250624/v2_7cf202c1363d4072ae73959d62792704@000000@ai_oswg245029oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3349974539198338"
+    },
+    {
+      "title": "出海「越南」放贷：新牌照、新机遇",
+      "summary": "附：越南主流贷款产品详情",
+      "category": "财经",
+      "theme": "出海是门大生意",
+      "publishTime": 1751441686816,
+      "author": "一只互金鹅",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_ff089f6b8ce945c28eeb71465f2d546a@46958@ai_oswg764206oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361433726015874"
+    },
+    {
+      "title": "“漂亮饭” 占领三里屯",
+      "summary": "吃饭的最高境界始终都是“人间有味是清欢”",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1751441381953,
+      "author": "潮汐商业评论",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_67af6ce3058e4ca899dab616ea804b28@46958@ai_oswg1040463oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361432603236741"
+    },
+    {
+      "title": "“爱优腾芒”竞速赛：上半年喜忧参半，下半年要寻求差异化",
+      "summary": "爆款剧依然是重点，短剧成为新变量。",
+      "category": "消费",
+      "theme": "产业互联网",
+      "publishTime": 1751440769227,
+      "author": "连线Insight",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_1f46b0212266469e992f23361baa3d75@000000@ai_oswg144971oswg768oswg768_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361298471094281"
+    },
+    {
+      "title": "日本停滞35年，迎来“中国时刻”",
+      "summary": "日本消费者的钱包，还有得赚。",
+      "category": "财经",
+      "theme": "产业观察",
+      "publishTime": 1751440454847,
+      "author": "霞光社",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_a75ba63ad13843e9aac626d695373059@000000@ai_oswg319458oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361369377392648"
+    },
+    {
+      "title": "AI：加速能力退化的元凶",
+      "summary": "过度依赖大语言模型（LLM）正在加速软件工程师的能力退化。LLM永远无法替代人类的批判性思维。",
+      "category": "推荐",
+      "theme": "神译局",
+      "publishTime": 1751440334000,
+      "author": "神译局",
+      "image": "https://img.36krcdn.com/hsossms/20250608/v2_84a3a58e53f84354b6e8a4b06c944647@1694_oswg961417oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3327935191788040"
+    },
+    {
+      "title": "可灵悄悄赚了1个亿",
+      "summary": "爆款公式有了，1亿赚了，然后呢？",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1751440297035,
+      "author": "凤凰网科技",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_32d8ee87c2984c2c90f3cc3a60017f5a@46958@ai_oswg826779oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361406560786820"
+    },
+    {
+      "title": "放心，为什么说AI永远杀不死真正的程序员？",
+      "summary": "给木匠们配上数控机床，猜猜谁能做出更好的家具？",
+      "category": "推荐",
+      "theme": "神译局",
+      "publishTime": 1751439995000,
+      "author": "神译局",
+      "image": "https://img.36krcdn.com/hsossms/20250608/v2_30a71f24a1d84cb28b1a533dd474466c@1694_oswg954119oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3327862241749256"
+    },
+    {
+      "title": "100亿元湖北省人形机器人产业投资母基金成功设立",
+      "summary": "依托“政-产-学-研-金”深度融合，联合省内顶尖高校院所，为人形机器人及人工智能项目提供“资本+产业+场景+管理”全方位赋能。",
+      "category": "创投",
+      "theme": "创投新闻",
+      "publishTime": 1751439712342,
+      "author": "蓝莓",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_239b90be69e24df9a0ad29d617af8f91@5532758@ai_oswg810676oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361465573771268"
+    },
+    {
+      "title": "离职的时候要不要告诉老板真实原因？",
+      "summary": "离职的时候要不要告诉老板真实原因？",
+      "category": "职场",
+      "theme": "职场每日必读",
+      "publishTime": 1751439638314,
+      "author": "猎聘",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_3c6b7158d3d147b898c51cb0a385a248@000000@ai_oswg260854oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361359934703360"
+    },
+    {
+      "title": "新势力上半年成绩单出炉：只有小鹏过关，有品牌完成率不足两成",
+      "summary": "目标太高还是实力不行？",
+      "category": "汽车",
+      "theme": "业绩快报",
+      "publishTime": 1751439550730,
+      "author": "电车通",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_139d924cba3742c397b0fda3cc492c19@1743780481@ai_oswg923467oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361259994503558"
+    },
+    {
+      "title": "新造车半年报来了，零跑第一，小字辈狂飙，厂二代集体反扑",
+      "summary": "淘汰赛仍在继续",
+      "category": "汽车",
+      "theme": "新造车势力又搞事",
+      "publishTime": 1751439494414,
+      "author": "超电实验室",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_10cd7d4ce95e4f168424fb01e984cd74@000000@ai_oswg301782oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361332511180548"
+    },
+    {
+      "title": "苹果眼镜路线图曝出：AI拍照眼镜、青春版头显Vision Air 27年登场，再次「虽迟但到」？",
+      "summary": "苹果或许是最适合做智能眼镜的品牌",
+      "category": "科技",
+      "theme": "王者苹果？",
+      "publishTime": 1751439474126,
+      "author": "爱范儿",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_4aba9400b73146b181449b062cc2101d@000000@ai_oswg287426oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361292210751240"
+    },
+    {
+      "title": "OpenAI转向TPU，这对谷歌、英伟达和亚马逊意味着什么？",
+      "summary": "OpenAI采用谷歌TPU，推动云增长，挑战英伟达，亚马逊AWS缺席。",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1751439472972,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_304bd13787a0411c8b237256c0dd7acd@1743780481@ai_oswg1008539oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361266357602049"
+    },
+    {
+      "title": "消费电子迎来锂电池革命：硅碳负极+半固态要彻底爆发了？",
+      "summary": "锂电池迎来了一场「翻身仗」。",
+      "category": "推荐",
+      "theme": "消费电子",
+      "publishTime": 1751439448410,
+      "author": "雷科技",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_46045fa3b49f4550b228e0858937692f@1743780481@ai_oswg920075oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361200730888326"
+    },
+    {
+      "title": "大转弯，这些品牌燃油车又不停售了？发生了什么",
+      "summary": "跨国车企推迟停售燃油车，电动化放缓因市场差异。",
+      "category": "科技",
+      "theme": "汽车出行",
+      "publishTime": 1751439311681,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_11b9095073fb4a6cbc1f6c2e460d20b0@000000@ai_oswg395537oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361189069768707"
+    },
+    {
+      "title": "失控的充电宝，成了谁的「摇钱树」？",
+      "summary": "到底什么充电宝，能带上飞机",
+      "category": "推荐",
+      "theme": "消费电子",
+      "publishTime": 1751439258782,
+      "author": "凤凰周刊",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_d2aa3e90c6b54de9b7333aa19a4a034e@000000@ai_oswg345624oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361117828712456"
+    },
+    {
+      "title": "一家公司好不好，看员工的“面相”就知道了",
+      "summary": "状态，会写在脸上。",
+      "category": "职场",
+      "theme": "新鲜职场人",
+      "publishTime": 1751439092039,
+      "author": "张丽俊Cherry",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_e02a9a6299b745658049b2000195d360@1743780481@ai_oswg802440oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361238883489922"
+    },
+    {
+      "title": "2位博士靠卖哮喘药三冲IPO，背后长风药业年入6亿",
+      "summary": "9成收入来自单一药品。",
+      "category": "财经",
+      "theme": "IPO快报",
+      "publishTime": 1751438999312,
+      "author": "野马财经",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_8bad8a07c9a04e8fbb4e6ffb881f0686@1743780481@ai_oswg957097oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361240582539270"
+    },
+    {
+      "title": "苹果 CarPlay Ultra 初体验：它很好，但却被车企「集体抵制」",
+      "summary": "来自苹果的一次车机革命。",
+      "category": "推荐",
+      "theme": "王者苹果？",
+      "publishTime": 1751438668937,
+      "author": "爱范儿",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_9217f4fec13b4e5bb1c0f431b0b85e90@6100851_oswg812411oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3361248004261891"
+    },
+    {
+      "title": "LG手机彻底死亡，被华为小米们轮番吊打，全因不关注用户需求？",
+      "summary": "LG手机彻底没了。",
+      "category": "科技",
+      "theme": "消费电子",
+      "publishTime": 1751438585531,
+      "author": "雷科技",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_17848e04cee442118e3248b9b60ebf92@1743780481@ai_oswg853533oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361249406802312"
+    },
+    {
+      "title": "诺奖得主Hassabis预言成真，AI零样本发现新抗体，轰动整个医药圈",
+      "summary": "AI制药突破！Chai-2抗体设计零样本命中率16%，成本骤降百倍，两周完成研发。",
+      "category": "科技",
+      "theme": "前沿技术",
+      "publishTime": 1751438433041,
+      "author": "新智元",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_1fc7c69b2f3145449636e734e8704718@1743780481@ai_oswg762990oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361255561594882"
+    },
+    {
+      "title": "柠檬价格暴涨，蜜雪冰城等企业对加盟商开启涨价，消费者还能喝到平价快乐水吗",
+      "summary": "一颗小柠檬引发的成本地震",
+      "category": "消费",
+      "theme": "关于消费的一切",
+      "publishTime": 1751438329290,
+      "author": "食品内参",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_352c9dcf564d4bba89391a0c80056970@1743780481@ai_oswg838600oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361269001930757"
+    },
+    {
+      "title": "临期商品为何卖不动？原来是“抠门”标签在作怪",
+      "summary": "我们的消费决策，不仅关乎产品本身，更关乎他人如何看待我们",
+      "category": "消费",
+      "theme": "关于消费的一切",
+      "publishTime": 1751438186176,
+      "author": "复旦《管理视野》",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_09b7fa35bc994c6399ecf82c7a6ad38c@000000@ai_oswg252936oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361147610564614"
+    },
+    {
+      "title": "为什么我建议你，在AI时代多做点无用功？",
+      "summary": "比掌握AI工具更重要的，是重新学会如何看世界。",
+      "category": "推荐",
+      "theme": "人工智能·AI",
+      "publishTime": 1751438054519,
+      "author": "有界UnKnown",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_56bae383f4cf4d38a998d7b5bbfc2dcc@1743780481@ai_oswg946373oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361155663829129"
+    },
+    {
+      "title": "上线两年小游戏仅靠更换贴图翻红，月下载超873万，美国山海经重塑流量密码",
+      "summary": "或许未来的终极赢家，属于那些既能驾驭荒诞，又能为符号注入灵魂的创作者",
+      "category": "消费",
+      "theme": "游戏圈大事件",
+      "publishTime": 1751437947478,
+      "author": "点点数据",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_b0f46ccf227d441ebcc26dc4eab12080@1743780481@ai_oswg854704oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361158886168966"
+    },
+    {
+      "title": "新势力6月销量：问界超理想，小米排第五",
+      "summary": "半年榜前三：零跑、理想、小鹏。",
+      "category": "推荐",
+      "theme": "业绩快报",
+      "publishTime": 1751437808990,
+      "author": "定焦One",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_2d871a3b9193431da7534a59c645987a@000000@ai_oswg351725oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361180617524997"
+    },
+    {
+      "title": "“稻米造血”之父即将迎来一个IPO",
+      "summary": "科创板第五套标准正式迎来重启后首家过会企业。",
+      "category": "专精特新",
+      "theme": "IPO快报",
+      "publishTime": 1751437708217,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_71592340c7ca4e8d8ccbbc8613e3a8d7@000000@ai_oswg386704oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361209023383305"
+    },
+    {
+      "title": "“漂亮饭”占领三里屯",
+      "summary": "吃饭的最高境界始终都是“人间有味是清欢”。",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1751437664732,
+      "author": "潮汐商业评论",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_14139a81d9fa456b94cf8e6c0e789f21@000000@ai_oswg395981oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361183219714051"
+    },
+    {
+      "title": "Anthropic 胜诉引爆AI版权革命：训练数据\"合理使用\"获美国司法认可",
+      "summary": "美法官首裁AI训练属合理使用 作家抗议盗版赔偿",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1751437490550,
+      "author": "互联网法律评论",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_7b945d4a3a5244fba83abaaebd3a78a4@1743780481@ai_oswg862090oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361194825685377"
+    },
+    {
+      "title": "中科院院士郑海荣：马斯克的脑机接口方案“太落后了”",
+      "summary": "郑海荣倡无创脑机接口，批马斯克侵入式技术。",
+      "category": "科技",
+      "theme": "前沿技术",
+      "publishTime": 1751437378271,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_26280a95a9514cd7925f0dd1c4eb5013@1743780481@ai_oswg813057oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361213161572105"
+    },
+    {
+      "title": "美股新高苹果特斯拉却掉队，只因违逆特朗普？",
+      "summary": "标普纳指新高，苹果特斯拉陷特朗普政策困境",
+      "category": "财经",
+      "theme": "美股",
+      "publishTime": 1751437336308,
+      "author": "日经中文网",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_c39e47fbd9124f62acacf19c625290ca@000000@ai_oswg304724oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361237681538821"
+    },
+    {
+      "title": "今年投资人不去雍和宫，改找周易大师算命了",
+      "summary": "白云观的猴，也别摸了。",
+      "category": "财经",
+      "theme": "创投圈秘事",
+      "publishTime": 1751437313600,
+      "author": "融资中国",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_b7892f2ba0ff45dd9d86245dbe67f025@1743780481@ai_oswg842923oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361238643361796"
+    },
+    {
+      "title": "爷青回，可拆卸电池手机又回来了，但我不会买",
+      "summary": "可拆卸电池终将只是少数人的选择。",
+      "category": "科技",
+      "theme": "消费电子",
+      "publishTime": 1751437250654,
+      "author": "雷科技",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_a344dfc9de364f1183f345f1181da3db@1743780481@ai_oswg733856oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361242551212425"
+    },
+    {
+      "title": "毁三观！一老牌港资房企，自己做空自己",
+      "summary": "牛逼的三连空",
+      "category": "城市",
+      "theme": "未来地产",
+      "publishTime": 1751435814951,
+      "author": "路数",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_efc429f68f9f410ba02768912251d3ef@6208419@ai_oswg920705oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361398498264839"
+    },
+    {
+      "title": "「时代的眼泪」，哈根达斯也不香了？丨氪金·大事件",
+      "summary": "卖掉门店也不失为好选择。",
+      "category": "推荐",
+      "theme": "氪金",
+      "publishTime": 1751433279624,
+      "author": "陈思竹",
+      "image": "https://img.36krcdn.com/hsossms/20250620/v2_c24ca50ef8074161a471242d44c50156@6076018_oswg114918oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3344575415141000"
+    },
+    {
+      "title": "上半年基金业绩排行揭晓：“冠军”涨超85%，北交所、医药、港股基金领跑",
+      "summary": "挑战中赚收益",
+      "category": "财经",
+      "theme": "基金动态",
+      "publishTime": 1751431198908,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_15ec664f54c14bc69844dcdbce610818@1743780481@ai_oswg833078oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361271005202185"
+    },
+    {
+      "title": "瑞幸“突袭”纽约，星巴克仓皇应战：一场失控的咖啡战争",
+      "summary": "星巴克的焦虑加剧？",
+      "category": "推荐",
+      "theme": "食品饮料",
+      "publishTime": 1751431108412,
+      "author": "食品内参",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_325e8ecd587947e4aec488daeda3b97b@1743780481@ai_oswg937952oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361267905054467"
+    },
+    {
+      "title": "投资1000000000元，山姆再落一子",
+      "summary": "山姆沈阳二店签约，轻资产加速扩张，业绩增长显著",
+      "category": "消费",
+      "theme": "新零售的新发展",
+      "publishTime": 1751431046483,
+      "author": "零售圈",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_50133b28577a4d8990fdbf7a47396a45@1743780481@ai_oswg935057oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361266887935749"
+    },
+    {
+      "title": "跳槽实现财富自由，小扎千万年薪快要“掏空”OpenAI核心人才，还高调“晒”挖人成绩单：各栈大牛，近70%是华人",
+      "summary": "Meta高薪挖角OpenAI等AI人才，建超级实验室引竞争。",
+      "category": "推荐",
+      "theme": "金融科技",
+      "publishTime": 1751430848997,
+      "author": "AI前线",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_145a5bffe6424b4fadc183ae5e5d41e2@1743780481@ai_oswg986395oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361263884568328"
+    },
+    {
+      "title": "Circle看空报告来了，摩根大通：盈利模式“剪刀差”吞噬利润，再给10%“情绪溢价”也只值80美元",
+      "summary": "摩根大通预警Circle估值过高，目标价$80，减持评级，多重挑战致股价风险",
+      "category": "财经",
+      "theme": "创投圈秘事",
+      "publishTime": 1751430812090,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_4baceb7b6f624612b12792349f97167f@1743780481@ai_oswg717723oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361265506895872"
+    },
+    {
+      "title": "瑞幸在纽约两店同开，但不打折比星巴克还贵？",
+      "summary": "瑞幸在美国，对手远不止星巴克。",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1751430775722,
+      "author": "肖思佳",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_a555b53dc19945a59a9cafd12882fb06@6208701_oswg259734oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3361309830055942"
+    },
+    {
+      "title": "4年3次加码核聚变，硅谷巨头们疯狂抢电ing",
+      "summary": "AI的下一个风口已经被核聚变锁定了",
+      "category": "科技",
+      "theme": "金融科技",
+      "publishTime": 1751430753793,
+      "author": "量子位",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_322c7e434d004113907e62fd7fc7d645@1743780481@ai_oswg843265oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361262020773894"
+    },
+    {
+      "title": "九牧王卖户外裤，什么中产新套路？",
+      "summary": "九牧王转型都市户外推空调裤，市场竞争加剧业绩承压。",
+      "category": "消费",
+      "theme": "关于消费的一切",
+      "publishTime": 1751430672375,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_767d8be039d7444fa46043fff041bb85@1743780481@ai_oswg944261oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361234217535492"
+    },
+    {
+      "title": "Meta抄袭DeepSeek大翻车？硅谷大佬爆料亮点满满，AI军备烧钱真相震碎硅谷",
+      "summary": "OpenAI或先达ASI，Meta模仿翻车，GPT-4.5数据不足，苹果落后。",
+      "category": "推荐",
+      "theme": "人工智能·AI",
+      "publishTime": 1751430520375,
+      "author": "新智元",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_9b2cf81395bd4a0e8f37683747495074@6100851_oswg487545oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3361251642542081"
+    },
+    {
+      "title": "4月美国关税战，对咖啡豆市场的影响",
+      "summary": "关税生效后，I-CIP综合指标价格创下四个月新低。",
+      "category": "消费",
+      "theme": "产业观察",
+      "publishTime": 1751430375419,
+      "author": "茶咖观察",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_e4c36f4d92cb470bb0c774237a591c30@1743780481@ai_oswg821277oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361245993113986"
+    },
+    {
+      "title": "新氧“童颜针”遭品牌方手撕，市值却暴涨223%",
+      "summary": "左右手互搏的新氧，在革谁的命？",
+      "category": "消费",
+      "theme": "企业金融新动向",
+      "publishTime": 1751430333426,
+      "author": "野马财经",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_ee48806947904a9884675fdd947525c8@1743780481@ai_oswg940783oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361240415356928"
+    },
+    {
+      "title": "复刻90%哈利波特，洗无可洗的Meta居然赢了？",
+      "summary": "能白嫖付费小说？AI 把版权方彻底逼急了。。。",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1751429966116,
+      "author": "差评",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_88b25e1ca9704e42b114d61e7be93509@1743780481@ai_oswg926686oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361239019718405"
+    },
+    {
+      "title": "中国两大医药“隐形冠军”专利战曝光，千亿市场谁出局谁独享",
+      "summary": "和铂医药与百奥赛图抗体专利战，涉核心技术影响估值。",
+      "category": "财经",
+      "theme": "医疗健康",
+      "publishTime": 1751429730471,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_5e2b265fcb5d472faef1c9fa2859ec1d@1743780481@ai_oswg792592oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361211109050112"
+    },
+    {
+      "title": "华为系首次突破5.2万辆，它是怎么做到的？",
+      "summary": "华为鸿蒙智行6月交付5.2万辆，问界领跑，中国品牌崛起合资遇冷。",
+      "category": "汽车",
+      "theme": "业绩快报",
+      "publishTime": 1751429676057,
+      "author": "牲产队",
+      "image": "https://img.36krcdn.com/hsossms/20250701/v2_cbfec0be89fa42b48322c88916669ab5@1743780481@ai_oswg901859oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3360569211033986"
+    },
+    {
+      "title": "1/5工程师跑路，微软AI芯片难产，或将推迟至2026年量产",
+      "summary": "微软AI芯片量产延至2026年，设计变更、人力不足及能效落后英伟达。",
+      "category": "推荐",
+      "theme": "金融科技",
+      "publishTime": 1751429560476,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250701/v2_0c74edd8373c4affb8b06f5dd5876f3e@1743780481@ai_oswg779999oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3360560015984390"
+    },
+    {
+      "title": "中国芯片冲刺IPO，与英伟达“阉割芯片”争抢3500亿",
+      "summary": "国产GPU企业扎堆IPO，营收激增亏损仍存，产能生态待突破。",
+      "category": "推荐",
+      "theme": "IPO快报",
+      "publishTime": 1751429436072,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250701/v2_f33e89f0a3ef46f89bb867e4ae1ae226@1743780481@ai_oswg948446oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3360553587410694"
+    },
+    {
+      "title": "荣耀上市，得先用销量说话",
+      "summary": "接下来一年的市场表现，将直接衡量荣耀 IPO 的成败。",
+      "category": "科技",
+      "theme": "金融科技",
+      "publishTime": 1751429390306,
+      "author": "山上",
+      "image": "https://img.36krcdn.com/hsossms/20250701/v2_e56fa5a0483040e48cedb1ebbfb41cd1@1743780481@ai_oswg878307oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3360553044334728"
+    },
+    {
+      "title": "“长安的荔枝”，能否救西安的旅游？",
+      "summary": "山西最赚钱的旅企是谁？",
+      "category": "城市",
+      "theme": "未来地产",
+      "publishTime": 1751429375803,
+      "author": "空间秘探",
+      "image": "https://img.36krcdn.com/hsossms/20250630/v2_d7ef9e2428644446aefde67e1395ce64@5176381_oswg1083720oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3359103974218114"
+    },
+    {
+      "title": "召回潮下，“充电宝自由”将成奢望，安克、罗马仕们如何突围？",
+      "summary": "充电宝企业续命药方在哪？",
+      "category": "科技",
+      "theme": "金融科技",
+      "publishTime": 1751429286584,
+      "author": "鲸商",
+      "image": "https://img.36krcdn.com/hsossms/20250701/v2_4d619b30ea724466b544b0ac7eb91051@000000@ai_oswg214602oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3360546431682309"
+    },
+    {
+      "title": "《哪吒2》卖了154亿，影院、片方为什么还在哭穷？",
+      "summary": "这154亿到底谁赚得最多？",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1751428327327,
+      "author": "差评",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_1038974008824c969d9d011a24a18718@1743780481@ai_oswg914386oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361273993398022"
+    },
+    {
+      "title": "全国的楼市库存到底有多少？",
+      "summary": "任重道远",
+      "category": "城市",
+      "theme": "未来地产",
+      "publishTime": 1751427407522,
+      "author": "真叫卢俊",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_f3dbdef1a1e94bc48ea370237898d630@6208419_oswg276004oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3361239861872642"
+    },
+    {
+      "title": "抵制内卷，国内光伏玻璃龙头集体减产30% ，专家：有利于玻璃价格复苏",
+      "summary": "光伏玻璃厂商集体减产30%应对过剩，库存高压连亏8周促价复苏。",
+      "category": "科技",
+      "theme": "产业观察",
+      "publishTime": 1751427001468,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_acb5f4792ed149e1894de4bf0d2a8bb0@1743780481@ai_oswg835418oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361171821840136"
+    },
+    {
+      "title": "当代年轻人，流行给网球拍戴「饰品」",
+      "summary": "球拍避震器，成了网球人的新社交货币",
+      "category": "消费",
+      "theme": "体育健身新趋势",
+      "publishTime": 1751426966110,
+      "author": "体育产业生态圈",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_e3eb42b23b1046ad93bcf2a4dbefc71a@1743780481@ai_oswg811988oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361207969024000"
+    },
+    {
+      "title": "阿里变阵，蒋凡集权",
+      "summary": "“新老”权力接棒，蒋凡“进”至金字塔顶端。",
+      "category": "推荐",
+      "theme": "阿里的疆域",
+      "publishTime": 1751426680075,
+      "author": "猎云网",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_bdcd4e499c7a4936a3f61c38f851aeaf@1743780481@ai_oswg875716oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361204337592321"
+    },
+    {
+      "title": "“稳定币第一股”暴涨近五倍，机构却在做空？",
+      "summary": "稳定币合法化推进，监管担忧其风险，相关股价暴涨后现抛售",
+      "category": "财经",
+      "theme": "创投圈秘事",
+      "publishTime": 1751426419286,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_753f2f4368e84bec9ad08a8efb0d7a3d@1743780481@ai_oswg901665oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361186933344261"
+    },
+    {
+      "title": "被新能源坑哭后，奥迪重新拥抱燃油了",
+      "summary": "奔驰、宝马：哟，奥迪小老弟，你终于绷不住啦？",
+      "category": "科技",
+      "theme": "汽车出行",
+      "publishTime": 1751426125394,
+      "author": "差评",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_a39d5525d48f421ba6064f8917de74d8@1743780481@ai_oswg906793oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361202578360329"
+    },
+    {
+      "title": "《纽约客》：AI教会人类如何写“好”文章，却让真正的好文章消失了",
+      "summary": "AI致写作趋同，原创性下降，需反思文化霸权。",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1751426040176,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250701/v2_92d566af1d2441e79e907921391363a1@1743780481@ai_oswg777362oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3360550601721860"
+    },
+    {
+      "title": "英伟达的股价并未体现其自主 AI 实力",
+      "summary": "AI业务仍在全速发展。",
+      "category": "科技",
+      "theme": "业绩快报",
+      "publishTime": 1751425952682,
+      "author": "美股研究社",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_0e0400c8f20344e59f19278c87095bb5@1743780481@ai_oswg902389oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361200333653764"
+    },
+    {
+      "title": "太猛了，这些高校疯狂进步，背后是中国全力押注理工科",
+      "summary": "学生彻底躺赢",
+      "category": "科技",
+      "theme": "全民教育",
+      "publishTime": 1751425908701,
+      "author": "智谷趋势",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_e679c8ff71f34310bfb007234d79676c@1743780481@ai_oswg1013756oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361196293850882"
+    },
+    {
+      "title": "阿里云领投，BetterYeah AI完成超亿元B轮融资，刷新国内Agent领域融资纪录",
+      "summary": "充分印证市场对智能体方向的信心。",
+      "category": "创投",
+      "theme": "潮科技",
+      "publishTime": 1751425808473,
+      "author": "时氪分享",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_056746a3f57e413891d20d57f814051c@5679941_oswg48993oswg600oswg400_img_jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361205406500612"
+    },
+    {
+      "title": "搭上光通信便车，仕佳光子股价翻倍",
+      "summary": "AI驱动光芯片需求激增，仕佳光子股价涨124%市值174.6亿，高估值引减持风险。",
+      "category": "财经",
+      "theme": "企业金融新动向",
+      "publishTime": 1751425782513,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_79e28acf96b34f2e8bda24ac46948c07@1743780481@ai_oswg924847oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361176733337602"
+    },
+    {
+      "title": "72起IP联名，半年烧钱上亿，新茶饮营销为何“高投入低热度”？",
+      "summary": "联名是不是“赔钱赚吆喝”？",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1751425531386,
+      "author": "雷报",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_64a8f75c86014bc7b4b20ac0edf7da49@1743780481@ai_oswg1020800oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361190115624962"
+    },
+    {
+      "title": "同一天，两大原料龙头冲刺IPO",
+      "summary": "维琪、珈凯冲刺北交所，化妆品原料龙头年收超2亿",
+      "category": "专精特新",
+      "theme": "IPO快报",
+      "publishTime": 1751425008149,
+      "author": "青眼",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_67ea74dd6b474ef08084de850c78b6af@1743780481@ai_oswg943230oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361187575252992"
+    },
+    {
+      "title": "斯坦福对话：从达特茅斯到OpenAI，AI的历史是一部争权史",
+      "summary": "斯坦福对话揭AI帝国：OpenAI权力斗争与资源消耗隐忧",
+      "category": "推荐",
+      "theme": "人工智能·AI",
+      "publishTime": 1751424846164,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250701/v2_ce9b05a8061348688a16fa02245f4c9b@1743780481@ai_oswg1028457oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3360546978318343"
+    },
+    {
+      "title": "论证70余年，黄河上的“超级工程”要来了？",
+      "summary": "什么项目值得争论70多年",
+      "category": "城市",
+      "theme": "城市风向标",
+      "publishTime": 1751424696656,
+      "author": "城市进化论",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_f212cba377fa42658510c9ce2c20eb4a@1743780481@ai_oswg923620oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361169770399750"
+    },
+    {
+      "title": "美股创高却遭资金“出逃”，稳定币巨头Circle要做银行？",
+      "summary": "稳定币巨头Circle IPO后加速布局！",
+      "category": "财经",
+      "theme": "美股",
+      "publishTime": 1751424625758,
+      "author": "美股投资网",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_74a3f2d09bec498c97e79ced838bd488@000000@ai_oswg333275oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361086834280200"
+    },
+    {
+      "title": "英国“穷鬼超市”Iceland在中国该怎么卷？",
+      "summary": "Iceland在中国的主阵地仍然是线上，而限时开放的线下门店更像是在为线上引流。",
+      "category": "推荐",
+      "theme": "新零售的新发展",
+      "publishTime": 1751424539822,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250701/v2_2975be6a79fb4d619003a0f956aa6121@1743780481@ai_oswg881110oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3360544744425478"
+    },
+    {
+      "title": "卖掉度假房",
+      "summary": "近年来，随着房地产市场逐步进入新常态，有人基于资产配置等考虑，开始出售闲置的度假房产。",
+      "category": "城市",
+      "theme": "未来地产",
+      "publishTime": 1751424517022,
+      "author": "未来城不落",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_305db0d9d1d34e6db5b33d600874aa8e@6208419@ai_oswg840565oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361214816012039"
+    },
+    {
+      "title": "OpenAI首次停摆的背后",
+      "summary": "Meta挖角，OpenAI为什么要停摆一周?",
+      "category": "推荐",
+      "theme": "人工智能·AI",
+      "publishTime": 1751424355065,
+      "author": "甲子光年",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_1580652da5894593a92aaa84806b2a6f@1743780481@ai_oswg990949oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361196065835010"
+    },
+    {
+      "title": "杭州，跑出一个独角兽IPO",
+      "summary": "易加增材冲刺科创板IPO，募资12亿研发工业3D打印设备",
+      "category": "推荐",
+      "theme": "IPO快报",
+      "publishTime": 1751424276973,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_5360d55c496c4ea9a176001b527cbf67@1743780481@ai_oswg736141oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361180462941952"
+    },
+    {
+      "title": "上半年成都商品住宅成交面积同涨7.7%，土地出让金同增超100%",
+      "summary": "1-6月，成都商品住宅累计成交653.4万㎡，同比上升7.7%",
+      "category": "城市",
+      "theme": "未来地产",
+      "publishTime": 1751424199639,
+      "author": "中指研究院",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_eacd4008bfb94004b45d8d8fefbb0d0f@6208419_oswg345912oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3361207341402119"
+    },
+    {
+      "title": "这个看似平平无奇的新商场，为什么消费者愿意N刷？",
+      "summary": "在这里，会让你在不知不觉中为视觉买单。",
+      "category": "城市",
+      "theme": "未来地产",
+      "publishTime": 1751423700170,
+      "author": "赢商网",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_24f5226a8ae24cc9b3d2c7a471480cf6@6208419_oswg1012036oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3361187273639688"
+    },
+    {
+      "title": "苏超得票率不足3%，卡塔尔世界杯中签率5%，看苏超比世界杯还难？",
+      "summary": "一票难求，苏超“幸福的烦恼”",
+      "category": "推荐",
+      "theme": "体育健身新趋势",
+      "publishTime": 1751422875023,
+      "author": "剁椒Spicy",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_0ce868118d604cfd966833ecf6fcd9e6@1743780481@ai_oswg1017957oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361146827180039"
+    },
+    {
+      "title": "“苏超”火了，谁才是江苏楼市的“顶流”？",
+      "summary": "新房成交累计同比增速和房价涨幅“黑马”城市竟是它们！",
+      "category": "城市",
+      "theme": "未来地产",
+      "publishTime": 1751422718054,
+      "author": "丁祖昱评楼市",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_f936670cceb84414a2a6fb2a142cafed@6208419_oswg267561oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3361184629770242"
+    },
+    {
+      "title": "14大车企交卷：问界月销首超理想，小鹏半年顶全年，比亚迪卖了四个长城",
+      "summary": "14家车企半年卖车550万台，8成是新能源。",
+      "category": "推荐",
+      "theme": "业绩快报",
+      "publishTime": 1751422686640,
+      "author": "智东西",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_35378ffb52d74553bdf348a218fd8285@1743780481@ai_oswg921609oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361146669745925"
+    },
+    {
+      "title": "AI眼镜的薛定谔“出圈”",
+      "summary": "小米也没能打爆品类。",
+      "category": "科技",
+      "theme": "潮科技",
+      "publishTime": 1751422591841,
+      "author": "伯虎财经",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_c1fcdb1dd49f4b6c9922bbd61295dc1f@1743780481@ai_oswg833164oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361163273193473"
+    },
+    {
+      "title": "二手房挂牌量与成交量齐头并进 市场态势仍在以价换量区间",
+      "summary": "挂牌量保持上涨",
+      "category": "城市",
+      "theme": "未来地产",
+      "publishTime": 1751422382789,
+      "author": "未来城不落",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_110f1dacccc14f7da4bb74aba5b83d44@000000_oswg41212oswg506oswg505_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3361181958096648"
+    },
+    {
+      "title": "单日41家IPO受理被指“运动式受理”？真相来了",
+      "summary": "A股IPO上半年激增5.1倍，北交所占65%，国泰海通保荐量居首。",
+      "category": "专精特新",
+      "theme": "创投圈秘事",
+      "publishTime": 1751422349441,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_e1452574d1ba4a83876541ece504f378@1743780481@ai_oswg953170oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361155283601409"
+    },
+    {
+      "title": "充电宝安全风波，蔓延至共享平台",
+      "summary": "民航禁无3C充电宝，共享旧款存隐患，行业洗牌加速。",
+      "category": "推荐",
+      "theme": "消费电子",
+      "publishTime": 1751422272214,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_c700373929c64cfd99014691e3c81c87@1743780481@ai_oswg946891oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361152591546372"
+    },
+    {
+      "title": "在中国，Model Y的好日子到头了",
+      "summary": "YU7绝对算得上它真正意义上第一位对手。",
+      "category": "科技",
+      "theme": "汽车出行",
+      "publishTime": 1751422160279,
+      "author": "汽车公社",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_c2bb59cffe1246cab469de0f6a9f4bf3@000000@ai_oswg326190oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361088742934533"
+    },
+    {
+      "title": "新房：新一线二线领跑回暖，改善大户型热度攀升！",
+      "summary": "2月热度涨幅明显",
+      "category": "城市",
+      "theme": "未来地产",
+      "publishTime": 1751422106690,
+      "author": "未来城不落",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_667078137f07449580e1dea631c2f066@6208419_oswg306588oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3361177734023170"
+    },
+    {
+      "title": "洋河股份突发“换帅”，张联东卸任董事长，顾宇已接任党委书记",
+      "summary": "苏酒龙头“一把手”卸任",
+      "category": "财经",
+      "theme": "企业金融新动向",
+      "publishTime": 1751422020838,
+      "author": "时代周报",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_e6419b8036e744da9f8524aab27489bf@1743780481@ai_oswg806688oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361097469249542"
+    },
+    {
+      "title": "中国潮玩出海2.0：Labubu之外还有什么杀招？",
+      "summary": "潮玩出海迎来狂野时代",
+      "category": "财经",
+      "theme": "出海是门大生意",
+      "publishTime": 1751421989747,
+      "author": "娱乐资本论",
+      "image": "https://img.36krcdn.com/hsossms/20250701/v2_58d4b31c2a67443f8683a85a4ce635b4@000000@ai_oswg373041oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3360505133844231"
+    },
+    {
+      "title": "民企既归来，又向何归去？是“小碧桂园”，还是“小绿城”",
+      "summary": "轻舟已过万重山",
+      "category": "城市",
+      "theme": "未来地产",
+      "publishTime": 1751421895661,
+      "author": "未来城不落",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_e54d4e0df74842489f99eef910fce06f@6208419@ai_oswg973872oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361171619497989"
+    },
+    {
+      "title": "领跑2025上半年楼市 保利、中海、华润三甲称霸",
+      "summary": "行业进入大浪淘沙阶段，但头部房企仍然具有一定的韧性。",
+      "category": "城市",
+      "theme": "未来地产",
+      "publishTime": 1751421503278,
+      "author": "未来城不落",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_1c435dc4fc54445b84dc7b081b485c94@6208419@ai_oswg886457oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361167561819913"
+    },
+    {
+      "title": "“百镜大战”的尴尬真相：AI成花瓶，拍照才是真刚需？",
+      "summary": "下一代交互中枢之战：AI眼镜能取代手机吗？",
+      "category": "推荐",
+      "theme": "潮科技",
+      "publishTime": 1751419883140,
+      "author": "硅谷101",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_962f8433ac3e41c3a7ab2d13353a0afa@1743780481@ai_oswg888909oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361090261866881"
+    },
+    {
+      "title": "TSLA特斯拉二季度交付量恐暴跌",
+      "summary": "特斯拉眼下的基本面其实并不乐观",
+      "category": "汽车",
+      "theme": "汽车出行",
+      "publishTime": 1751419695316,
+      "author": "美股投资网",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_90e519d0ed2a49b888aaa33ef2f3f5b5@000000@ai_oswg272225oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361086573102857"
+    },
+    {
+      "title": "下半年的爆品是它？蜜雪、沪上阿姨都在押注柠檬奶",
+      "summary": "果奶是下半年新的机会点？",
+      "category": "推荐",
+      "theme": "食品饮料",
+      "publishTime": 1751419614011,
+      "author": "咖门",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_a99c4fbced1c43b4bd18d520c21590c6@000000@ai_oswg264873oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361082506495744"
+    },
+    {
+      "title": "创新药王炸新政出台，行业重大拐点已至",
+      "summary": "国家出台创新药新政，全链条支持研发、资本、支付优化。",
+      "category": "财经",
+      "theme": "医疗健康",
+      "publishTime": 1751419480848,
+      "author": "动脉网",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_b9f00769516f4e839029a2d8c1d6fe84@000000@ai_oswg321567oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361061886134272"
+    },
+    {
+      "title": "奇瑞新智能化研发人事确立，前大卓二号位离职｜36氪独家",
+      "summary": "奇瑞对智能化业务挥刀。",
+      "category": "推荐",
+      "theme": "36氪独家",
+      "publishTime": 1751419426612,
+      "author": "樊舒琪",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_0a9aa1c68ace47ab9982ac79e2f93604@6196343_oswg83790oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3359151433975554"
+    },
+    {
+      "title": "年轻人最怕听的两个词，绑架了我二十年",
+      "summary": "我们如何理解“托举”和“接住”？",
+      "category": "推荐",
+      "theme": "年轻人啊",
+      "publishTime": 1751419344550,
+      "author": "新周刊",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_76052327278249fabde1bbe09ddb7f39@000000@ai_oswg327443oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361058813446149"
+    },
+    {
+      "title": "红果“掐尖”编剧",
+      "summary": "对于编剧来说，此前红果只是一个备选项，现在则成了必选项。",
+      "category": "推荐",
+      "theme": "大文娱",
+      "publishTime": 1751419233785,
+      "author": "中国企业家杂志",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_e6631c6081ce49f2be6610a73f3278f3@000000@ai_oswg263166oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361058522826502"
+    },
+    {
+      "title": "一日惊魂之后，如何看待当前的银行股行情？",
+      "summary": "牛市中继VS抱团溃散？",
+      "category": "财经",
+      "theme": "创投圈秘事",
+      "publishTime": 1751418925092,
+      "author": "锦缎",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_b9e27fde576c44dca52b7be3a1e96b57@1743780481@ai_oswg806715oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361054578481284"
+    },
+    {
+      "title": "3.8亿资金占用无解？东方时尚拉响警报",
+      "summary": "驾校第一股",
+      "category": "财经",
+      "theme": "企业金融新动向",
+      "publishTime": 1751418869982,
+      "author": "斑马消费",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_b4d1be10705d465b98cde0a1e247948a@000000@ai_oswg416378oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361041923147780"
+    },
+    {
+      "title": "海洋经济的本质就是接手全球基础设施",
+      "summary": "内涵扩大",
+      "category": "财经",
+      "theme": "产业观察",
+      "publishTime": 1751418804100,
+      "author": "巨潮 WAVE",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_f1041c37e52c45f18b29d01954994a5e@000000@ai_oswg304155oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361035421927431"
+    },
+    {
+      "title": "负债近3000万，这一美妆品牌遭清算",
+      "summary": "创立仅3年就进入清算程序。",
+      "category": "消费",
+      "theme": "企业金融新动向",
+      "publishTime": 1751418639687,
+      "author": "聚美丽",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_f89bab008eb24281964b462400dfe140@000000@ai_oswg295842oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361000470169601"
+    },
+    {
+      "title": "成立8年首度更换董事长，信美相互人寿创始人辞职",
+      "summary": "总经理胡晗接任董事长",
+      "category": "财经",
+      "theme": "企业金融新动向",
+      "publishTime": 1751418533644,
+      "author": "达摩财经",
+      "image": "https://img.36krcdn.com/hsossms/20250701/v2_14f72dd631e84c5a99fc4d2329db3964@000000@ai_oswg386147oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3360580402628608"
+    },
+    {
+      "title": "9000万辆电动车消费者，捧出一位247亿天津首富",
+      "summary": "两轮电动车生意造就巨富。",
+      "category": "财经",
+      "theme": "这就是商业",
+      "publishTime": 1751418480959,
+      "author": "雷达财经",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_5c297b127cb04211a77022b3ddb2bd7e@1743780481@ai_oswg848170oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3360571210815879"
+    },
+    {
+      "title": "36 氪独家｜阅文独家战略投资毛绒潮玩品牌“超级元气工厂”",
+      "summary": "本次投资是阅文衍生品业务扩大版图的一环。",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1751418049220,
+      "author": "王毓婵",
+      "image": "https://img.36krcdn.com/hsossms/20250701/v2_855625681741414a9b8a348ca4017ee8@10269314_oswg135724oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3360069972641544"
+    },
+    {
+      "title": "人效碾压拼多多的椰子水上市：46人创11亿营收，钟睒睒「入股」",
+      "summary": "又一个百亿市值IPO。",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1751418000048,
+      "author": "李小霞",
+      "image": "https://img.36krcdn.com/hsossms/20250701/v2_0fd7f3fe687e4359a87f471ad4a6ef9c@5654145_oswg85663oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3360520770160392"
+    },
+    {
+      "title": "小米AI眼镜爆卖调查：深扒千条用户真实感受，友商：有活路，向小米学习",
+      "summary": "破纪录销量、1800条评价背后，小米第一款AI眼镜到底做的怎么样？",
+      "category": "推荐",
+      "theme": "雷军的小米",
+      "publishTime": 1751417354640,
+      "author": "智东西",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_1e73ebf51d274621b3dd696583df2754@1743780481@ai_oswg905442oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361014657648643"
+    },
+    {
+      "title": "国际TOP1美妆企业再买新品牌",
+      "summary": "加强专业美发产品组合。",
+      "category": "消费",
+      "theme": "创投圈秘事",
+      "publishTime": 1751416932766,
+      "author": "聚美丽",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_c2384e0cb0e04a809a4c649a830dce73@000000@ai_oswg347436oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3361000381499137"
+    },
+    {
+      "title": "业绩越好，老板越跑？药明生物董事长李革半年套现68亿港元引关注",
+      "summary": "既然是好公司，为何大股东不坚定持有？",
+      "category": "财经",
+      "theme": "企业金融新动向",
+      "publishTime": 1751416862499,
+      "author": "子弹财经",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_5e3aa79b2c0b419fbeb70406b5a764c4@1743780481@ai_oswg920392oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3360804663433344"
+    },
+    {
+      "title": "叶国富爆改永辉360天，首席商品官总结了10条经验",
+      "summary": "永辉改革进入深水区。",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1751416800481,
+      "author": "李小霞",
+      "image": "https://img.36krcdn.com/hsossms/20250701/v2_f790946eecb04f4f9b0d898813ec1b7c@5654145_oswg1148311oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3360518188795907"
+    },
+    {
+      "title": "董明珠笑答刘姝威：“现在开始我尽量少说话”",
+      "summary": "董明珠称格力钛未影响分红效益，未来聚焦储能，京海增持。",
+      "category": "财经",
+      "theme": "企业金融新动向",
+      "publishTime": 1751416777028,
+      "author": "中国基金报",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_69d61f0963c14ba6ab0389e139ac085d@000000@ai_oswg319514oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3360601364662016"
+    },
+    {
+      "title": "短剧江湖“华山论剑”，“四大门派”谁主沉浮？",
+      "summary": "版图重塑进行时。",
+      "category": "财经",
+      "theme": "大文娱",
+      "publishTime": 1751416680893,
+      "author": "文娱先声",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_79b9bb88c0c7429caee6dbd2c1be3028@1743780481@ai_oswg999532oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3360597939869827"
+    },
+    {
+      "title": "2025 上半年教育并购案：跨界资本疯抢教育赛道",
+      "summary": "汽车、母婴、AI、出海谁在押注未来？",
+      "category": "财经",
+      "theme": "创投圈秘事",
+      "publishTime": 1751416479398,
+      "author": "多鲸",
+      "image": "https://img.36krcdn.com/hsossms/20250701/v2_0f8e9c037732452fb23f25cbfad98de4@000000@ai_oswg298442oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3360504357210115"
+    },
+    {
+      "title": "新潮能源易主遭遇波折，伊泰集团加速“夺权”",
+      "summary": "老董事会不肯让位",
+      "category": "财经",
+      "theme": "企业金融新动向",
+      "publishTime": 1751416421969,
+      "author": "达摩财经",
+      "image": "https://img.36krcdn.com/hsossms/20250701/v2_6a021ae8e58d43139f7b876454995885@000000@ai_oswg255987oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3360580275767304"
+    },
+    {
+      "title": "一分钟必须刷够 10 万元，网红 PK 还要验资？",
+      "summary": "一晚血赚百万，头部网红直播 PK 要求验资遭停播！",
+      "category": "红人",
+      "theme": "文娱直播新动向",
+      "publishTime": 1751416374032,
+      "author": "科技狐",
+      "image": "https://img.36krcdn.com/hsossms/20250701/v2_387eda3ebe38417ba46b71826a154641@000000@ai_oswg399736oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3360497942955783"
+    },
+    {
+      "title": "LV巨轮“撞飞”星巴克？引发一场商业风水战",
+      "summary": "见招拆招，星巴克“反击”带来双赢。",
+      "category": "消费",
+      "theme": "关于消费的一切",
+      "publishTime": 1751416197032,
+      "author": "首席商业评论",
+      "image": "https://img.36krcdn.com/hsossms/20250701/v2_753df5a38742416cb6e939414fb9f721@000000@ai_oswg395936oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3360488445626121"
+    },
+    {
+      "title": "走访了全国三座数码城，我发现这届年轻人很难再被「忽悠」了",
+      "summary": "年轻人选数码产品越来越“务实”了。",
+      "category": "推荐",
+      "theme": "消费电子",
+      "publishTime": 1751416005183,
+      "author": "雷科技",
+      "image": "https://img.36krcdn.com/hsossms/20250701/v2_beee8df8d6a04f5daf6bdc6f4fabe1b4@1743780481@ai_oswg911145oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3359845283748230"
+    },
+    {
+      "title": "热钱，藏在冷门专业里？",
+      "summary": "新专业里的“就业密码”",
+      "category": "推荐",
+      "theme": "产业观察",
+      "publishTime": 1751415144844,
+      "author": "惊蛰研究所",
+      "image": "https://img.36krcdn.com/hsossms/20250701/v2_75439b6a8dd04437bbc13ea39a445c96@1743780481@ai_oswg908518oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3359783543642247"
+    },
+    {
+      "title": "8点1氪｜12306回应充电宝上高铁规定；韦东奕晋升北大长聘副教授；腾讯客服回应“共同好友点赞不提醒”",
+      "summary": "12306客服人员表示，目前铁路对携带充电宝的要求是标志清晰、单块额定能量不超过100wh，目前暂不查看3C标识。",
+      "category": "推荐",
+      "theme": "早晚报",
+      "publishTime": 1751414651753,
+      "author": "8点1氪",
+      "image": "https://img.36krcdn.com/hsossms/20250702/v2_4f852a51337842958c29c39c3fc90d7b@6100851_oswg82803oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/detail_article?itemId=3361054574937857"
+    },
+    {
+      "title": "AI陪聊，抢得走心理医生的“饭碗”吗？｜行业 Mapping",
+      "summary": "更适合疏导情绪，而非“处理重症”。",
+      "category": "推荐",
+      "theme": "人工智能·AI",
+      "publishTime": 1751414400966,
+      "author": "胡香赟",
+      "image": "https://img.36krcdn.com/hsossms/20250701/v2_31e6d215e24544e59339ca4937167fe6@5930287@ai_oswg759333oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/detail_article?itemId=3359985460414466"
+    }
+  ]
+}
