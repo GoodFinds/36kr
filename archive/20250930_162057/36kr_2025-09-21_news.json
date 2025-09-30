@@ -1,0 +1,202 @@
+{
+  "date": "2025-09-21",
+  "total": 19,
+  "categories": {
+    "推荐": 10,
+    "职场": 4,
+    "消费": 2,
+    "科技": 3
+  },
+  "news": [
+    {
+      "title": "8点1氪丨始祖鸟外网道歉被指甩锅中国团队；国务院食安办：大力推广预制菜明示；iPhone 17系列回收价低于官网售价",
+      "summary": "9月21日，始祖鸟在海内外分别致歉。值得注意的是，两则道歉声明内容并不一致。",
+      "category": "推荐",
+      "theme": "早晚报",
+      "publishTime": 1758498999271,
+      "author": "8点1氪",
+      "image": "https://img.36krcdn.com/hsossms/20250922/v2_587bbc3af18d484987e19a84789ccf03@5667365_oswg82801oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3477125902981505"
+    },
+    {
+      "title": "初代AI网红口碑翻身，让年轻人气哭又看笑",
+      "summary": "互联网时代，一日不“吵嘴”，仿佛就一日有愧于键盘的发明者。",
+      "category": "推荐",
+      "theme": "人工智能·AI",
+      "publishTime": 1758498522248,
+      "author": "新周刊",
+      "image": "https://img.36krcdn.com/hsossms/20250921/v2_1d851d484a6e49a6960c9d11fd5b3fb1@000000@ai_oswg333944oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3475796984011392"
+    },
+    {
+      "title": "美国移民身份“明码标价”：工签10万、绿卡100万、白金卡500万，哪家公司是受益者？",
+      "summary": "特朗普发飙！",
+      "category": "职场",
+      "theme": "职场每日必读",
+      "publishTime": 1758498149007,
+      "author": "美股投资网",
+      "image": "https://img.36krcdn.com/hsossms/20250921/v2_7c03793fbd614e83abc4063c630278e4@000000@ai_oswg340165oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3475797864847745"
+    },
+    {
+      "title": "飘了的始祖鸟，开始玩“火”",
+      "summary": "始祖鸟，为什么“玩火”？",
+      "category": "职场",
+      "theme": "营销广告人又干什么了",
+      "publishTime": 1758497811322,
+      "author": "DoNews",
+      "image": "https://img.36krcdn.com/hsossms/20250921/v2_58c340d82cb5467eb76bc013d836c2aa@000000@ai_oswg328039oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3476078522734980"
+    },
+    {
+      "title": "马斯克的Optimus机器人稳了吗",
+      "summary": "AI下半场是机器人。",
+      "category": "推荐",
+      "theme": "“钢铁侠”马斯克",
+      "publishTime": 1758497454176,
+      "author": "首席商业评论",
+      "image": "https://img.36krcdn.com/hsossms/20250921/v2_e25fccf3fe7f4f778395e545796c344d@000000@ai_oswg360790oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3475963387337347"
+    },
+    {
+      "title": "车企疯狂“下饺子”，结果它才是“主菜”",
+      "summary": "这顶“紧箍咒”势必会推动中国辅助驾驶行业良性健康的奔跑下去。",
+      "category": "消费",
+      "theme": "关于消费的一切",
+      "publishTime": 1758497060869,
+      "author": "汽车公社",
+      "image": "https://img.36krcdn.com/hsossms/20250921/v2_6c6b605231704614afa51c5efb100856@000000@ai_oswg303519oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3475750059383427"
+    },
+    {
+      "title": "60岁父母「炒币」，掏空多少中产家庭？",
+      "summary": "为人子女的至暗时刻",
+      "category": "推荐",
+      "theme": "金融科技",
+      "publishTime": 1758496724347,
+      "author": "凤凰周刊",
+      "image": "https://img.36krcdn.com/hsossms/20250921/v2_6641a26a29674db48e9c98abe3092aba@000000@ai_oswg415928oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3475778585778822"
+    },
+    {
+      "title": "二手烟烟雾，正在杀死眼细胞，儿童开始看不清……",
+      "summary": "“公共场所吸烟不是吸烟者的自由，而是对非吸烟者的霸凌。”",
+      "category": "推荐",
+      "theme": "新生活LIFESTYLE",
+      "publishTime": 1758496323113,
+      "author": "万物杂志",
+      "image": "https://img.36krcdn.com/hsossms/20250921/v2_6e2767f573e44e2d915cff7d465a86e8@000000@ai_oswg426028oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3475631683361410"
+    },
+    {
+      "title": "国美又双叒叕转型，昔日首富黄光裕“不认命”",
+      "summary": "押宝氢能赛道，国美仍前途未卜。",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1758495967789,
+      "author": "雷达财经",
+      "image": "https://img.36krcdn.com/hsossms/20250921/v2_43f947b95d9049b39bfec03fd33e2278@1743780481@ai_oswg1069465oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3475115016018055"
+    },
+    {
+      "title": "开遍上海的3元健身房，打破跑路魔咒",
+      "summary": "“穷鬼”风吹到了健身房",
+      "category": "消费",
+      "theme": "关于消费的一切",
+      "publishTime": 1758461824413,
+      "author": "金错刀",
+      "image": "https://img.36krcdn.com/hsossms/20250921/v2_4c1998e5d46d4d07bca74ebb8e66e317@000000@ai_oswg370795oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3476178752117122"
+    },
+    {
+      "title": "借道「无障碍」，AI助手可能在盯着你",
+      "summary": "如何拒绝被监视？",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1758447291870,
+      "author": "时代财经",
+      "image": "https://img.36krcdn.com/hsossms/20250921/v2_bb3cfe415f2f437e9cf9c3e9e17eaa4d@000000@ai_oswg276741oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3476069088811651"
+    },
+    {
+      "title": "《黑神话》联动麦当劳；《三角洲行动》DAU突破3000万；多款大厂新游开测 | 氪游周报9.15-9.21",
+      "summary": "一文读懂9.15-9.21游戏行业大事件。",
+      "category": "科技",
+      "theme": "游戏圈大事件",
+      "publishTime": 1758443000259,
+      "author": "游氪哩哩",
+      "image": "https://img.36krcdn.com/hsossms/20250921/v2_91a30eb41f7d433db9a12edfdb867b86@000000_oswg105898oswg1280oswg543_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3476205895260808"
+    },
+    {
+      "title": "云海肴赵晗，永远跳舞的人",
+      "summary": "“那些听不见音乐的人，认为那些跳舞的人疯了。”",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1758442612843,
+      "author": "钟艺璇",
+      "image": "https://img.36krcdn.com/hsossms/20250921/v2_36366688bd0f48baad208ed496ccdf46@5971123_oswg196639oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3473597148813959"
+    },
+    {
+      "title": "中国公司全球化周报｜DeepSeek-R1成为全球首个经过同行评审的主流大语言模型/曼格纳与小鹏汽车达成整车组装合约",
+      "summary": "聚焦中国公司全球化大事、提供世界各地最新创投新闻；36氪出海致力于消除信息差，让读者将本周最值得关注的大事件尽收眼底。",
+      "category": "推荐",
+      "theme": "出海是门大生意",
+      "publishTime": 1758437359017,
+      "author": "36氪出海",
+      "image": "https://img.36krcdn.com/hsossms/20250921/v2_590adce3ba774b09b0a168f2b41df601@11918142_oswg151798oswg600oswg400_img_png",
+      "url": "https://36kr.com/p/3476115917543813"
+    },
+    {
+      "title": "黄仁勋，投了个浙大校友",
+      "summary": "华人科学家站住硅谷C位。",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1758427032093,
+      "author": "融资中国",
+      "image": "https://img.36krcdn.com/hsossms/20250921/v2_12e09af28adf438087796d43ddbe5ce2@000000@ai_oswg326285oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3475934730213767"
+    },
+    {
+      "title": "290亿江阴「男装大王」， 冲刺港股IPO",
+      "summary": "290亿江阴“男装大王”， 冲刺港股IPO",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1758419391199,
+      "author": "侃见财经",
+      "image": "https://img.36krcdn.com/hsossms/20250921/v2_bb20f45366254c3bb25ac697771301ba@5388495_oswg254498oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3475803579472265"
+    },
+    {
+      "title": "不敢谈恋爱的女孩，在网上批量「定制」男友",
+      "summary": "近乎完美的存在。",
+      "category": "职场",
+      "theme": "后浪研究所",
+      "publishTime": 1758418245826,
+      "author": "后浪研究所",
+      "image": "https://img.36krcdn.com/hsossms/20250919/v2_4733682a86b149bab5e790f868a24c0c@000000_oswg68325oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3473328852097669"
+    },
+    {
+      "title": "「职场好学生」消亡史：年轻人经历过的31种「原生公司创伤」",
+      "summary": "太痛了。",
+      "category": "职场",
+      "theme": "后浪研究所",
+      "publishTime": 1758418215686,
+      "author": "后浪研究所",
+      "image": "https://img.36krcdn.com/hsossms/20250919/v2_b02b3f142dd54f0a94c3a55cf6f992d9@000000_oswg303144oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3473333553191304"
+    },
+    {
+      "title": "中产捧红的始祖鸟，惹怒了户外人",
+      "summary": "始祖鸟冤吗？",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1758415654033,
+      "author": "时代财经",
+      "image": "https://img.36krcdn.com/hsossms/20250920/v2_4785a63c151a4236ab4bc8d0af4d6cd0@000000@ai_oswg385874oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3475039227746945"
+    }
+  ]
+}
