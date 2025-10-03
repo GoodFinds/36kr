@@ -1,0 +1,253 @@
+{
+  "date": "2025-08-31",
+  "total": 24,
+  "categories": {
+    "推荐": 10,
+    "科技": 5,
+    "财经": 7,
+    "消费": 1,
+    "城市": 1
+  },
+  "news": [
+    {
+      "title": "今年最火的度假方式，我不敢抄作业",
+      "summary": "花几万块去酒店躺着，“白人式度假”怎么火起来的？",
+      "category": "推荐",
+      "theme": "社交正流行",
+      "publishTime": 1756684783415,
+      "author": "新周刊",
+      "image": "https://img.36krcdn.com/hsossms/20250901/v2_64f2df804fae4d0ab021ec6cbb5858da@5888275@ai_oswg1076448oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3446319052412293"
+    },
+    {
+      "title": "12英寸大硅片加速扩产",
+      "summary": "当前国产大硅片已开启大规模扩产进程。",
+      "category": "科技",
+      "theme": "芯片领域新鲜事",
+      "publishTime": 1756684644119,
+      "author": "半导体产业纵横",
+      "image": "https://img.36krcdn.com/hsossms/20250901/v2_6b097e8c701f4fd695b86109a636dc40@5888275@ai_oswg1035803oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3446294662092423"
+    },
+    {
+      "title": "昔日“小兄弟”，摸着雷军“过河”",
+      "summary": "追觅能否成为下一个小米，只能让时间给出答案了。",
+      "category": "推荐",
+      "theme": "创投圈秘事",
+      "publishTime": 1756684562161,
+      "author": "中国企业家杂志",
+      "image": "https://img.36krcdn.com/hsossms/20250901/v2_133ed2c3995e41d384548ca7ee8be061@5888275@ai_oswg1037085oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3446294516798852"
+    },
+    {
+      "title": "民企500强哪家多：浙苏位列前二，粤鲁并列第三",
+      "summary": "江浙沪占比达42.8%",
+      "category": "财经",
+      "theme": "产业观察",
+      "publishTime": 1756684457063,
+      "author": "时代周报",
+      "image": "https://img.36krcdn.com/hsossms/20250901/v2_a32afb17835d4fc887b9d0d59f86ac85@5888275@ai_oswg1025701oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3446066802005383"
+    },
+    {
+      "title": "当FDA超级加倍重视OS",
+      "summary": "影响几何？",
+      "category": "财经",
+      "theme": "医疗健康",
+      "publishTime": 1756684386201,
+      "author": "氨基观察",
+      "image": "https://img.36krcdn.com/hsossms/20250901/v2_213a86a8f5584afe94c698ab606e6a21@5888275@ai_oswg985085oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3445282504693121"
+    },
+    {
+      "title": "戴尔公司：AI 服务器 “疯狂交单”，只是 “昙花一现”？",
+      "summary": "“昙花一现” 的集中交付，增长持续性还需观察",
+      "category": "财经",
+      "theme": "业绩快报",
+      "publishTime": 1756684283759,
+      "author": "海豚投研",
+      "image": "https://img.36krcdn.com/hsossms/20250901/v2_860a9260432341beb36ed9dc0503c604@5888275@ai_oswg1058026oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3445224700482945"
+    },
+    {
+      "title": "超1130亿元，增长20.52%",
+      "summary": "2025年半年报披露完毕，公募基金“四费”合计超1130亿元，同比增长20.52%",
+      "category": "财经",
+      "theme": "基金动态",
+      "publishTime": 1756683954808,
+      "author": "中国基金报",
+      "image": "https://img.36krcdn.com/hsossms/20250901/v2_a122feb5e4ec47659a83929aa85571ca@5888275@ai_oswg1027602oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3446840731374976"
+    },
+    {
+      "title": "净利暴跌707.55%，“老兵”南都电源，以亏损换空间？",
+      "summary": "南都电源转型阵痛：半年亏2.32亿，储能业务能否撑起未来？",
+      "category": "财经",
+      "theme": "业绩快报",
+      "publishTime": 1756683911651,
+      "author": "预见能源",
+      "image": "https://img.36krcdn.com/hsossms/20250901/v2_9c206d8aa3b94bcbb92be9f64d64d297@5888275@ai_oswg1051460oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3446682783684993"
+    },
+    {
+      "title": "江西南昌冲出一家IPO，年入1.3亿，为儿童及青少年提供舞蹈、绘画、书法等课程",
+      "summary": "2024年净利润下滑",
+      "category": "财经",
+      "theme": "IPO快报",
+      "publishTime": 1756683762850,
+      "author": "格隆汇新股",
+      "image": "https://img.36krcdn.com/hsossms/20250901/v2_3efc66b76a444f7f9f71cb5c097ed030@5888275@ai_oswg972031oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3447339545482882"
+    },
+    {
+      "title": "获得 290 亿美元奖励的马斯克，继续欠着包工头钱",
+      "summary": "特斯拉原来也会欠款。。。",
+      "category": "推荐",
+      "theme": "“钢铁侠”马斯克",
+      "publishTime": 1756683618409,
+      "author": "差评",
+      "image": "https://img.36krcdn.com/hsossms/20250901/v2_3d0168d493684f62ac832a602e35cc02@6100851_oswg405745oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3447338895758978"
+    },
+    {
+      "title": "为了赚情绪价值的钱，运动品牌也开始做“痛包”",
+      "summary": "做「痛包」，谁能先接住流量",
+      "category": "消费",
+      "theme": "体育健身新趋势",
+      "publishTime": 1756683513780,
+      "author": "体育产业生态圈",
+      "image": "https://img.36krcdn.com/hsossms/20250901/v2_61375b65ae67406985c82efe3dcff171@5888275@ai_oswg1065918oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3447338038760836"
+    },
+    {
+      "title": "美团、阿里、京东“大战”再升级",
+      "summary": "这次不是外卖",
+      "category": "推荐",
+      "theme": "新零售的新发展",
+      "publishTime": 1756683402302,
+      "author": "凤凰周刊",
+      "image": "https://img.36krcdn.com/hsossms/20250901/v2_6c3b509095604bfb9b9a7f12996cb11b@5888275@ai_oswg1057230oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3447336102057352"
+    },
+    {
+      "title": "这个北方大市，也想要建“自贸港”",
+      "summary": "辐射带动更大区域，实现共赢",
+      "category": "城市",
+      "theme": "城市风向标",
+      "publishTime": 1756683281597,
+      "author": "城市进化论",
+      "image": "https://img.36krcdn.com/hsossms/20250901/v2_74f005739f0c4b6ca06f52d1ff258d7f@5888275@ai_oswg1125311oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3447335564924546"
+    },
+    {
+      "title": "周一的你，请收下这些不再瞎忙碌的方法论",
+      "summary": "减少工作，是一种能力。",
+      "category": "推荐",
+      "theme": "新鲜职场人",
+      "publishTime": 1756683183461,
+      "author": "笔记侠",
+      "image": "https://img.36krcdn.com/hsossms/20250901/v2_34799878e08d4f4aa6f6967ac3113fa2@5888275@ai_oswg1049236oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3446852586542466"
+    },
+    {
+      "title": "“金九银十”前走访鸿蒙门店：问界继续大赚，这“两界”压力最大",
+      "summary": "鸿蒙智行“五界”，同名不同命。",
+      "category": "科技",
+      "theme": "汽车出行",
+      "publishTime": 1756683095015,
+      "author": "电车通",
+      "image": "https://img.36krcdn.com/hsossms/20250901/v2_61dcf63cd15446019edd632d1fb9c30a@5888275@ai_oswg1122250oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3446851059767685"
+    },
+    {
+      "title": "公司成立4年，准备拿一笔100亿美元融资",
+      "summary": "刷新纪录。",
+      "category": "推荐",
+      "theme": "创投圈秘事",
+      "publishTime": 1756682690066,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250901/v2_32d520de6fd84c4f9a968e25a52232d2@5888275@ai_oswg1055904oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3446910582560389"
+    },
+    {
+      "title": "“牌照红利”不再，券商重要业务迎来新一轮格局重塑",
+      "summary": "“牌照红利”不再，券商托管业务迎来新一轮格局重塑",
+      "category": "财经",
+      "theme": "产业观察",
+      "publishTime": 1756682502245,
+      "author": "中国基金报",
+      "image": "https://img.36krcdn.com/hsossms/20250901/v2_758a7072a0eb476cb22e8e853ae11761@5888275@ai_oswg1052158oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3446716414481799"
+    },
+    {
+      "title": "“ChatBot 精神病”，这两年维基百科最火的词条",
+      "summary": "AI ：不打针，不吃药，坐下就是跟你唠。",
+      "category": "推荐",
+      "theme": "人工智能·AI",
+      "publishTime": 1756682176211,
+      "author": "果壳",
+      "image": "https://img.36krcdn.com/hsossms/20250901/v2_1d6671ae89884256ba4bd51ff2c6552c@5888275@ai_oswg849963oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3446704470365832"
+    },
+    {
+      "title": "“A+H”又一家，2000亿光储巨头赴港上市",
+      "summary": "今年以来，共有11家A股公司登陆港股，49家在排队，超40家宣布拟赴港IPO",
+      "category": "科技",
+      "theme": "IPO快报",
+      "publishTime": 1756681980916,
+      "author": "预见能源",
+      "image": "https://img.36krcdn.com/hsossms/20250901/v2_c5996a84d6b94a29b05a50358fd69da1@5888275@ai_oswg941119oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3446676683249797"
+    },
+    {
+      "title": "《二重螺旋》公测定档；米哈游崩坏系列新作首曝；8月游戏版号发放量创年内新高| 氪游周报8.25-8.31",
+      "summary": "一文读懂8.25-8.31游戏行业大事件。",
+      "category": "科技",
+      "theme": "游戏圈大事件",
+      "publishTime": 1756644409287,
+      "author": "刘士武",
+      "image": "https://img.36krcdn.com/hsossms/20250831/v2_1592911100d441ef8ac929352734a907@000000_oswg60803oswg900oswg382_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3446738477438342"
+    },
+    {
+      "title": "农夫山泉茶饮料收入首超包装水；万辰集团中报净利增长50359%；安踏回应收购彪马传闻｜品牌周报",
+      "summary": "你消费的品牌，你关心的周报。",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1756640716200,
+      "author": "李小霞",
+      "image": "https://img.36krcdn.com/hsossms/20250831/v2_e2316ea7fd6f45af8326884ecbde72c4@5654145_oswg89016oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3445426960520585"
+    },
+    {
+      "title": "美团试图穿越“非理性时期”",
+      "summary": "竞争之下，更长期的视角里要如何做？",
+      "category": "科技",
+      "theme": "王兴与美团",
+      "publishTime": 1756637183640,
+      "author": "碧根果",
+      "image": "https://img.36krcdn.com/hsossms/20250831/v2_301a474a731a4af2a4470f3e20fffef1@000000_oswg30085oswg900oswg382_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3446607807616387"
+    },
+    {
+      "title": "中国公司全球化周报｜滴滴二季度国际业务日均订单增至1196万单/京东旗下跨境电商品牌Joybuy登陆法国市场",
+      "summary": "聚焦中国公司全球化大事、提供世界各地最新创投新闻；36氪出海致力于消除信息差，让读者将本周最值得关注的大事件尽收眼底。",
+      "category": "推荐",
+      "theme": "出海是门大生意",
+      "publishTime": 1756616167724,
+      "author": "36氪出海",
+      "image": "https://img.36krcdn.com/hsossms/20250831/v2_17630288394b42509de2ff63804d8771@11918142_oswg185609oswg600oswg400_img_png",
+      "url": "https://36kr.com/p/3446278300882306"
+    },
+    {
+      "title": "日入320万、订单翻倍！2025闪购大战，“赢家”浮出水面",
+      "summary": "对话在闪购大战里找到增长的商家们。",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1756600529698,
+      "author": "天下网商",
+      "image": "https://img.36krcdn.com/hsossms/20250830/v2_ee81ae029eb244ed96b09eaabb19dfff@000000@ai_oswg369948oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3445345406555777"
+    }
+  ]
+}
