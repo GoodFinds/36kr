@@ -1,0 +1,292 @@
+{
+  "date": "2025-09-20",
+  "total": 28,
+  "categories": {
+    "推荐": 23,
+    "科技": 1,
+    "职场": 3,
+    "未分类": 1
+  },
+  "news": [
+    {
+      "title": "650亿市场引巨头竞逐，小火锅的“热闹”与“挑战”，都在这了",
+      "summary": "又一餐饮品类爆火。",
+      "category": "推荐",
+      "theme": "产业观察",
+      "publishTime": 1758362458000,
+      "author": "伯虎财经",
+      "image": "https://img.36krcdn.com/hsossms/20250920/v2_61d630ae3f284c508e0920fdd0bd56bd@6100851_oswg1055882oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3474497382520964"
+    },
+    {
+      "title": "OpenAI 多款硬件首次曝光，疯狂挖角苹果硬件骨干，最快明年发布",
+      "summary": "OpenAI：我不生产硬件，我只是苹果的「搬运工」。",
+      "category": "推荐",
+      "theme": "人工智能·AI",
+      "publishTime": 1758361163926,
+      "author": "爱范儿",
+      "image": "https://img.36krcdn.com/hsossms/20250920/v2_fca814ef28b9450993bd2c5e0ce4cf56@6100851_oswg728950oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3474866912106884"
+    },
+    {
+      "title": "三个月豪掷150亿搅动港股，钱涛和他的无极资本是何来头？",
+      "summary": "最新目标是微盟集团",
+      "category": "推荐",
+      "theme": "企业金融新动向",
+      "publishTime": 1758360612000,
+      "author": "达摩财经",
+      "image": "https://img.36krcdn.com/hsossms/20250919/v2_8e102857e28a4a129c5a97d761505417@000000@ai_oswg312561oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3473795625048455"
+    },
+    {
+      "title": "淘宝闪购到店团购，真的来了",
+      "summary": "淘宝闪购、高德和支付宝 APP 三端页面都上了团购入口。",
+      "category": "科技",
+      "theme": "阿里的疆域",
+      "publishTime": 1758360600000,
+      "author": "晓曦",
+      "image": "https://img.36krcdn.com/hsossms/20250920/v2_812221e8a22845c0b4d83bed37038ae2@39566_oswg54103oswg600oswg400_img_jpeg",
+      "url": "https://36kr.com/p/3474651191892615"
+    },
+    {
+      "title": "2025“全球POD生态+”大会召开：POD按需定制成跨境电商新焦点丨最前线",
+      "summary": "POD（按需定制）正在持续扩展其品类和应用场景。",
+      "category": "推荐",
+      "theme": "最前线",
+      "publishTime": 1758359351066,
+      "author": "欧雪",
+      "image": "https://img.36krcdn.com/hsossms/20250920/v2_8fac40b5f9164a2c8da8ca55b0ae13ae@6221844_oswg1118336oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3474838760086153"
+    },
+    {
+      "title": "骂翟欣欣容易，识别有毒关系很难",
+      "summary": "翟欣欣案终于尘埃落定，但除了骂翟欣欣“毒妻”之外，我们用什么样的方式记住它？关于事件影响与婚恋问题的讨论，可能才刚刚开始。",
+      "category": "职场",
+      "theme": "年轻人啊",
+      "publishTime": 1758358818000,
+      "author": "新周刊",
+      "image": "https://img.36krcdn.com/hsossms/20250919/v2_7b397f811278494d96acd9670d95b125@000000@ai_oswg246206oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3473785582508419"
+    },
+    {
+      "title": "当AI开始闹情绪，打工人反向共情",
+      "summary": "东亚小孩Gemini，碎嘴DeepSeek，牛马GPT。",
+      "category": "推荐",
+      "theme": "人工智能·AI",
+      "publishTime": 1758357051000,
+      "author": "镜相工作室",
+      "image": "https://img.36krcdn.com/hsossms/20250920/v2_881232afe37a40e4b3c7bd7289afd4ae@6100851_oswg461252oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3474475535423623"
+    },
+    {
+      "title": "全隐藏式门把手终于凉了，特斯拉们的“傲慢设计”都将被淘汰？",
+      "summary": "“伪需求设计”被淘汰只是时间问题。",
+      "category": "推荐",
+      "theme": "汽车出行",
+      "publishTime": 1758355205000,
+      "author": "电车通",
+      "image": "https://img.36krcdn.com/hsossms/20250919/v2_fbd11d535ea7400cb09128a451f1a745@5687509_oswg64726oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3473698328304002"
+    },
+    {
+      "title": "诗画入境，启风雅：艺术家吴冠中版画品鉴沙龙暨元启实景样板间亮相",
+      "summary": "沐光奢居的当代范本",
+      "category": "未分类",
+      "theme": "未来地产",
+      "publishTime": 1758348880915,
+      "author": "未来城不落",
+      "image": "https://img.36krcdn.com/hsossms/20250920/v2_523428a2fe594e309f4c4f840e08eda9@6208419_oswg875822oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3474658882427267"
+    },
+    {
+      "title": "风电行业分化加剧：三大叶片企业“吃肉”，五大整机商“喝汤”",
+      "summary": "五大风电整机商上演“冰与火之歌”，三大叶片企业赚得盆满钵满。",
+      "category": "推荐",
+      "theme": "产业观察",
+      "publishTime": 1758348579000,
+      "author": "预见能源",
+      "image": "https://img.36krcdn.com/hsossms/20250919/v2_e13255917ef34c299dcb96cdb43debfb@6117095_oswg91293oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3473682655500681"
+    },
+    {
+      "title": "理想与欣旺达成立合资公司，“理想牌”电池明年上车｜36氪独家",
+      "summary": "理想电池VS宁德时代电池",
+      "category": "推荐",
+      "theme": "36氪独家",
+      "publishTime": 1758346763298,
+      "author": "樊舒琪",
+      "image": "https://img.36krcdn.com/hsossms/20250920/v2_a293d887cdef42cc9a5c627345908690@6196343_oswg477918oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3474630528211335"
+    },
+    {
+      "title": "40岁云海肴创始人猝逝，餐饮人拿命换未来？",
+      "summary": "餐饮人“过劳”困局下的生命警示。",
+      "category": "推荐",
+      "theme": "产业观察",
+      "publishTime": 1758346245000,
+      "author": "餐饮界",
+      "image": "https://img.36krcdn.com/hsossms/20250920/v2_0dba51e090f24ab581b937db35d8772f@6100851_oswg292731oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3473711571704198"
+    },
+    {
+      "title": "这11种思维模式，是内耗的根源",
+      "summary": "思维陷阱在焦虑的成功人士中极为常见。",
+      "category": "推荐",
+      "theme": "干货技能GET",
+      "publishTime": 1758344424000,
+      "author": "哈佛商业评论",
+      "image": "https://img.36krcdn.com/hsossms/20250920/v2_da2d927c89594f5d9364759f9f067716@000000@ai_oswg323764oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3474309472557445"
+    },
+    {
+      "title": "卖中餐的华人夫妇，买了个NBA球队",
+      "summary": "中国声音，响彻NBA",
+      "category": "推荐",
+      "theme": "创投圈秘事",
+      "publishTime": 1758342659000,
+      "author": "融资中国",
+      "image": "https://img.36krcdn.com/hsossms/20250920/v2_e4c98c3c071247e8b24d384ef9ffac89@6100851_oswg616820oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3474463580412291"
+    },
+    {
+      "title": "iPhone 17 Pro散热实测：大幅改进，库克诚不欺我？",
+      "summary": "思路很好，但用料不够。",
+      "category": "推荐",
+      "theme": "王者苹果？",
+      "publishTime": 1758341573421,
+      "author": "雷科技",
+      "image": "https://img.36krcdn.com/hsossms/20250919/v2_d986fdb874b24530b5df42e3e5a608fb@1547419282_oswg59611oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3473693959854211"
+    },
+    {
+      "title": "TikTok迎来命运拐点",
+      "summary": "“TikTok美国公司将继续服务好广大美国用户。”",
+      "category": "推荐",
+      "theme": "这些产品动向值得关注",
+      "publishTime": 1758339644061,
+      "author": "兰芥",
+      "image": "https://img.36krcdn.com/hsossms/20250920/v2_e2802abc235c4c6b86fab06017715502@000000_oswg28827oswg900oswg382_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3474510748686729"
+    },
+    {
+      "title": "阿维塔迎来80后掌门人，三大央企暗自较劲",
+      "summary": "背后是行业变革的必然。",
+      "category": "推荐",
+      "theme": "汽车出行",
+      "publishTime": 1758339048000,
+      "author": "汽车公社",
+      "image": "https://img.36krcdn.com/hsossms/20250920/v2_887d9378c9024b2e88e7b24f87f9534a@000000@ai_oswg368021oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3474334869674625"
+    },
+    {
+      "title": "小米OTA召回11万辆SU7，最严智驾新规即将出炉",
+      "summary": "高高兴兴出门，平平安安回家。",
+      "category": "推荐",
+      "theme": "这些产品动向值得关注",
+      "publishTime": 1758336718166,
+      "author": "爱范儿",
+      "image": "https://img.36krcdn.com/hsossms/20250920/v2_b716bdd2950140afa5262f593c819f6b@000000_oswg71090oswg1276oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3474466103236998"
+    },
+    {
+      "title": "合肥又一家独角兽要IPO了",
+      "summary": "合肥要进入收获期了。",
+      "category": "推荐",
+      "theme": "IPO快报",
+      "publishTime": 1758336358554,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20250920/v2_c5b9b859310d48a69b587e1c04011b2b@6100851_oswg605448oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3474408032131719"
+    },
+    {
+      "title": "iPhone Air真机惊艳，一小时极限体验苹果秋季全系新品",
+      "summary": "今年的iPhone 17是继“十三香”那一代以来，升级变化最大的一次。",
+      "category": "推荐",
+      "theme": "王者苹果？",
+      "publishTime": 1758335367102,
+      "author": "智东西",
+      "image": "https://img.36krcdn.com/hsossms/20250920/v2_06dd925b2c9e4b8392383cd7351d369b@6100851_oswg566088oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3473792245406080"
+    },
+    {
+      "title": "“八爪鱼”美团，盯上地铁里的5元生意",
+      "summary": "价值洼地",
+      "category": "推荐",
+      "theme": "王兴与美团",
+      "publishTime": 1758332252086,
+      "author": "电商在线",
+      "image": "https://img.36krcdn.com/hsossms/20250920/v2_1fcf38ee808f448d975c3568e1e7ef12@6100851_oswg815668oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3473753707829890"
+    },
+    {
+      "title": "囚鲸之死：一名女训鲸师的觉醒",
+      "summary": "我们为什么要关心一头鲸的快乐？",
+      "category": "职场",
+      "theme": "后浪研究所",
+      "publishTime": 1758331858550,
+      "author": "后浪研究所",
+      "image": "https://img.36krcdn.com/hsossms/20250919/v2_a4fc9f04a8c24bf7a8adc2d07f4091fe@000000_oswg43908oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3473328573536900"
+    },
+    {
+      "title": "为什么越来越多的女生，恋爱前要交换体检报告？",
+      "summary": "恋爱前，先体检。",
+      "category": "职场",
+      "theme": "后浪研究所",
+      "publishTime": 1758331847822,
+      "author": "后浪研究所",
+      "image": "https://img.36krcdn.com/hsossms/20250919/v2_f170d67e91c3435fa915f5732ceff299@000000_oswg85638oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3473333258869126"
+    },
+    {
+      "title": "地图APP混战20年：赢于简洁、败在臃肿",
+      "summary": "用户想要一张“干净”的地图，有多难？",
+      "category": "推荐",
+      "theme": "产业互联网",
+      "publishTime": 1758331697202,
+      "author": "定焦One",
+      "image": "https://img.36krcdn.com/hsossms/20250919/v2_5b876891bdd144a9885b7ea5f9a9e818@000000@ai_oswg378243oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3473634554993281"
+    },
+    {
+      "title": "阿里游戏再加码：打造熠点互动，入局小游戏",
+      "summary": "阿里入局小游戏。",
+      "category": "推荐",
+      "theme": "阿里的疆域",
+      "publishTime": 1758331334601,
+      "author": "Tech星球",
+      "image": "https://img.36krcdn.com/hsossms/20250920/v2_1a81f50ae02647b6861492e312f67563@6100851_oswg702461oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3473707515468423"
+    },
+    {
+      "title": "才发售就崩溃?iPhone 17相机出故障了，翻车成行业常态",
+      "summary": "瑕不掩瑜。",
+      "category": "推荐",
+      "theme": "王者苹果？",
+      "publishTime": 1758330997843,
+      "author": "雷科技",
+      "image": "https://img.36krcdn.com/hsossms/20250920/v2_0f7283c1ce6646ea8fc8fc8d5c300cbb@6100851_oswg740515oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3473718537345408"
+    },
+    {
+      "title": "9点1氪｜小米召回超11万辆SU7；翟欣欣案宣判：犯敲诈勒索罪，判刑12年；云海肴创始人去世，年仅40岁",
+      "summary": "小米汽车科技有限公司将通过汽车远程升级技术，为召回范围内的车辆免费升级软件。",
+      "category": "推荐",
+      "theme": "早晚报",
+      "publishTime": 1758329336363,
+      "author": "8点1氪",
+      "image": "https://img.36krcdn.com/hsossms/20250920/v2_cc1be66e83f74ca08b1a534070e6c4eb@6100851_oswg81603oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3474345131940226"
+    },
+    {
+      "title": "高定家居第一品牌我乐家居20周年发布新产品",
+      "summary": "进化不止",
+      "category": "推荐",
+      "theme": "未来家居",
+      "publishTime": 1758327724637,
+      "author": "未来城不落",
+      "image": "https://img.36krcdn.com/hsossms/20250920/v2_f30e499bcfbb4fcf90d39531aeab447d@337187376_oswg968110oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3474319376537985"
+    }
+  ]
+}
