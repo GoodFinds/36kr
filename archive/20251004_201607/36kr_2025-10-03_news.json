@@ -1,0 +1,40 @@
+{
+  "date": "2025-10-03",
+  "total": 3,
+  "categories": {
+    "科技": 1,
+    "推荐": 2
+  },
+  "news": [
+    {
+      "title": "HTTP 402与微支付：一段沉睡三十年的代码，在AI时代觉醒",
+      "summary": "30 年前的错误，30 年后的机会：HTTP402 曾经的失败与微支付的重生",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1759466772948,
+      "author": "时氪分享",
+      "image": "https://img.36krcdn.com/hsossms/20251003/v2_bdd5dd91f37b4b46844e2e1883c2780a@39566_oswg23171oswg600oswg400_img_jpg",
+      "url": "https://36kr.com/p/3492905935346825"
+    },
+    {
+      "title": "蜜雪集团收购鲜啤福鹿家，布局现打鲜啤赛道",
+      "summary": "蜜雪集团的 “高质平价”版图再度扩大。",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1759457882195,
+      "author": "未来消费",
+      "image": "https://img.36krcdn.com/hsossms/20251003/v2_dfd471d2c34442dba2d7a459ecc69e33@5679941_oswg104466oswg600oswg400_img_jpeg",
+      "url": "https://36kr.com/p/3492811820391552"
+    },
+    {
+      "title": "让“讲故事”改变你职场的能量场",
+      "summary": "释放“讲故事”的科学力量。",
+      "category": "推荐",
+      "theme": "神译局",
+      "publishTime": 1759449637626,
+      "author": "神译局",
+      "image": "https://img.36krcdn.com/hsossms/20250904/v2_e39da75ac536489cb7ad5b8c4f8e13e2@5382598_oswg258439oswg600oswg400_img_png",
+      "url": "https://36kr.com/p/3452368738981250"
+    }
+  ]
+}
