@@ -1,0 +1,192 @@
+{
+  "date": "2025-10-02",
+  "total": 18,
+  "categories": {
+    "科技": 9,
+    "消费": 5,
+    "推荐": 3,
+    "职场": 1
+  },
+  "news": [
+    {
+      "title": "对话袁峰：躬身入局，做真正的CVC",
+      "summary": "硬科技CVC的核心优势在于对产业链的判断能力，以及对产业未来的先知洞察能力",
+      "category": "科技",
+      "theme": "创投圈秘事",
+      "publishTime": 1759392000000,
+      "author": "读数一帜",
+      "image": "https://img.36krcdn.com/hsossms/20251002/v2_8f1284d87cf941639800538359d6c3a7@000000@ai_oswg411041oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3491657188006784"
+    },
+    {
+      "title": "“生化奇兵”创作者谈游戏叙事：故事越简单，越难讲好",
+      "summary": "游戏叙事还有很大潜力，但没有标准答案。",
+      "category": "消费",
+      "theme": "游戏圈大事件",
+      "publishTime": 1759390431952,
+      "author": "触乐",
+      "image": "https://img.36krcdn.com/hsossms/20251002/v2_d7d959ab29fc4470ad6f1fb3417610e9@000000@ai_oswg312959oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3491705371106183"
+    },
+    {
+      "title": "深度使用 iPhone 17 Pro 后，我发现它变化最大的不只是外观……",
+      "summary": "不知道今年入手新 iPhone 的你，选择是什么。",
+      "category": "科技",
+      "theme": "王者苹果？",
+      "publishTime": 1759390065109,
+      "author": "少数派",
+      "image": "https://img.36krcdn.com/hsossms/20251002/v2_10519dae3cbb4a8fbed1e8604c2c4906@000000@ai_oswg287272oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3491548189367424"
+    },
+    {
+      "title": "私藏8部电影，帮你攒满治愈与力量（附观影链接）",
+      "summary": "我为大家整理了8部私藏电影，希望你在观看时，能在光影里卸下疲惫，收获属于这个假期的治愈与力量。",
+      "category": "消费",
+      "theme": "文娱直播新动向",
+      "publishTime": 1759390021585,
+      "author": "艾菲的理想",
+      "image": "https://img.36krcdn.com/hsossms/20251002/v2_be8bd8168cfd42209ed14006b193cc93@000000@ai_oswg343834oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3491558713007240"
+    },
+    {
+      "title": "90后女生骗走投行10亿",
+      "summary": "庭审中，Javice落泪承认错误：“这是我一生都将后悔的决定。”",
+      "category": "科技",
+      "theme": "创投圈秘事",
+      "publishTime": 1759389693331,
+      "author": "投资界",
+      "image": "https://img.36krcdn.com/hsossms/20251002/v2_1e8c39c76f164c4b929234401607b5c7@576620215@ai_oswg1124856oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3491701250366592"
+    },
+    {
+      "title": "Sora 2数手指翻车，奥特曼成第一批“受害者”，被AI玩成最惨打工人",
+      "summary": "奥特曼大型社死现场。",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1759389023080,
+      "author": "机器之心",
+      "image": "https://img.36krcdn.com/hsossms/20251002/v2_a0ce133b5b7b4c8b871f6011674c2e77@000000@ai_oswg62028oswg1080oswg460_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3491663208242309"
+    },
+    {
+      "title": "你买的游戏股，还会涨吗？",
+      "summary": "看得见的希望。",
+      "category": "消费",
+      "theme": "游戏圈大事件",
+      "publishTime": 1759385372718,
+      "author": "游戏葡萄",
+      "image": "https://img.36krcdn.com/hsossms/20251002/v2_45b617cf83014b6382879d2248f2d74a@000000@ai_oswg324441oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3491618004327301"
+    },
+    {
+      "title": "OpenAI 卖货做视频，Anthropic 专心写代码，谁能赢？",
+      "summary": "两家公司，两种路线，通向同样的目标吗？",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1759378328276,
+      "author": "极客公园",
+      "image": "https://img.36krcdn.com/hsossms/20251002/v2_dc9f7febce7b491c8406cf84dcabd9cd@000000@ai_oswg329111oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3491528761236611"
+    },
+    {
+      "title": "17对17，小米要将苹果“斩于马下”？",
+      "summary": "超越苹果不能只靠名字和价格。",
+      "category": "科技",
+      "theme": "雷军的小米",
+      "publishTime": 1759378050442,
+      "author": "首席商业评论",
+      "image": "https://img.36krcdn.com/hsossms/20251002/v2_3624df117fe5481f8d5a55c88238787f@000000@ai_oswg383947oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3491524549516165"
+    },
+    {
+      "title": "“中国版美敦力”开始了新故事",
+      "summary": "一笔“产业价值发现”的战略投资。",
+      "category": "推荐",
+      "theme": "医疗健康",
+      "publishTime": 1759376641367,
+      "author": "36氪的朋友们",
+      "image": "https://img.36krcdn.com/hsossms/20251002/v2_8e19c93b56224f0cb736a7934ee48b43@000000@ai_oswg350021oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3491379919526793"
+    },
+    {
+      "title": "天大，靠VC出圈",
+      "summary": "天大校友，排队IPO。",
+      "category": "科技",
+      "theme": "创投圈秘事",
+      "publishTime": 1759372239038,
+      "author": "融资中国",
+      "image": "https://img.36krcdn.com/hsossms/20251002/v2_997a38daada04da18d49ffc2ee68d2bc@000000@ai_oswg385985oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3491413665930375"
+    },
+    {
+      "title": "这届年轻人，趁着长假去“清修”",
+      "summary": "逃离大厂，上山修养",
+      "category": "职场",
+      "theme": "年轻人啊",
+      "publishTime": 1759371876334,
+      "author": "豹变",
+      "image": "https://img.36krcdn.com/hsossms/20251002/v2_df98b69a915f4916a2506a7324490124@000000@ai_oswg405890oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3491422869363593"
+    },
+    {
+      "title": "第一批“白人度假”的中产，已经后悔了",
+      "summary": "躺平旅游三件套，杀疯了",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1759367989762,
+      "author": "凤凰周刊",
+      "image": "https://img.36krcdn.com/hsossms/20251002/v2_00042c6e99424642a1bc0e93ee23b68a@576620215@ai_oswg1160952oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3491351244151939"
+    },
+    {
+      "title": "国庆档差到被《731》抢戏",
+      "summary": "差到不能看",
+      "category": "消费",
+      "theme": "文娱直播新动向",
+      "publishTime": 1759367588673,
+      "author": "犀牛娱乐",
+      "image": "https://img.36krcdn.com/hsossms/20251001/v2_c21165d085b2488c9d76d3066c7787be@000000@ai_oswg307841oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3490687346727813"
+    },
+    {
+      "title": "AI巨头的奶妈局",
+      "summary": "这场AI算力大战局，谁能笑到最后？",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1759367404915,
+      "author": "王智远",
+      "image": "https://img.36krcdn.com/hsossms/20251002/v2_eef51a93ce0f49ddbca0e3e3c82f1342@000000@ai_oswg355982oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3491354017127560"
+    },
+    {
+      "title": "把我的第一次日本旅行，完全交给AI是什么体验？",
+      "summary": "AI 能成为合格的旅行搭子了吗？",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1759367261939,
+      "author": "极客公园",
+      "image": "https://img.36krcdn.com/hsossms/20251002/v2_c4cfd6adbef94924ac73607dc4609705@576620215_oswg239739oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3490467939031945"
+    },
+    {
+      "title": "猪猪侠的“破亿”执念：一个20年IP的票房突围",
+      "summary": "作为猪猪侠IP的20周年电影，团队决定新作从“亲子向”转型“全龄向”。",
+      "category": "消费",
+      "theme": "文娱直播新动向",
+      "publishTime": 1759366857577,
+      "author": "中国企业家杂志",
+      "image": "https://img.36krcdn.com/hsossms/20251002/v2_754c9c0afdd34d1f914833b76072f5a1@576620215_oswg123176oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3491320046738311"
+    },
+    {
+      "title": "我花了62年才学到的10个人生教训",
+      "summary": "践行才是改变一切的关键",
+      "category": "推荐",
+      "theme": "神译局",
+      "publishTime": 1759363202808,
+      "author": "神译局",
+      "image": "https://img.36krcdn.com/hsossms/20250909/v2_04f2b4ebc4b94f0aba18f64cec52a379@1694@ai_oswg944157oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3458267540379015"
+    }
+  ]
+}
