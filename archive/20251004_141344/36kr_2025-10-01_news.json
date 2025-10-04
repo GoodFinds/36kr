@@ -1,0 +1,223 @@
+{
+  "date": "2025-10-01",
+  "total": 21,
+  "categories": {
+    "职场": 2,
+    "消费": 5,
+    "科技": 5,
+    "推荐": 6,
+    "城市": 3
+  },
+  "news": [
+    {
+      "title": "国庆假期，推荐你看看这15本书",
+      "summary": "读书是成本最低的投资，推荐15本经典书籍。",
+      "category": "职场",
+      "theme": "知识大爆炸",
+      "publishTime": 1759314853000,
+      "author": "张丽俊Cherry",
+      "image": "https://img.36krcdn.com/hsossms/20251001/v2_d04e7fcc8e964be4a670cde71dcc890f@5782935_oswg181949oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3489926499440771"
+    },
+    {
+      "title": "番茄与阅文，跨入不同的河流",
+      "summary": "起点是书架，番茄是书城",
+      "category": "消费",
+      "theme": "文娱直播新动向",
+      "publishTime": 1759312574000,
+      "author": "光子星球",
+      "image": "https://img.36krcdn.com/hsossms/20251001/v2_b9ef1fe79c71479f9c8a1a9c344e34a1@1200352198_oswg799112oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3489327251201161"
+    },
+    {
+      "title": "黄仁勋最新讲话：下一个10年，你的工作方式会被彻底改变",
+      "summary": "未来的智能化趋势，都有哪些？",
+      "category": "职场",
+      "theme": "干货技能GET",
+      "publishTime": 1759309011000,
+      "author": "笔记侠",
+      "image": "https://img.36krcdn.com/hsossms/20250930/v2_6e31853cd72c49248fde224c4471a786@000000@ai_oswg332867oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3489257268763783"
+    },
+    {
+      "title": "前置仓变形记",
+      "summary": "前置仓正在进行着自我突围。",
+      "category": "消费",
+      "theme": "关于消费的一切",
+      "publishTime": 1759304950000,
+      "author": "天机小助手",
+      "image": "https://img.36krcdn.com/hsossms/20250930/v2_5af652d2ac3c4af8aea0bd61c3f957df@000000@ai_oswg293575oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3489206643743621"
+    },
+    {
+      "title": "字节信徒MiniMax",
+      "summary": "大厂进攻下，AI公司的突围",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1759298591000,
+      "author": "光子星球",
+      "image": "https://img.36krcdn.com/hsossms/20250930/v2_407829e98c574bd5966bf25e89283a88@000000@ai_oswg370863oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3489327191186569"
+    },
+    {
+      "title": "12天超长“拼好假”，黄金周的钱都进了谁的口袋？",
+      "summary": "携程独大，京东抖音入局OTA。",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1759297912148,
+      "author": "36氪透视图",
+      "image": "https://img.36krcdn.com/hsossms/20251001/v2_60985987322342bba56c6a90a5960c18@1200352198@ai_oswg1167450oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3490215871699844"
+    },
+    {
+      "title": "不吃月饼的年轻人，都去抢喜茶的“月饼奶茶”了？",
+      "summary": "过传统节日有了新仪式",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1759295705000,
+      "author": "咖门",
+      "image": "https://img.36krcdn.com/hsossms/20251001/v2_53a1ce129c214d5d8f7189e8dbfe9291@000000@ai_oswg238699oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3489960901467016"
+    },
+    {
+      "title": "湖南人的成年礼，为什么是“流放岭南”？",
+      "summary": "广东与湖南之间，开始玩“梗”了。",
+      "category": "城市",
+      "theme": "未来地产",
+      "publishTime": 1759294367915,
+      "author": "未来城不落",
+      "image": "https://img.36krcdn.com/hsossms/20251001/v2_44ec419d03634a17bedff83c19982ce6@6208419@ai_oswg947538oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3490155440053382"
+    },
+    {
+      "title": "不用人挤人，新疆入门级赏秋地风景绝了",
+      "summary": "视觉和味觉的双重盛宴。",
+      "category": "城市",
+      "theme": "未来地产",
+      "publishTime": 1759294060714,
+      "author": "新周刊",
+      "image": "https://img.36krcdn.com/hsossms/20251001/v2_503004b00c214e19aa6eccfab9a91588@6208419@ai_oswg1111456oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3490148860124040"
+    },
+    {
+      "title": "不甘做“高教洼地”，这个经济大省有多拼？",
+      "summary": "不能只有一艘“航母\\x26quot;",
+      "category": "城市",
+      "theme": "未来地产",
+      "publishTime": 1759293420679,
+      "author": "城市进化论",
+      "image": "https://img.36krcdn.com/hsossms/20251001/v2_f39c87c3163149fa84260e75a5bb71de@6208419_oswg976154oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3490141055310985"
+    },
+    {
+      "title": "开启预售8天才破亿，《震耳欲聋》《刺小2》谁能领跑“国庆档”？",
+      "summary": "国庆档的战局已经打响",
+      "category": "消费",
+      "theme": "文娱直播新动向",
+      "publishTime": 1759293060000,
+      "author": "娱乐独角兽",
+      "image": "https://img.36krcdn.com/hsossms/20250930/v2_6d026346a8b7478eb690255d0b044626@000000@ai_oswg126174oswg1080oswg460_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3489271684356999"
+    },
+    {
+      "title": "吃完21块大厂月饼，我们选出了2025年中秋“饼王”",
+      "summary": "想不到吧，我们离百年赛事品牌（……）又近了一步。",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1759291003000,
+      "author": "刺猬公社",
+      "image": "https://img.36krcdn.com/hsossms/20250930/v2_a8ecf3c3cb7c43c1a4c69f5d019171fd@000000@ai_oswg321504oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3489216673193093"
+    },
+    {
+      "title": "刚刚，苹果买了家芯片公司",
+      "summary": "半导体行业观察：苹果当前在芯片方面实力显著。但翻看苹果的发展，苹果在2008年收购PA semi是该公司芯片命运的转折点。",
+      "category": "科技",
+      "theme": "王者苹果？",
+      "publishTime": 1759289551000,
+      "author": "半导体行业观察",
+      "image": "https://img.36krcdn.com/hsossms/20251001/v2_5c6d8c81e94e4413aa448ca0b91527b4@000000@ai_oswg222787oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3489907211688840"
+    },
+    {
+      "title": "火了600年的真顶流，迎来了“百岁生日”",
+      "summary": "经历了漫长岁月的故宫，在这个时代，热度依然持续走高。",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1759286721000,
+      "author": "新周刊",
+      "image": "https://img.36krcdn.com/hsossms/20251001/v2_b82b69e0fb1443d3938c1c6358913b9d@000000@ai_oswg402355oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3489908342463617"
+    },
+    {
+      "title": "快手逃离“死亡螺旋”",
+      "summary": "换人如同转舵，得重新校准方向",
+      "category": "科技",
+      "theme": "快手和它的老铁们",
+      "publishTime": 1759285629000,
+      "author": "光子星球",
+      "image": "https://img.36krcdn.com/hsossms/20250930/v2_687d40612c12485abbdf4cd2a9bf6aaf@000000@ai_oswg445344oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3489327070747784"
+    },
+    {
+      "title": "淘宝闪购，三城开“团”",
+      "summary": "三城试炼与全国野望",
+      "category": "推荐",
+      "theme": "关于消费的一切",
+      "publishTime": 1759284000000,
+      "author": "雪豹财经社",
+      "image": "https://img.36krcdn.com/hsossms/20251001/v2_2d737971643348afadbb8ff0d9e5cbca@1200352198_oswg1066910oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3489909326683273"
+    },
+    {
+      "title": "黑马“争座位”，国庆档的宣发逻辑换了？",
+      "summary": "口碑成了国庆档的通行证",
+      "category": "消费",
+      "theme": "文娱直播新动向",
+      "publishTime": 1759283530533,
+      "author": "犀牛娱乐",
+      "image": "https://img.36krcdn.com/hsossms/20250930/v2_9c592450eee042e3a8821e317fdf5634@000000@ai_oswg354208oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "url": "https://36kr.com/p/3489226823031943"
+    },
+    {
+      "title": "13部影片混战国庆档，谁是黑马？",
+      "summary": "类型多样、黑马难定。",
+      "category": "消费",
+      "theme": "文娱直播新动向",
+      "publishTime": 1759282419605,
+      "author": "定焦One",
+      "image": "https://img.36krcdn.com/hsossms/20251001/v2_6a76bdd7d40341e38ac99a9bcda36240@1200352198_oswg847241oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3489920340220801"
+    },
+    {
+      "title": "刚刚，OpenAI Sora 2重磅登场！首个APP上线，或将成为AI时代新TikTok",
+      "summary": "AI视频ChatGPT时刻来了",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1759281161665,
+      "author": "新智元",
+      "image": "https://img.36krcdn.com/hsossms/20251001/v2_707da89196fb4c5781e08ec7b2ab53a3@000000_oswg118996oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3489923456179073"
+    },
+    {
+      "title": "用AI改造传统出行，这家公司推出万元级智能三轮车 | 涌现NewThings",
+      "summary": "《涌现NewThings》是我们关注新兴AI应用的一档新栏目，如果你也是文生图/视频、情感陪伴、Coding、智能硬件等等AI应用创业者，只要你够新、够炫、够好玩，都欢迎添加文末作者微信与我们联系。",
+      "category": "科技",
+      "theme": "人工智能·AI",
+      "publishTime": 1759280400000,
+      "author": "富充",
+      "image": "https://img.36krcdn.com/hsossms/20251001/v2_b9ef11dcb7ad4dbc92a02c3797a514c3@6227116_oswg1193107oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "url": "https://36kr.com/p/3489786463214721"
+    },
+    {
+      "title": "想要培养更强的意志力？试试海豹突击队的40%法则",
+      "summary": "思想往往比身体先感到疲惫。",
+      "category": "推荐",
+      "theme": "神译局",
+      "publishTime": 1759276817854,
+      "author": "神译局",
+      "image": "https://img.36krcdn.com/hsossms/20250827/v2_c871465af1b945e5b0ede08140f4ce9f@5382598_oswg76992oswg600oswg400_img_png",
+      "url": "https://36kr.com/p/3441031916344710"
+    }
+  ]
+}
